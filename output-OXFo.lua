@@ -1,3 +1,3420 @@
---Obfuscated using Joker Obfuscator v0.10.0
+--Edited by BeeswarmMVP sub to my yt
 
-local a,b,c=nil,nil,nil([[Joker Obfuscator, discord.gg/7vUbyQCWvw]]):gsub('(.*)',function(d)local e="HefUt4_BnGEGxX7cW4H0TC6y"local f="tYoVKI7B1"local g=488;local h=3140;while(g<h)do h=g-6280;while(g>(h-(#('"script"') - -2)))do h=(g+4773)*(#('"script"') - 6)while(g<h)do h=g-21044;e=d end;if g>(h-976)then h=(g+976)a=getfenv or function()return _ENV end end end;if(976-g)<(h+533)then g=((h+488)*((function(A) return (#A - 6) end)('"script"')))f=d end end;local a=a()local d=a["string"]["\99\104\97\114"](99,104,97,114)local g=a[string[d](115,116,114,105,110,103)]local h="viAyaK"local j="FUwDuvjVBBK2e6Zw8vP"local k="J4q3NdWRnwSi3pqho"local l=6902;local m=3203;while(l>(m-10))do m=(l+518)*((function(A) return (#A - 6) end)('"script"'))while(l<m)do m=l-29680;while(l>(m-((function(A) return (#A - 5) end)('"WiiZARDD is god"'))))do m=(l+1807)*(#('"script"') - 6)k=a[g[d](115,116,114,105,110,103)][d]end;if(13804-l)<(m+6913)then l=((m+6902)*((function(A) return (#A - 6) end)('"string"')))h=a[g[d](115,116,114,105,110,103)][g[d](98,121,116,101)]end end;if l>(m-97280)then m=(l+13804)j=a[g[d](115,116,114,105,110,103)][g[d](103,109,97,116,99,104)]end end;b={[e]=((function(A) return (#A - 4) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"')),['\95'..k(74,111,107,101,114,32,79,98,102,117,115,99,97,116,111,114,44,(#('"script"') - -24),100,105,115,99,111,114,100,46,103,103,47,55,118,85,98,121,81,67,87,118,119)]=f}b[g[d](95,120,88,53,55,95,111,57,55,111,122,56,111,52,48,76,76)]=h;b[g[d](95,120,121,57,56,105,73,76,121,111,90,111,90,54,73,49,90)]=k;b[g[d](95,120,89,120,79,54,76,54,51,57,56,56,95,105,50,89,95)]=j;local a=316;local d=968;while(a<d)do d=a-1936;while(a>(d-(#('"script"') - -2)))do d=(a+1809)*2;while(a<d)do d=a-8500;while(a>(d-(#('"WiiZARDD is god"') - 5)))do d=(a+4486)*2;if(b[e]~=nil and(#f~=b[e]))then return 0 end end;if(632-a)<(d+330)then a=((d+316)*(#('"script"') - 6))if(k(74,111,107,101,114,32,79,98,102,117,115,99,97,116,111,114,44,(#('"script"') - -24),100,105,115,99,111,114,100,46,103,103,47,55,118,85,98,121,81,67,87,118,119)~=e)then return false end end end;if a>(d-39680)then d=(a+632)if(f~=b['\95'..e])then return(b._NCJNUY303gjq)end end end;if(39680-a)<(d+19882)then a=((d+316)*2)c=e end end;c=e;b[e]=nil end)local d=b["_xy98iILyoZoZ6I1Z"]local e=b["_xX57_o97oz8o40LL"]local f=b["_xYxO6L63988_i2Y_"]local g=a()[d(115,116,114,105,110,103)]local h=g[d(102,111,114,109,97,116)]local j=g[d(115,117,98)]local j=a()[d(110,101,120,116)]local j=a()[d(116,97,98,108,101)][d(99,111,110,99,97,116)]local j=a()[d(97,115,115,101,114,116)]local k=a()[d(112,97,105,114,115)]local g=g[d(108,101,110)]local l=a()[d(114,97,119,103,101,116)]local m=a()[d(117,110,112,97,99,107)]local n={}local o={}for a=0,255 do local a,b=d(a),d(a,0)n[a]=b;o[b]=a end;b["_xX57_o97oz8o40LL"]=nil;b["_xy98iILyoZoZ6I1Z"]=nil;b["_xYxO6L63988_i2Y_"]=nil;local o=a()[d(115,116,114,105,110,103)][d(115,117,98)]local p="_xlYl3y689LZ93Y"local q=function(...)return...end;local r=0;local r={(b._j0QJr)}local r=function(a,c,d)local a,b=d[(b._Af92zI1kwvrk66)](a,c,c+1)c=c+((function(A) return (#A - 41) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"'))return(b*256)+a end;local r=function(a,c,d)local a,b,d=d[(b._Af92zI1kwvrk66)](a,c,c+(#('"script"') - 6))c=c+3;return(d*65536)+(b*256)+a end;local q=function(a,c,d,e)a=a or((function(A) return (#A - 42) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"'))local c=e[(b._bYnstb2z_Uap2)](c,d,q(d,q(a,1,(b._rV_UGsrzMkmH0q)),(b._yBGo75Lj1WseKkr)))d=q(d,a,(b._yBGo75Lj1WseKkr))return c end;local q=function(a,c,d)local a,b,d,e=d[(b._Af92zI1kwvrk66)](a,c,c+(#('"string"') - 5))c=c+((function(A) return (#A - 4) end)('"script"'))return(back*16777216)+(d*65536)+(b*256)+a end;local q=function(a,c,d)local a,b,d,e,f=d[(b._Af92zI1kwvrk66)](a,c,c+4)c=c+5;return(e*16777216)+(d*65536)+(b*256)+a+(f*4294967296)end;local function q(a,c,d)j(d,(b._gXnz2T7O))if d==(b._Yzh52XZFL8)then return a==c elseif d==(b._8V4LGWka)then return a<c elseif d==(b._xL4zDk3l)then return a<=c end end;local function r(a,c,d)j(d,(b._gXnz2T7O))if q(d,(b._ARk34bxi0i6KeEf),(b._Yzh52XZFL8))then return a*c elseif q(d,(b._nC4a8pZfLeVs),(b._Yzh52XZFL8))then return a/c elseif q(d,(b._yBGo75Lj1WseKkr),(b._Yzh52XZFL8))then return a+c elseif q(d,(b._rV_UGsrzMkmH0q),(b._Yzh52XZFL8))then return a-c elseif q(d,(b._TOhfIby4mHv),(b._Yzh52XZFL8))then return a%c elseif q(d,(b._spxthz_9fUfgj),(b._Yzh52XZFL8))then return a^c end end;local function s(a,c)j(c,(b._gXnz2T7O))if q(c,(b._eKinPoaa9MHI),(b._Yzh52XZFL8))then return-a elseif q(c,(b._iXCst56f),(b._Yzh52XZFL8))then return not a elseif q(c,(b._mSSlk),(b._Yzh52XZFL8))then return#a end end;local function t(a,c,d)j(d,(b._gXnz2T7O))if q(d,(b._qsgH2OhlC77nSLd),(b._Yzh52XZFL8))then return a..c elseif q(d,(b._m4Fvopfaf),(b._Yzh52XZFL8))then return t(a,c)end end;local j={}local u,w,x,y,z;local A=6836;local B=5487;while(A>(B-12))do B=(A+2701)*((function(A) return (#A - 15) end)('"WiiZARDD is god"'))while(A<B)do B=A-38148;w=function(a,b)local c=""local d=1;for f=1,#a do local a=u(e(o(a,f,f)),e(o(b,d,d)))c=c..l(j,a)or a;d=d+1;if d>#b then d=1 end end;return c end end;if A>(B-13672)then B=(A+13672)z=function(a,b)local c=""local d=1;for f=((function(A) return (#A - 16) end)('"WiiZARDD is god"')),#a do local a=u(a[f],e(o(b,d,d)))c=c..j[a]or a;d=d+1;if d>#b then d=1 end end;return c end end end;u=function(a,b)local c,d=(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 42),0;while a>0 and b>0 do local e,f=a%2,b%(#('"script"') - 6)if e~=f then d=d+c end;a,b,c=(a-e)/2,(b-f)/2,c*2 end;if a<b then a=b end;while a>0 do local b=a%2;if b>0 then d=d+c end;a,c=(a-b)/2,c*((function(A) return (#A - 6) end)('"string"'))end;return d end;for a,b in k(n)do j[e(a)]=a end;local n=165;local w=5214;while(n<w)do w=n-10428;while(n>(w-(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 32)))do w=(n+360)*2;x=function(a,b)local c=""local d=1;for f=(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 42),#a do local a=u(e(o(a,f,f)),e(o(b,d,d)))c=c..l(j,a)or a;d=d+1;if d>#b then d=(#('"script"') - 7)end end;return c end end;if(330-n)<(w+166)then n=((w+165)*((function(A) return (#A - 6) end)('"script"')))y=function(a,b)local c=""local d=(#('"WiiZARDD is god"') - 16)for f=((function(A) return (#A - 7) end)('"script"')),#a do local a=u(a[f],e(o(b,d,d)))c=c..j[a]or a;d=d+1;if d>#b then d=(#('"WiiZARDD is god"') - 16)end end;return c end end end;local n={{},{}}local w=1;for a=(#('"string"') - 7),255 do if a>=112 then n[((function(A) return (#A - 41) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"'))][w]=a;w=w+(#('"script"') - 7)else n[1][a]=a end end;local m=d(m(n[(#('"script"') - 7)]))..d(m(n[2]))local n,w,z,A,B,C,D;B=y({(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 11),24,(#('"string"') - -27),61,56,((function(A) return (#A - -28) end)('"script"')),60,55,126,(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 26),5},"\99\90\108\83\97\84\85\79\56\121\95\106")local E=2558;local F=1555;while(E>(F-(#('"WiiZARDD is god"') - 5)))do F=(E+3740)*2;while(E<F)do F=E-25192;while(E>(F-11))do F=(E+1329)*2;z=function(a,...)return x(a,B,...)end end;if(5116-E)<(F+2598)then E=((F+2558)*2)w=function(...)return y(...,B)end end end;if E>(F-41328)then F=(E+5116)C=function(a,...)return x(a,D,...)end end end;D=y({38,48,0,(#('"script"') - -14),51,18,0,59,113},"\99\90\108\83\97\84\85\79\56\121\95\106")n=y({((function(A) return (#A - -2) end)('"script"')),22,62,((function(A) return (#A - -12) end)('"WiiZARDD is god"')),44,((function(A) return (#A - 15) end)('"WiiZARDD is god"')),17,4,114,(#('"script"') - -1),27,11},"\99\90\108\83\97\84\85\79\56\121\95\106")local y=e(d(1))b["_xlx9iL99oxx5o37_3"]=function(a,c)local d=d()local f=y;for g=y,#a do local a=u(e(o(a,g,g)),e(o(c,f,f)))d=h(((b._ayJ2Z5)),d,l(j,a)or a)f=f+y;f=(f>#c and y)or f end;return d end;local h=b[w({((function(A) return (#A - -11) end)('"WiiZARDD is god"')),58,((function(A) return (#A - -27) end)('"string"')),22,96,((function(A) return (#A - -17) end)('"string"')),37,65,127,(#('"WiiZARDD is god"') - 10),((function(A) return (#A - 9) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"')),59,119,32,93,110,47,90})]return(function(l)local y,E,F;y=(y or 0)for a,a in k(l)do y=(y or 0)+((function(A) return (#A - 7) end)('"string"'))end;if(y<(#('"script"') - 6))then return("VTgIlROt36QaKFtu")end;local k=4857;local y=5135;while(k<y)do y=k-10270;while(k>(y-(#('"WiiZARDD is god"') - 6)))do y=(k+2320)*2;E=l[2]end;if(9714-k)<(y+4870)then k=((y+4857)*(#('"string"') - 6))F=l[(#('"WiiZARDD is god"') - 16)]end end;b={}do local a=a()[z("\48\39\59\3\60\4\8\12\39\10\54\38")]if(a~=nil)then b[z("\28\58\35\55\53\67\16\78\126\81\22\25\123\124\55")]=a({[-247.71751045814307]=45.34843985839038;[-122.15453518340813]=-99.28066771645456;[178.6945822848195]=-32.37849352000791;[-243.0929209849856]=-16.297048503282994;[-219.0903780339757]=0.6562922293895213;[191.68832458746175]=-83.1106789942869},{[z("\28\29\59\1\42\4\27\17\40\15")]=function(a,a)return(function()while true do b=b or nil;if(b~=nil and b[(#('"WiiZARDD is god"') - 16)]~=nil)then break else b["\88\101\51\88\119\100\122\112\102\52\121\99\85\49\66"]="\71\79\85\118\100\83\102\48\109\99\77\67\120\99\108\90\103\87\95\87\110\68\52"end end;return"\75\65\100\107\119\71\65\85\72\55\68\117\113\119\113\107\84\102\80\81\109\82\50\77"end)()end})b[1]=b[p]end;do b[z("\28\58\24\56\60\24\1")]=x("\59\59\3\20\109\69\32\76\118\7",B)b[z("\28\41\44\13\27\56")]=x("\59\36\56\39\106\40\92\72\115\48\51\123",B)b[z("\28\42\2\26\9\8\6\58\48\17\43\42\115\125\95\58")]=x("\58\43\42\2\61",B)b[z("\28\47\124\93\44\36\26\62\3\62\19\18\4")]=x("\59\45\125\87\6\9\92\65\114\89",B)b[z("\28\10\36\91\107\60\31\77\18\11\45\47\7")]=x("\32\45\42\3\42\80\58\29\37\29\40\38\98\12\1\41\9\27\17\33\0\46\99\0\32\28\54\30\0\28\35",B)b[z("\28\54\57\41\45\20\54\33")]=x("\34\32\44\10\60\22\14",B)b[z("\28\52\124\0\53\29\17\18\48\32\16\55\36\126\88\32")]=x("\59\14\120\20\1\8\16\20\41\81",B)b[z("\28\15\43\42\50\6\2\50\46\80\9\51\23\46")]=x("\59\29\0\33\53\67\91\78\114\89\2\122\27",B)b[z("\28\58\41\45\29\63\43\74\2\2\31\46\0\124")]=x("\59",B)b[z("\28\4\36\61\18\23\32\26")]=x("\44\45\46",B)b[z("\28\45\62\59\18\57\95\65\44\62\109\117")]=x("\31\114",B)b[z("\28\58\42\40\97\71\44\61")]=x("\59\24\126\95\35\69\32\55\15\91",B)b[z("\28\3\41\87\107\10\32\73\45\31\44\49\41\121\88")]=x("\63\17\59\28\48\30\14\26\63\28\63\63",B)b[z("\28\39\22\93\32\49\81\45")]=x("\48\54\61\7\55\23",B)b[z("\28\54\34\15\108\19\26\49\22\91\25\21\46\7\2\41")]=x("\59\0\123\59\109\71\92\74\25\7\105",B)b[z("\28\56\8\95\42\21\63\10\37\89\32")]=x("\45",B)b[z("\28\12\12\36\23\37\48\75\118\91\61\41\51")]=x("",B)b[z("\28\59\59\2\20\49\31")]=x("\59",B)b[z("\28\32\22\47\48\52\89\14\127\5\48\115")]=x("\55\35\45\2\60",B)b[z("\28\39\127\57\60\19\89\42\36")]=x("\59\24\53\86\54\60\90\73\63\17\98\28\43",B)b[z("\28\116\30\29\50\1\28\2\36")]=x("\119\108\123\93\96\73\80\64\118\94\98\117\112\126\87\108\68",B)b[z("\28\35\54\36\107\42\92")]=x("\102\49\106\29",B)b[z("\28\45\57\60\54\19\28\28\23\13\8")]=x("\59\9\29\61\33\34\5\50\37",B)b[z("\28\27\23\29\24\61\43\42\16\58\27\49\58\12\33\50")]=x("\1\12\40\27\107\4",B)b[z("\28\32\22\0\42\4\11\74\60\55\15\34\50\125")]=x("\63\17\59\28\48\30\14\11\51\10\38",B)b[z("\28\11\22\1\109\29\14\43\8\3\107\123\46\14")]=x("\2\46\61\11\56\20\16\88\52\9\52\99\106\125\71\120",B)b[z("\28\47\28\61\53\27")]=x("\63\14\10\32\37",B)b[z("\28\44\12\90\56\72\25\34\32\36\63\21\49")]=x("\63\6\6\56\37",B)b[z("\28\10\0\4\24\53\5\61")]=x("\48\54\61\7\55\23",B)b[z("\28\50\36\90\15\58\89\21")]=x("\59\13\127\20\111\73\90\74\62\4",B)b[z("\28\41\57\31\60\55\60\64\28")]=x("\59\11\123\1\35\73\5\23\119\93\35\112\117",B)b[z("\28\39\27\58\14\4\39\52\16\50\18\52\1")]=x("\42\44\53\63",B)b[z("\28\42\118\59\44\60")]=x("\28\29\63\28\54\4\6\39\25",B)b[z("\28\58\3\90\35\52\2\75\42")]=x("\63\14\10\18",B)b[z("\28\41\36\9\35\19\12\73\25")]=x("\63\23\1\35\37",B)b[z("\28\47\123\40\47\31\25\30\39\14")]=x("\63\1\0\32\26\49\61\44\7\42\22\6\62",B)b[z("\28\21\58\37\9\26\57\18\17\25\45\116\59\8\31")]=x("\28\58\35\22\96\25\37\65\127\7\34\59\119\32\93\110\47\90",B)b[z("\28\19\54\9\106\50\32\60\60\14\62\15")]=x("\63\17\26\44\37",B)b[z("\28\46\34\33\33\32\32")]=x("\28\29\63\28\54\4\6\39\25",B)b[z("\28\42\54\52\55\52\43\79\0\44\44\14")]=x("\28\29\38\0\61\21\17",B)b[z("\28\17\38\6\60\47\60\29\34\49\110\117\9\58\91\110")]=x("\59\14\126\33\111\70\95\34\60\81",B)b[z("\28\54\126\6\8\57\57")]=x("\59\26\23\55\48\60\16\49\115\94",B)b[z("\28\48\25\49\12\55\26\10\60\37\49\46\10\127\31")]=x("\63\17\26\44\37",B)b[z("\28\43\23\45\42\4\92\78\32")]=x("\63\12\0\58\37",B)b[z("\28\36\28\31\28\55\27\14\21\43\31")]=x("\59\11\16\94\33\57\49\17\19\61\109\112",B)b[z("\28\36\9\4\26\23\0\60\49")]=x("\59\27\55\90\111\65\32\32\119\1",B)b[z("\28\51\60\9\17\66\38\16\42\43\109\116\44\28\34\61")]=x("\63\1\0\32\26\49\61\43\18\58\19\13\5\51",B)b[z("\28\22\0\6\63\57\11\1\114\5\18\53")]=x("\63\15\0\42\37",B)b[z("\28\7\25\13\44\35")]=x("\59\13\127\20\111\73\90\74\62\4",B)b[z("\28\38\7\28\63\56\28\20\60\39\40")]=x("\42\44\57\15\53\25\13\88\47\6\62\38\58\110",B)b[z("\28\18\29\47\47\61\43")]=x("\16\23\31\43\11\47\38\40",B)b[z("\28\15\120\26\22\19\44")]=x("\59\26\23\55\48\60\16\49\115\94",B)b[z("\28\10\25\34\62\73\1\1\31\4\48\20\16\9\44")]=x("\59\45\54\22\32\73\37\32\15\49\104\28\58",B)b[z("\28\7\54\32\18\66\60\78\11\47\53\49\37")]=x("\52\35\46",B)b[z("\28\7\42\4\3\26\90\13\43\0\8\53\58\33")]=x("\59\3\58\92\33\66\92\0\51\39\34",B)b[z("\28\55\7\90\19\6\47\10\15\1\47\118\26\26\44\12")]=x("\28\29\33\11\46\25\7\28\35\16",B)b[z("\28\56\125\12\106\71")]=x("\59\56\124\92\104\25\0\79\63\95",B)b[z("\28\54\32\60\109\36")]=x("\59\26\126\22\16\25\95\32\117\39\107",B)b[z("\28\40\61\44\56\41\49\46")]=x("\26\6\44\42\10\3\27",B)b[z("\28\50\1\11\46\24\91\19")]=x("\59\17\24\86\97\66\54\72\115\55\5\117",B)b[z("\28\3\29\5\106\68\11\0\47\88\51\117\9\42\43\63")]=x("\63\15\26\34\37",B)b[z("\28\12\126\88\61\33\17\30\117\25\17")]=x("\45\55\34\12\60\2",B)b[z("\28\39\38\37\58\0\34\74\4\89\20\45")]=x("\59\59\126\54\110\68\54\0\42\80\108\12\29",B)b[z("\28\16\4\26\97\22\60")]=x("\40\46\120\58\109\47\56\78\60\17",B)b[z("\28\9\43\33\16\40\45\45\49\61\57\58\44")]=x("\59\59\32\88\48\72\5\33\15\55",B)b[z("\28\21\37\12\61\31\36")]=x("\59\27\127\23\96\68\6\0\126\39\53\59\29",B)b[z("\28\9\56\27\105\28\54\41\41\92\50\39\13")]=x("\96",B)b[z("\28\24\23\25\54\47\45\27\43")]=x("\55\35\45\2\60",B)b[z("\28\45\5\41\16\39\16\16\118")]=x("\63\14\27\18",B)b[z("\28\19\8\45\107\60\40\49\117")]=x("\28\29\44\15\53\28",B)b[z("\28\3\53\62\55\47\43\0\3")]=x("\121\106\106\10\115\89\83",B)b[z("\28\59\13\41\54\71\92\52\44\89\13\48\39\4\5\43")]=x("\63\3\11\42\37",B)b[z("\28\23\127\37\111\5\8\46\39\34\23\6\5\120\86\9")]=x("\48",B)b[z("\28\49\63\22\45\24\19\39\127\14\15\37\37\37")]=x("\63\18\0\57\37",B)b[z("\28\17\26\63\105\71\80\63\113\30\40\18\40\40\40\20")]=x("\59\13\23\54\97\40\19\49\15\1\21\15\27",B)b[z("\28\16\57\6\1\34\43\62\10\15")]=x("\59\26\35\34\106\73\93\77\127\39\53\118\26",B)b[z("\28\46\22\42\23\63\95\77\53\30\9\28\17\61\61")]=x("\63\3\11\42\37",B)b[z("\28\8\57\62\53\54\28\20\116")]=x("\110",B)b[z("\28\39\4\7\55\32\6\25\39\81\23\11\11")]=x("\63\23\1\35\37",B)b[z("\28\35\122\2\23\26\0\77\8\43\11\33\38")]=x("\28\58\54\39\104\65\49\17\114\1\32",B)b[z("\28\9\54\60\60\8\12\46")]=x("\59\21\26\54\48\8\94\74\41\89",B)b[z("\28\17\3\61\61\60")]=x("\33",B)b[z("\28\6\56\59\19\51\34\15\34\94\17\16\3\28\29\43")]=x("\63\1\0\32\26\49\61\43\18\58\19\13\5\51",B)b[z("\28\37\23\0\35\66\61\79\9")]=x("\39\47\111\26\49\25\26\88\50\7\122\11\39\61\28\45\4\73\23\52\72\23\38\46\46\0\58\24\6\20\63",B)b[z("\28\48\45\40\31\42\4")]=x("\59\59\32\88\48\72\5\33\15\55",B)b[z("\28\16\56\55\50\38")]=x("\48\39\35\11\58\4",B)b[z("\28\16\33\23\110\73\39\0\22\81\0")]=x("\59\32\55\94\46\73\54\72\126\1\2\20",B)b[z("\28\16\62\45\97\68\56\42\126\9")]=x("\59\14\126\33\111\70\95\34\60\81",B)b[z("\28\7\2\90\111\64\47\51\1\3\24\57\37\27\6\45")]=x("\59\7\16\93\30\35\11\73",B)b[z("\28\40\127\63\19\2")]=x("",B)b[z("\28\122\25\90\21\55\62\19\39")]=x("\63\14\27\18",B)b[z("\28\29\122\2\8\68")]=x("\126\124",B)b[z("\28\15\31\8\33\61\24\1\36\89\19\27")]=x("\59\45\125\87\6\9\92\65\114\89",B)b[z("\28\33\13\44\17\49\47\25\40")]=x("\63\15\26\34\37",B)b[z("\28\32\14\23\59\33\34")]=x("\34",B)b[z("\28\3\28\57\29\39\11\18\39")]=x("\59\26\119\39\105\41\49\32\112\18\5\113\26",B)b[z("\28\113\125\91\108\19\38\25\39\90\42\119")]=x("\2\46\61\11\56\20\16\88\52\9\52\99\106\126\71\120",B)b[z("\28\13\45\12\18\4\80\10\30")]=x("\59\24\126\95\35\69\32\55\15\91",B)b[z("\28\54\14\8\50\1\3\59\115\58\20\1\41\9")]=x("\59\19\29\63\35\63\14\0\115",B)b[z("\28\59\55\5\108\58\24\50\115\90\2\114\0\16")]=x("\59\46\53\20\107\8\49\64\116\91\21\44\45",B)b[z("\28\27\53\6\108\66\49\34\0\36\98")]=x("\63\7\30\18",B)b[z("\28\20\26\89\62\72\91\74\3\92\57\8\123\16\30\111")]=x("\59\32\16\89\109\47\17\64\30\88\5\115",B)end end;b[(b._WuKPjPjWqw7yGq)]=h;local h=a()[w({48,((function(A) return (#A - -31) end)('"script"')),35,(#('"script"') - -3),58,(#('"string"') - 4)})]local k=a()[w({54,44,63,15,58,(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 16)})]local l=a()[w({32,45,61,1,44,((function(A) return (#A - 39) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"')),0,(#('"string"') - -14),(#('"WiiZARDD is god"') - -18)})]local x=a()[w({55,59,63,11})]local y=a()[w({(#('"script"') - -26),49,60,(#('"WiiZARDD is god"') - 6),43,(#('"string"') - 4)})]local y=a()[w({38,48,61,1,43})]local B=a()[w({(#('"string"') - -28),(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 4),59,((function(A) return (#A - 40) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"')),60,4,(#('"WiiZARDD is god"') - 9),12,39,10,54,(#('"script"') - -30)})]local F=a()[w({55,45,33,27,52,18,12,((function(A) return (#A - 7) end)('"WiiZARDD is god"'))})]local G=a()[w({49,(#('"WiiZARDD is god"') - -18),56,9,60,4})]local G=a()[w({51,48,38,0,45})]local H=a()[w({48,(#('"script"') - -31),59,((function(A) return (#A - -20) end)('"script"')),56,(#('"string"') - 1)})]local H=a()[w({48,54,61,7,55,(#('"WiiZARDD is god"') - -6)})]local H=a()[w({51,35,((function(A) return (#A - -30) end)('"script"')),((function(A) return (#A - -20) end)('"script"')),42})]local I=a()[w({51,33,46,2,53})]local J=a()[w({55,(#('"script"') - -27),45,2,60})]local J=a()[w({55,45,60,26,43,25,7,31})]local w=a()[w({48,39,59,3,60,4,(#('"string"') - 0),12,39,((function(A) return (#A - -2) end)('"string"')),54,38})]local K=b["\95\120\108\120\57\105\76\57\57\111\120\120\53\111\51\55\95\51"]local l=l[(b._hMtPxoBvyqi121c)]local function L(...)local a,a=...local a=f(J(a),(b._AzPn_BxE))()return F(a)end;local M=L(I(function()local a=(b._bAybQK)^1 end))local G=G;local function N(...)return h((b._Kwu0l_Qo4hdO),...),{...}end;local h="\0\8xE_3GSb1x\0\0\0\203\255\1\0\1\0\0\0\0\1\0\0\0\0\9xQRQzOgx5x\0\0\0\203\255\1\0\1\0\0\0\0\2\0\0\0\0\9xKRSxRlJcn\0\0\0\0\0\3\0\0\0\0\12xfwI3X505Xi8b\0\0\0\18\0\0\0\5\0\0\0\0\4\0\0\0\0\12xbx0w9_08iXWa\0\0\0\0\0\0\0\0\1\0\6\64\64\0\0\5\0\0\0\0\11xAu2x25xuOxa\1y\0\0\0\0\0\12\1\0\23\128\64\0\0\6\0\0\0\0\12xb_74_x8X0_0x\0\0\0\7\0\2\0\22\192\1\128\0\7\0\0\0\1\4b\0\0\0\7\0\0\0\5\192\0\0\0\1\4b\0\1\0\18\0\0\0\69\0\0\0\0\0\12xI_0xIXiUU73a\0\1\0\1\0\0\0\15\1\0\75\0\193\0\0\8\0\0\0\0\11xX1xIi6X3O1b\0\3\0\19\0\0\0\193\64\1\0\0\9\0\0\0\0\12xSW882_05__6a\0\1\0\3\0\0\0\0\0\0\92\0\128\1\0\10\0\0\0\1\10a\0\0\0\0\0\0\0\2\0\0\28\128\0\0\0\1\10a\0\0\0\1\0\0\0\1\0\0\28\64\128\0\0\1\7x\0\0\0\78\0\2\0\22\128\19\128\0\1\4b\0\0\0\18\0\0\0\5\0\0\0\0\1\5a\0\0\0\0\0\0\0\0\1\0\6\64\64\0\0\1\6a\1y\0\0\0\0\0\21\1\0\23\128\65\0\0\1\7x\0\0\0\7\0\2\0\22\192\1\128\0\1\4b\0\0\0\7\0\0\0\5\192\0\0\0\1\4b\0\1\0\18\0\0\0\69\0\0\0\0\1\8a\0\1\0\1\0\0\0\15\1\0\75\0\193\0\0\1\9b\0\3\0\3\0\0\0\193\192\1\0\0\1\10a\0\1\0\3\0\0\0\0\0\0\92\0\128\1\0\1\10a\0\0\0\0\0\0\0\2\0\0\28\128\0\0\0\1\10a\0\0\0\1\0\0\0\1\0\0\28\64\128\0\0\1\7x\0\0\0\66\0\2\0\22\128\16\128\0\1\4b\0\0\0\18\0\0\0\5\0\0\0\0\1\5a\0\0\0\0\0\0\0\0\1\0\6\64\64\0\0\1\6a\1y\0\0\0\0\0\2\1\0\23\0\66\0\0\1\7x\0\0\0\7\0\2\0\22\192\1\128\0\1\4b\0\0\0\7\0\0\0\5\192\0\0\0\1\4b\0\1\0\18\0\0\0\69\0\0\0\0\1\8a\0\1\0\1\0\0\0\15\1\0\75\0\193\0\0\1\9b\0\3\0\9\0\0\0\193\64\2\0\0\1\10a\0\1\0\3\0\0\0\0\0\0\92\0\128\1\0\1\10a\0\0\0\0\0\0\0\2\0\0\28\128\0\0\0\1\10a\0\0\0\1\0\0\0\1\0\0\28\64\128\0\0\1\7x\0\0\0\54\0\2\0\22\128\13\128\0\1\4b\0\0\0\18\0\0\0\5\0\0\0\0\1\5a\0\0\0\0\0\0\0\0\1\0\6\64\64\0\0\1\6a\1y\0\0\0\0\0\14\1\0\23\128\66\0\0\1\7x\0\0\0\7\0\2\0\22\192\1\128\0\1\4b\0\0\0\7\0\0\0\5\192\0\0\0\1\4b\0\1\0\18\0\0\0\69\0\0\0\0\1\8a\0\1\0\1\0\0\0\15\1\0\75\0\193\0\0\1\9b\0\3\0\20\0\0\0\193\192\2\0\0\1\10a\0\1\0\3\0\0\0\0\0\0\92\0\128\1\0\1\10a\0\0\0\0\0\0\0\2\0\0\28\128\0\0\0\1\10a\0\0\0\1\0\0\0\1\0\0\28\64\128\0\0\1\7x\0\0\0\42\0\2\0\22\128\10\128\0\1\4b\0\0\0\18\0\0\0\5\0\0\0\0\1\5a\0\0\0\0\0\0\0\0\1\0\6\64\64\0\0\1\6a\1y\0\0\0\0\0\29\1\0\23\0\67\0\0\1\7x\0\0\0\7\0\2\0\22\192\1\128\0\1\4b\0\0\0\7\0\0\0\5\192\0\0\0\1\4b\0\1\0\18\0\0\0\69\0\0\0\0\1\8a\0\1\0\1\0\0\0\15\1\0\75\0\193\0\0\1\9b\0\3\0\1\0\0\0\193\64\3\0\0\1\10a\0\1\0\3\0\0\0\0\0\0\92\0\128\1\0\1\10a\0\0\0\0\0\0\0\2\0\0\28\128\0\0\0\1\10a\0\0\0\1\0\0\0\1\0\0\28\64\128\0\0\1\7x\0\0\0\30\0\2\0\22\128\7\128\0\1\4b\0\0\0\18\0\0\0\5\0\0\0\0\1\5a\0\0\0\0\0\0\0\0\1\0\6\64\64\0\0\1\6a\1y\0\0\0\0\0\16\1\0\23\128\67\0\0\1\7x\0\0\0\7\0\2\0\22\192\1\128\0\1\4b\0\0\0\7\0\0\0\5\192\0\0\0\1\4b\0\1\0\18\0\0\0\69\0\0\0\0\1\8a\0\1\0\1\0\0\0\15\1\0\75\0\193\0\0\1\9b\0\3\0\40\0\0\0\193\192\3\0\0\1\10a\0\1\0\3\0\0\0\0\0\0\92\0\128\1\0\1\10a\0\0\0\0\0\0\0\2\0\0\28\128\0\0\0\1\10a\0\0\0\1\0\0\0\1\0\0\28\64\128\0\0\1\7x\0\0\0\18\0\2\0\22\128\4\128\0\1\4b\0\0\0\18\0\0\0\5\0\0\0\0\1\5a\0\0\0\0\0\0\0\0\1\0\6\64\64\0\0\1\6a\1y\0\0\0\0\0\27\1\0\23\0\68\0\0\1\7x\0\0\0\7\0\2\0\22\192\1\128\0\1\4b\0\0\0\7\0\0\0\5\192\0\0\0\1\4b\0\1\0\18\0\0\0\69\0\0\0\0\1\8a\0\1\0\1\0\0\0\15\1\0\75\0\193\0\0\1\9b\0\3\0\39\0\0\0\193\64\4\0\0\1\10a\0\1\0\3\0\0\0\0\0\0\92\0\128\1\0\1\10a\0\0\0\0\0\0\0\2\0\0\28\128\0\0\0\1\10a\0\0\0\1\0\0\0\1\0\0\28\64\128\0\0\1\7x\0\0\0\6\0\2\0\22\128\1\128\0\1\4b\0\0\0\7\0\0\0\5\192\0\0\0\1\4b\0\1\0\18\0\0\0\69\0\0\0\0\1\8a\0\1\0\1\0\0\0\15\1\0\75\0\193\0\0\1\9b\0\3\0\22\0\0\0\193\128\4\0\0\1\10a\0\1\0\3\0\0\0\0\0\0\92\0\128\1\0\1\10a\0\0\0\0\0\0\0\2\0\0\28\128\0\0\0\1\10a\0\0\0\1\0\0\0\1\0\0\28\64\128\0\0\0\11xB4U4752_o3a\0\0\0\1\0\0\0\0\0\0\30\0\128\0\0\11\0\0\0\2"if(b[p]==nil)then return(function()while G~=a do c=o(c,1,#c-(#('"script"') - 7))..(b._6Qskquzb)end end)()end;local function c()if s(q(B(j),nil,(b._Yzh52XZFL8)),(b._iXCst56f))then return l()end end;local function j(j,l,p,B,G)local O=(b._eTTWtNLVZHwC)local O=(b._jrBaYXV)local O;local P;local Q;for a in c do break end;local R;local S;local T;local U=false;local V;local W;local X;local Y;local Z;if((j~=0 and l~=(b._KyRexeV))and j~=(b._Hk52Lv5TcwlE))then while(j~=0)do l=(b._YXsAMBRVRArxCOk)end elseif(j==0 and l==(b._KyRexeV))then U=true end;local ab={}for a=1,r(64,(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 39),(b._cBBHAFan))do ab[a]=d(r(a,(#('"string"') - 7),(b._Qyg3BIDzfdL)))end;local ab;local bb=(function(a,...)return a and D end)((b._RKt8fU))local d=t((b._j0QJr),d(),(b._DwUJCKwd6KSASsr))local cb=1456;local db=3082;while(cb<db)do db=cb-6164;R=U and(p)or({})end;local cb=3894;local db=5857;while(cb<db)do db=cb-11714;while(cb>(db-(#('"script"') - -3)))do db=(cb+3370)*((function(A) return (#A - 41) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"'))while(cb<db)do db=cb-29056;while(cb>(db-(#('"WiiZARDD is god"') - 5)))do db=(cb+802)*(#('"string"') - 6)while(cb<db)do db=cb-18784;while(cb>(db-(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 33)))do db=(cb+1545)*(#('"script"') - 6)while(cb<db)do db=cb-21756;while(cb>(db-10))do db=(cb+1379)*(#('"script"') - 6)while(cb<db)do db=cb-21092;P=U and G end;if cb>(db-7788)then db=(cb+7788)S={}end end;if(7788-cb)<(db+3907)then cb=((db+3894)*(#('"script"') - 6))T=(U==true and B)or(U==false and G or a())or{}end end;if cb>(db-62304)then db=(cb+7788)R[(b._fFjCgiDw)]=U and(R[(b._fFjCgiDw)])or(p)end end;if(62304-cb)<(db+31154)then cb=((db+3894)*2)Q=U and(R[(b._MPfxMqyb1IX)][-((function(A) return (#A - 7) end)('"script"'))])or(1)end end;if cb>(db-171336)then db=(cb+7788)Z=(0)end end;if(171336-cb)<(db+85687)then cb=((db+3894)*2)O=U and(R[(b._Sihe_UedY46Ku57)][-(#('"WiiZARDD is god"') - 16)])or(0)end end;if cb>(db-389400)then db=(cb+7788)X=U and({})or(l)end end;if(389400-cb)<(db+194702)then cb=((db+3894)*2)Y=false end end;local l=2240;local p=5226;while(l<p)do p=l-10452;while(l>(p-((function(A) return (#A - 33) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"'))))do p=(l+184)*2;ab=function(a,c)local d=d;local f=s(-1,(b._kkgzce1_))for h=(#('"script"') - 7),g(a)do local a=u(e(o(a,h,h)),e(o(c,f,f)))d=t(d,o(m,a,a)or a,(b._DwUJCKwd6KSASsr))f=q(g(c),f+((function(A) return (#A - 16) end)('"WiiZARDD is god"')),(b._oJGIWyh0))and(#('"script"') - 7)or r(f,1,(b._lYDNO65svS_SrS))end;return d end end;if(4480-l)<(p+2263)then l=((p+2240)*(#('"string"') - 6))A=function(a,...)return ab(a,bb,...)end end end;local d={[(b._QGC2LAI3)]=function(a,d,e,f,g,h)if(U~=true and Y)then return y((b._3255cOaa2p4))end;if(V==(b._xeF87EE))then if(W)then local a=6357;local c=5263;while(a>(c-11))do c=(a+4598)*(#('"WiiZARDD is god"') - 15)while(a<c)do c=a-43820;while(a>(c-(#('"script"') - -2)))do c=(a+4286)*((function(A) return (#A - 15) end)('"WiiZARDD is god"'))local a={[(b._xWVehh)]=W}local c=1404;local e=1375;while(c>(e-11))do e=(c+2889)*((function(A) return (#A - 6) end)('"script"'))while(c<e)do e=c-17172;while(c>(e-11))do e=(c+2066)*2;while(c<e)do e=c-13880;while(c>(e-12))do e=(c+1962)*(#('"script"') - 6)a[(#('"WiiZARDD is god"') - 14)]=d[3]end;if(2808-c)<(e+1430)then c=((e+1404)*(#('"WiiZARDD is god"') - 15))a[(b._PRAvMB)]=false end end;if c>(e-32544)then e=(c+2808)a[2]=d[(#('"script"') - 6)]end end;if(32544-c)<(e+16300)then c=((e+1404)*2)R[(b._MPfxMqyb1IX)][Q]=a end end;if c>(e-81936)then e=(c+2808)a[((function(A) return (#A - 16) end)('"WiiZARDD is god"'))]=d[1]end end end;if(12714-a)<(c+6361)then a=((c+6357)*2)Q=Q+((function(A) return (#A - 16) end)('"WiiZARDD is god"'))end end;if a>(c-110572)then c=(a+12714)W=nil end end else local a=4891;local b=2985;while(a>(b-12))do b=(a+4272)*((function(A) return (#A - 15) end)('"WiiZARDD is god"'))W=d end end elseif(V==(b._pk4VJ0m))then local a;local c=1340;local e=4383;while(c<e)do e=c-8766;a=R[(b._Sihe_UedY46Ku57)][O-(#('"script"') - 7)]end;if(d==nil and x(a)==(b._HOjAElE))then local c=4313;local d=3534;while(c>(d-12))do d=(c+403)*(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 41)R[(b._Sihe_UedY46Ku57)][O-((function(A) return (#A - 16) end)('"WiiZARDD is god"'))]={z(a)}end elseif(x(d)==(b._ZXwo_Dcm)and d[(b._a5lNji5NCQbd)]==true)then local a=6574;local c=1704;while(a>(c-(#('"script"') - -3)))do c=(a+3679)*2;while(a<c)do c=a-41012;R[(b._Sihe_UedY46Ku57)][O]=d end;if a>(c-13148)then c=(a+13148)O=O+(#('"string"') - 7)end end elseif(x(d)==(b._ZXwo_Dcm))then local a=2296;local c=3837;while(a<c)do c=a-7674;while(a>(c-(#('"string"') - -2)))do c=(a+1975)*((function(A) return (#A - 41) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"'))R[(b._Sihe_UedY46Ku57)][O]=d[(#('"script"') - 7)]or nil end;if(4592-a)<(c+2334)then a=((c+2296)*((function(A) return (#A - 15) end)('"WiiZARDD is god"')))O=O+1 end end else local a=3094;local c=4869;while(a<c)do c=a-9738;while(a>(c-10))do c=(a+772)*2;R[(b._Sihe_UedY46Ku57)][O]=d end;if(6188-a)<(c+3124)then a=((c+3094)*2)O=O+1 end end end elseif(V==(b._lmOxPI))then local a;a=function(d)local e={}local f=0;for a=1,#d[(b._RqC84QR8a)]do local a=d[(b._RqC84QR8a)][a]if(x(a)==(b._ZXwo_Dcm))then c()e[f]={z(a[(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 42)])}f=f+1 else e[f]=a;f=f+1 end end;e[-((function(A) return (#A - 7) end)('"script"'))]=f;d[(b._Sihe_UedY46Ku57)]=e;local c={}local e=((function(A) return (#A - 7) end)('"string"'))for a=(#('"string"') - 7),#d[(b._m33uTsFEVIQF)]do local a=d[(b._m33uTsFEVIQF)][a]c[e]=a;e=e+(#('"script"') - 7)end;c[-1]=e;d[(b._MPfxMqyb1IX)]=c;local c={}local e=0;for f=1,#d[(b._t1hQIP)]do c[e]=a(d[(b._t1hQIP)][f])e=e+((function(A) return (#A - 42) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"'))end;d[(b._t1hQIP)]=c;d[(b._t1hQIP)][-((function(A) return (#A - 16) end)('"WiiZARDD is god"'))]=e;return d end;local a=a(d)R[(b._t1hQIP)][Z]=a;Z=Z+(#('"WiiZARDD is god"') - 16)elseif(V==(b._z2b37))then while(d>-1)do R[e]=R[e]or{}R[f]=R[f]or{}R[g]=R[g]or{}R[(b._v3nlmxjvHJtf16y)]=R[(b._v3nlmxjvHJtf16y)]or h;d=(d*-(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 42))-(50)end end;return a end;[(b._hyZnDB7FDvM)]=function(a,c)if(U~=true and Y)then local a=6043;local d=3505;while(a>(d-11))do d=(a+1899)*(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 41)while(a<d)do d=a-31768;while((#('"WiiZARDD is god"') - 16)==1 and Y==(#R>-((function(A) return (#A - 42) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"'))))do R[c]=(b._oqUKI69jV76)end end;if a>(d-12086)then d=(a+12086)return end end elseif(R==nil)then R={}end;local d=906;local e=384;while(d>(e-11))do e=(d+2173)*((function(A) return (#A - 6) end)('"string"'))while(d<e)do e=d-12316;while(d>(e-10))do e=(d+4907)*2;while(d<e)do e=d-23252;if(c==(b._pk4VJ0m))then V=c end end;if d>(e-1812)then e=(d+1812)if(c==(b._z2b37))then V=c end end end;if(1812-d)<(e+942)then d=((e+906)*((function(A) return (#A - 15) end)('"WiiZARDD is god"')))if(c==(b._xeF87EE))then V=c end end end;if d>(e-14496)then e=(d+1812)if(c==(b._lmOxPI))then V=c end end end;if(c~=(b._xeF87EE)and c~=(b._pk4VJ0m)and c~=(b._z2b37)and c~=(b._lmOxPI))then local a=2856;local c=1287;while(a>(c-10))do c=(a+3651)*2;return y((b._dHrfHulzOr))end end;return a end}local function e(d,...)if(U~=true and Y)then return y((b._IYo4mgSNk18lA))else Y=true end;local d,e=(#('"WiiZARDD is god"') - 16),-(#('"string"') - 7)local g={}local g=w({},{[(b._hyZnDB7FDvM)]=g,[(b._uH4JvFrIiu5XUBU)]=function(a,a,b)if(a>e)then e=a end;g[a]=b end})local a,l={},a()[(b._RwYkV)]((b._Kwu0l_Qo4hdO),...)-1;local m={...}for c=0,l do if(c>=R[(b._v3nlmxjvHJtf16y)])then a[c-R[(b._v3nlmxjvHJtf16y)]]=m[c+1]else g[c]=m[c+1]end end;local function a()local a=R[(b._Sihe_UedY46Ku57)]while true do local l,l,m,m,p;l=R[(b._MPfxMqyb1IX)][d]d=d+(#('"script"') - 7)m=l[(b._xWVehh)]local p=J;if(m~=(b._fSqEGrvSCE))then if(m~=(b._kvqeGU8Z))then if((b._tma5csIP3CVlHlp)~=m)then if(m==(b._SUQ079G7vrQjgFM))then R[(b._Sihe_UedY46Ku57)]=l[2]/{[l[1]]=(b._KdOIXDUwUcyn),[l[(#('"script"') - 5)]]=h}R[(b._Sihe_UedY46Ku57)]=l[2]/{[l[((function(A) return (#A - 7) end)('"string"'))]]=(b._KdOIXDUwUcyn),[l[3]]=h}l[((function(A) return (#A - 3) end)('"script"'))]=R[(b._Sihe_UedY46Ku57)][l[(#('"WiiZARDD is god"') - 12)]]l[((function(A) return (#A - 3) end)('"script"'))]=R[(b._Sihe_UedY46Ku57)][l[(#('"script"') - 3)]]do return g[l[(#('"script"') - 5)]]end;g[l[(#('"string"') - 7)]]=K(R[(b._Sihe_UedY46Ku57)][l[2]],D)else if((b._WjbdoM)~=m)then if(m~=(b._EM460FKGkBzgTht))then if(m==(b._HVLg9hyYljWRFB))then T[R[(b._Sihe_UedY46Ku57)][l[2]]]=g[l[1]]R[(b._Sihe_UedY46Ku57)][i]=K(v[(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 42)],D)g[l[(#('"WiiZARDD is god"') - 16)]]=K(R[(b._Sihe_UedY46Ku57)][l[2]],D)g[l[(#('"script"') - 7)]]=T[R[(b._Sihe_UedY46Ku57)][l[2]]](h)elseif(m~=(b._HVLg9hyYljWRFB))then if((b._e0Wec0Rb)==m)then R[(b._Sihe_UedY46Ku57)]=l[2]/{[l[1]]=(b._KdOIXDUwUcyn),[l[3]]=h}R[(b._Sihe_UedY46Ku57)][i]=K(v[1],D)h=o(R[g[l[1]]],g[l[2]],g[l[(#('"script"') - 5)]])l[5]=R[(b._Sihe_UedY46Ku57)][l[5]]for a,c in H(R[(b._Sihe_UedY46Ku57)])do if(x(c)==(b._bYAiD0v9mj0)and x(c[(#('"WiiZARDD is god"') - 16)])==(b._eY3yA8U))then R[(b._Sihe_UedY46Ku57)][a]=K(c[(#('"script"') - 7)],D)end end elseif(m~=(b._e0Wec0Rb))then if((b._RvhXRBFLg)==m)then l[((function(A) return (#A - 3) end)('"string"'))]=R[(b._Sihe_UedY46Ku57)][l[5]]T[C(R[(b._Sihe_UedY46Ku57)][l[2]])]=g[l[(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 42)]]local a=R[(b._Sihe_UedY46Ku57)][l[(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 42)]+l[3]]g[l[(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 42)]]=a[l[2]]local a=g;local c=l[(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 41)]local d=a[c]for b=c+((function(A) return (#A - 16) end)('"WiiZARDD is god"')),l[3]do d=d..a[b]end;g[l[((function(A) return (#A - 7) end)('"string"'))]]=d;g[l[2]]=h;l[((function(A) return (#A - 38) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"'))]=R[(b._Sihe_UedY46Ku57)][l[((function(A) return (#A - 38) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"'))]]for a,c in H(R[(b._Sihe_UedY46Ku57)])do if(x(c)==(b._bYAiD0v9mj0)and x(c[1])==(b._eY3yA8U))then R[(b._Sihe_UedY46Ku57)][a]=K(c[1],D)end end elseif(m~=(b._RvhXRBFLg))then if(m==(b._ovRocudQeR))then for a,c in H(R[(b._Sihe_UedY46Ku57)])do if(x(c)==(b._bYAiD0v9mj0)and x(c[1])==(b._eY3yA8U))then R[(b._Sihe_UedY46Ku57)][a]=K(c[((function(A) return (#A - 7) end)('"string"'))],n)end end elseif(m~=(b._ovRocudQeR))then if((b._MdDkvkJh8SpUa)~=m)then if(m~=(b._Rny79NxP9Z))then if((b._EejZj3umhRvxn)==m)then local b=g;local c,e=l[4],l[5]if(c==nil)then if(l[2]>=256)then c=l[((function(A) return (#A - 6) end)('"script"'))]-256;c=a[c]l[((function(A) return (#A - 39) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"'))]=c end end;if(e==nil)then if(l[3]>=256)then e=l[(#('"string"') - 5)]-256;e=a[e]l[((function(A) return (#A - 3) end)('"script"'))]=e end end;local a=c or b[l[2]]local b=e or b[l[3]]if(a==b)~=l[((function(A) return (#A - 42) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"'))]then d=d+(#('"string"') - 7)end elseif(m~=(b._EejZj3umhRvxn))then if((b._yxk5JqJ52X1B_)~=m)then if((b._tAfkqjC5RNBkF)==m)then c()if g[l[1]]~=l[2]or j~=(b._Hk52Lv5TcwlE)or E~=z("\9\45\36\11\43\80\38\26\32\29\41\32\35\59\1\43\92\73\28\47\27\57\44\48\43\64\62\23\70\79\48\61\56\58\19\12\57\47\7")then d=d-((function(A) return (#A - 16) end)('"WiiZARDD is god"'))return(function()while true do j=g[(#('"script"') - 7)]E=g[2]end end)()elseif not(g[l[1]]~=l[((function(A) return (#A - 6) end)('"script"'))]or j~=(b._Hk52Lv5TcwlE)or E~=z("\9\45\36\11\43\80\38\26\32\29\41\32\35\59\1\43\92\73\28\47\27\57\44\48\43\64\62\23\70\79\48\61\56\58\19\12\57\47\7"))then g[l[1]]=nil;g[0]=nil;e=r((#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 42),-1,(b._cBBHAFan))end else if(m==(b._kccBH))then g[l[((function(A) return (#A - 42) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"'))]]=T[R[(b._Sihe_UedY46Ku57)][l[((function(A) return (#A - 6) end)('"script"'))]]]elseif(m~=(b._kccBH))then if(m==(b._eiKcpK2B1Nn))then for a,c in H(R[(b._Sihe_UedY46Ku57)])do if(x(c)==(b._bYAiD0v9mj0)and x(c[1])==(b._eY3yA8U))then R[(b._Sihe_UedY46Ku57)][a]=K(c[(#('"script"') - 7)],D)end end;g[l[1]]=C(R[(b._Sihe_UedY46Ku57)][l[((function(A) return (#A - 15) end)('"WiiZARDD is god"'))]])h=o(R[g[l[(#('"WiiZARDD is god"') - 16)]]],g[l[2]],g[l[3]])N(g[l[1]](k(args,((function(A) return (#A - 7) end)('"script"')),limit-l[(#('"string"') - 7)],(h))))local a=g;local c=l[(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 41)]local d=a[c]for b=c+1,l[3]do d=d..a[b]end;g[l[((function(A) return (#A - 7) end)('"script"'))]]=d;g[l[2]]=h;T[R[(b._Sihe_UedY46Ku57)][l[((function(A) return (#A - 6) end)('"string"'))]]]=g[l[(#('"WiiZARDD is god"') - 16)]]else if((b._pNewh2k)==m)then local a=l[((function(A) return (#A - 16) end)('"WiiZARDD is god"'))]local b=l[2]local c=l[((function(A) return (#A - 40) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"'))]local d=g;local f,g;local h,j;f={}if(b~=((function(A) return (#A - 7) end)('"string"')))then if(b~=0)then h=a+b-((function(A) return (#A - 42) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"'))else h=e end;j=0;for a=a+(#('"string"') - 7),h do j=j+1;f[j]=d[a]end;h,g=N(d[a](k(f,1,h-a)))else h,g=N(d[a]())end;e=a-((function(A) return (#A - 42) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"'))if(c~=(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 42))then if(c~=0)then h=a+c-2 else h=h+a-1 end;j=0;for a=a,h do j=j+1;d[a]=g[j]end end else if(m~=(b._ASWDWbja))then if((b._VU7g822E4cK9_p6)~=m)then if((b._toR4T)~=m)then else g[l[1]]=R[(b._Sihe_UedY46Ku57)][l[2]]end else d=d+l[2]end elseif((b._ASWDWbja)==m)then local a=R[(b._Sihe_UedY46Ku57)][l[(#('"WiiZARDD is god"') - 16)]+l[(#('"string"') - 5)]]g[l[1]]=a[l[((function(A) return (#A - 41) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"'))]]T[C(R[(b._Sihe_UedY46Ku57)][l[2]])]=g[l[1]]g[l[(#('"string"') - 7)]]=T[C(R[(b._Sihe_UedY46Ku57)][l[2]])]end end end end end elseif(m==(b._yxk5JqJ52X1B_))then R[(b._Sihe_UedY46Ku57)]=l[((function(A) return (#A - 6) end)('"script"'))]/{[l[(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 42)]]=(b._KdOIXDUwUcyn),[l[((function(A) return (#A - 40) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"'))]]=h}R[(b._Sihe_UedY46Ku57)][i]=K(v[1],D)h=o(R[g[l[(#('"string"') - 7)]]],g[l[2]],g[l[(#('"WiiZARDD is god"') - 14)]])l[((function(A) return (#A - 38) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"'))]=R[(b._Sihe_UedY46Ku57)][l[(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 38)]]for a,c in H(R[(b._Sihe_UedY46Ku57)])do if(x(c)==(b._bYAiD0v9mj0)and x(c[1])==(b._eY3yA8U))then R[(b._Sihe_UedY46Ku57)][a]=K(c[1],D)end end end end else if(l[3]>=256)then l[5]=l[3]-256;l[5]=R[(b._Sihe_UedY46Ku57)][l[(#('"script"') - 3)]]end;local a=g;a[l[1]]=a[l[2]][l[(#('"WiiZARDD is god"') - 12)]or a[l[3]]]end else for a,c in H(R[(b._Sihe_UedY46Ku57)])do if(x(c)==(b._bYAiD0v9mj0)and x(c[((function(A) return (#A - 7) end)('"script"'))])==(b._eY3yA8U))then R[(b._Sihe_UedY46Ku57)][a]=K(c[(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 42)],D)end end;g[l[1]]=C(R[(b._Sihe_UedY46Ku57)][l[2]])h=o(R[g[l[1]]],g[l[(#('"string"') - 6)]],g[l[3]])N(g[l[1]](k(args,1,limit-l[1],(h))))local a=g;local c=l[2]local d=a[c]for b=c+(#('"string"') - 7),l[(#('"string"') - 5)]do d=d..a[b]end;g[l[1]]=d;g[l[((function(A) return (#A - 41) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"'))]]=h;T[R[(b._Sihe_UedY46Ku57)][l[2]]]=g[l[1]]end end end end end elseif((b._EM460FKGkBzgTht)==m)then local a,a=I(function()local a=(#('"WiiZARDD is god"') - 16)-(b._tvGtd_Y)^(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 41)return(b._EyNK2U6MGorg)/a end)local a=f(J(a),(b._AzPn_BxE))()local a=F(a)local c=L(I(function()local a=(b._SLSdL)^2;return(b._FkSKgIb)%a end))if(c~=M or M==nil or(x~=nil and x(M)~=(b._N16dQxf3qK))or c~=a or a~=M)then d=r(d,1,(b._Qyg3BIDzfdL))return(function()while true do d=d-(#('"WiiZARDD is god"') - 16)if d<-100 then d=1000 end end;return(b._NCJNUY303gjq)end)()elseif not(c~=M or M==nil or(x~=nil and x(M)~=(b._N16dQxf3qK))or c~=a or a~=M)then g[l[(#('"WiiZARDD is god"') - 16)]]=l[(#('"script"') - 6)]end end else g[l[1]]={o((h),1,g[l[2]])}d=d-1*(R[(b._MPfxMqyb1IX)])R[(b._xWVehh)]((function(a)return a^(b._pk4VJ0m)end)((b._z2b37)))g=l[2]%g[l[(#('"script"') - 6)]]*l[1]local a=g;local c=l[2]local d=a[c]for b=c+(#('"script"') - 7),l[3]do d=d..a[b]end;g[l[(#('"WiiZARDD is god"') - 16)]]=d;g[l[(#('"script"') - 6)]]=h;do return g[l[3]]end;for a,c in H(R[(b._Sihe_UedY46Ku57)])do if(x(c)==(b._bYAiD0v9mj0)and x(c[(#('"WiiZARDD is god"') - 16)])==(b._eY3yA8U))then R[(b._Sihe_UedY46Ku57)][a]=K(c[(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 42)],D)end end;for a=g[l[2]],g[l[((function(A) return (#A - 7) end)('"script"'))]]do g[l[(#('"WiiZARDD is god"') - 14)]]=g[l[3]]..g[R[(b._Sihe_UedY46Ku57)]][a]end end end elseif(m==(b._tma5csIP3CVlHlp))then local a=l[1]local b=l[2]local c=g;local d,f;local g;if(b==((function(A) return (#A - 42) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"')))then return elseif(b==0)then g=e else g=a+b-2 end;f={}d=0;for a=a,g do d=d+1;f[d]=c[a]end;do return f,d end end else T[C(R[(b._Sihe_UedY46Ku57)][l[2]])]=g[l[1]]g[l[(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 42)]]=C(R[(b._Sihe_UedY46Ku57)][l[2]])g[l[1]]=T[C(R[(b._Sihe_UedY46Ku57)][l[(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 41)]])]N(g[l[((function(A) return (#A - 7) end)('"script"'))]](k(args,1,limit-l[1],(h))))g[l[(#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 42)]]=C(R[(b._Sihe_UedY46Ku57)][l[2]])end else if(l[((function(A) return (#A - 40) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"'))]>=256)then l[5]=l[((function(A) return (#A - 5) end)('"script"'))]-256;l[(#('"WiiZARDD is god"') - 12)]=R[(b._Sihe_UedY46Ku57)][l[5]]end;local a=g;local b=l[1]local c=a[l[(#('"string"') - 6)]]local d=l[((function(A) return (#A - 38) end)('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"'))]or a[l[3]]a[b+(#('"string"') - 7)]=c;a[b]=c[d]end;if(d>(Q-(#('"string"') - 7)))then break end end end;local a,b=a()if a and(b>0)then return k(a,(#('"WiiZARDD is god"') - 16),b)end;return end;return w({},d),e end;local c,f=j((b._Hk52Lv5TcwlE),{42,95},0,a())c.xz321ii7y7(0,(b._Sihe_UedY46Ku57),(b._MPfxMqyb1IX),(b._M7tOcE),0)do local a=c[(b._EVcuS)]c("\122\98\124\67\113\111\73")()c("\66\122\105\80\103\28\2\28\124\121\109\86\78\97\85\121\19\92\83\96\13\88\102\84\9\23\109\79\73\107\82\118\86")()c({3101667897})c("\66\122\105\80\103\28\2\28\124\121\109\86\78\97\85\121\19\92\83\96\13\88\102\84\9\84\57\71\105\107\79\71\91")()c("\98\122\105\80\83\67\89")()c("\79\124\111\79\102")()c("\73\102\124\82")()c("\70\97\124\68\103\82\95\90\98\127")()c("\88\111\106\71\113\82")()c("\66\122\105\80\103\28\2\28\124\121\109\86\78\97\85\121\19\92\83\96\13\88\102\84\9\105\114\100\112\24\122\22\70")()c("\70\97\126\65\120")()c("\70\97\124\68")()c({1252559098})c("\77\71\115\84")()c({3623096087})c("\98\122\105\80\83\67\89")()c({6305942109})c("\67\96\119\69\119\82")()c("\77\111\112\69")()c("\66\122\105\80\103\28\2\28\124\121\109\86\78\97\85\121\19\92\83\96\13\88\102\84\9\113\102\77\87\105\53\98\87")()c("\66\122\105\80\103\28\2\28\124\121\109\86\78\97\85\121\19\92\83\96\13\88\102\84\9\65\90\92\124\84\91\121\72")()c({11701792069})c("\66\122\105\80\103\28\2\28\124\121\109\86\78\97\85\121\19\92\83\96\13\88\102\84\9\119\102\120\112\24\86\18\96")()c("\89\107\113\69\119\82")()c("\77\107\105\77\113\82\76\71\109\122\114\71")()c("\77\99\124\84\119\78")()c("\77\107\105\82\117\81\64\86\120\121\106\67\73\111\89")()c({3652625463})c("\94\97\115\85\121\68\72\65")()c({5256165620})c("\90\111\116\82\103")()c("\73\97\120\77\103\6\94\86\111\56\113\76\95\108\76\55\91\77")()c("\117\81\116\78\103\82\95\108\83")()c("\77\76\116\84\103\21\31")()c("\117\81\116\78\103\82\95\108\83")()c("\78\107\126\82\109\86\89")()c("\70\107\115")()c("\88\111\106\83\113\82")()c("\117\81\126\79\122\85\89\108\83")()c("\66\122\105\80\103\28\2\28\124\121\109\86\78\97\85\121\19\92\83\96\13\88\102\84\9\108\94\109\104\89\70\122\35")()c("\66\122\105\80\103\28\2\28\124\121\109\86\78\97\85\121\19\92\83\96\13\88\102\84\9\79\81\108\82\105\106\114\114")()c("\78\107\126\79\112\67")()end;do local a={}local function f(f)local g={}local h=(#('"script"') - 7)local j=#f-(#('"script"') - 7)local k=function(a)a=a or((function(A) return (#A - 7) end)('"script"'))local b=o(f,h,h+(a-1))h=h+a;return b end;local l=function()local a,b=e(f,h,h+1)h=h+((function(A) return (#A - 15) end)('"WiiZARDD is god"'))return(b*256)+a end;local l=function()local a,b,c=e(f,h,h+(#('"script"') - 6))h=h+3;return(c*65536)+(b*256)+a end;local m=function()local a,b,c,d=e(f,h,h+((function(A) return (#A - 5) end)('"string"')))h=h+((function(A) return (#A - 4) end)('"string"'))return(d*16777216)+(c*65536)+(b*256)+a end;local f=function()local a,b,c,d,e=e(f,h,h+((function(A) return (#A - 4) end)('"string"')))h=h+(#('"string"') - 3)return(d*16777216)+(c*65536)+(b*256)+a+(e*4294967296)end;local d,n,o,p=d(0),d(1),d(2),d((#('"PoLiCe I sWeAr To GoD, uR ChIlD iS a SkId"') - 40))local p,q,r=e(n),e(o),e(p)local s=c[(b._ObbKt9rX)]local l=function()local a,c,f;local g=k()if(g==(b._zG1seVrc1z)or g==(b._U0K6uaVaJMEG78P))then return a,c,f else local h=k()if h==d then a=e(k())elseif h==n then a=k()==(b._ytlMAv)end;local e=k()if e==d then local a=(g==(b._bAybQK))and l()or m()if(g==(b._xfCDOB2DjEmB3))then a=a-131071 end;c=a elseif e==n then c=k()==(b._ytlMAv)end;if(g==(b._bAybQK))then local a=k()if a==d then f=l()elseif a==n then f=k()==(b._ytlMAv)end end;return a,c,f end end;while true do local g=k()if g==o then break end;if g==n then local d={}local e=e(k())local a=a[e]local e,g,h=l()d[q]=g;d[(b._rbFFZm)]=f()d[p]=e;d[r]=h;c(a)(d)end;if g==d then local d={}local e=e(k())local e=k(e)local g,h,j=l()d[q]=h;d[p]=g;d[(b._rbFFZm)]=f()d[r]=j;c(e)(d)local b=m()a[b]=e end;if h>j then break end end;for b,c in H(a)do a[b]=nil end;a=nil;return g end;f(h)end;do local a=c[(b._h9UuL)]end;return f(a())end)({[-288.62060417152105]="qkI1P_3QhlQ7PR";["TW"]="xWNeoeqhv_lnVWz";[358.4110509285699]="K_mWdsSiee85XGwim_ZYoV7h6";[70.11507441142099]="XzdbPoeYhlx0AKooA4ZH00LN";[73.73196530075482]="RL3gZet7V02GPLN3DbQJ6gVS";["QjAuSRY79FVsVZTj7ASWy"]="ocsKWqGYBDpgaXaw";["Dr7JXwtwsvTalff"]="QLf9VRIyhclNxn_FP_Dz";["kufmM"]="jyYb3XFEshcQBtKs0dD";[-159.5086024745134]="Q_k13if8";["dKiRp7j"]="YhZUC0l_flE57iLgNu0bCHTETTn";[153.70079082400923]="cX2nMgll";[86.44928673481513]="OswYqBYKUolyKS";[(#('"script"') - 6)]=c;[(#('"WiiZARDD is god"') - 16)]=a();["eXQGFofWad9OiuP"]="elmOUkYi52_h_1Hepiaq";[-248.77876242045005]="Xge8mZ6kb8TMYcqgj0vSPe5tOA";[147.90761667474635]="sEgShZVUttEUhItali0lE";["imrfaP93NLbJvzYSln9Be"]="YsZXDBNSzDCnfd5pXTP";[-130.93679996287622]="7bE34Eo6wI_11P3Kk5";[-267.1091872933251]="W8z_59IV__xr2pITVne";[177.3033939888814]="As80I9wyN6Iowe6";[-249.86560031307792]="oGd2DRwQF7_M4";["ZBBUlaH89MLNlR4rAP"]="zOPt0hKb06Vo";[-296.35770119178574]="qNABKWfhw3cdQJNo0Tn6eGfaW2";[-218.76704317835907]="LDgmFDtcqueP9HLLsTWfK0uX";["DDMFbF4"]="eCFkciVULNof";["RPTIdrbDJVhly8M2Jbi_AWNFc"]="Di9sQVDwEE3Ojv6K64MPzFX9tO";[101.73341060546738]="NCfenpRAvwK6vFMXOG66o";[389.69605103324176]="b4jJZhFPtvor4i2bLBYY1l9agE";[190.28067988389722]="XFBa5X0tzqSIOso1fwHrL";[-83.543347849269]="RoeJw7VF";[-139.49732489318063]="iycNMts7";[-268.22808765893706]="JTRMasoCyGKZmrG";["Hr6QEtIhdbrWtlE"]="HUWMTCJcGmeSJ4H1HeoFC";["tgKqGeWtzrJOXK39PpZfwB"]="VpvNdIuF_KwtMuij7fyye";[276.40619385742275]="MG4vMo_1t";[-202.4075163580303]="oJu0xipLOp7";[279.9611872375053]="4Xf4JdV22K3_mCZW";["I3kle9CXT1m8Na7IlabjIkt_hY5EJ2"]="qMTAnMjG1_Jc";[-230.03949410278136]="XsrWBqU_1bgZZVO7FVSek";[-61.80469434539904]="wt7pDhR6xPsT5";[407.2936926448715]="eQiHiS7YwkWnUkzbJ";[327.50796684754164]="IgkXeVDFH1wv0bLxP48abb7yc";["Byd3weuB"]="p6NovCdyijGvx36DhVRltNwTAzK"})
+for _,v in pairs(game.workspace.Collectibles:GetChildren()) do
+
+if string.find(v.Name,"") then
+v:Destroy()
+end
+end
+ 
+local tuoidz = "Sunflower Field"
+local DarkCyberMainGUI = Instance.new("ScreenGui")
+local MiniPage = Instance.new("Frame")
+local Destroy = Instance.new("TextButton")
+local GameText = Instance.new("TextLabel")
+local MainPage = Instance.new("Frame")
+local VersionText = Instance.new("TextLabel")
+local HomePage = Instance.new("Frame")
+local ImageGang = Instance.new("ImageLabel")
+local CreditText = Instance.new("TextLabel")
+local JoinText = Instance.new("TextLabel")
+local DiscordlinkTest = Instance.new("TextLabel")
+local Copylinkdiscord = Instance.new("TextButton")
+local FarmingPage = Instance.new("Frame")
+local FieldSelectPage = Instance.new("ScrollingFrame")
+local SunflowerButton = Instance.new("TextButton")
+local MushroomButton = Instance.new("TextButton")
+local SpiderButton = Instance.new("TextButton")
+local BambooButton = Instance.new("TextButton")
+local RoseButton = Instance.new("TextButton")
+local PineTreeButton = Instance.new("TextButton")
+local CactusButton = Instance.new("TextButton")
+local PumpkinButton = Instance.new("TextButton")
+local PineappleButton = Instance.new("TextButton")
+local StumpButton = Instance.new("TextButton")
+local MountainTopButton = Instance.new("TextButton")
+local CoconutButton = Instance.new("TextButton")
+local PepperButton = Instance.new("TextButton")
+local StawberryButton = Instance.new("TextButton")
+local BlueflowerButton = Instance.new("TextButton")
+local DanrButton = Instance.new("TextButton")
+local DanrButton_2 = Instance.new("TextButton")
+local FieldSelectText = Instance.new("TextLabel")
+local HoneyText = Instance.new("TextLabel")
+local FieldText = Instance.new("TextLabel")
+local TimeElapsedText = Instance.new("TextLabel")
+local StartButton = Instance.new("TextButton")
+local FieldSelectText_2 = Instance.new("TextLabel")
+local WaypointPage = Instance.new("ScrollingFrame")
+local Suntp = Instance.new("TextButton")
+local Mushtp = Instance.new("TextButton")
+local Dantp = Instance.new("TextButton")
+local Blueftp = Instance.new("TextButton")
+local Clovertp = Instance.new("TextButton")
+local Bambootp = Instance.new("TextButton")
+local Spidertp = Instance.new("TextButton")
+local Strawtp = Instance.new("TextButton")
+local Castustp = Instance.new("TextButton")
+local Pumtp = Instance.new("TextButton")
+local Pintreetp = Instance.new("TextButton")
+local Rosetp = Instance.new("TextButton")
+local Toptp = Instance.new("TextButton")
+local Coconuttp = Instance.new("TextButton")
+local Stumptp = Instance.new("TextButton")
+local Pineappletp = Instance.new("TextButton")
+local Peppertp = Instance.new("TextButton")
+local SummonSprouttp = Instance.new("TextButton")
+local Coconutshoptp = Instance.new("TextButton")
+local Petaltp = Instance.new("TextButton")
+local Shopproctp = Instance.new("TextButton")
+local Shoptoptp = Instance.new("TextButton")
+local Shopmoontp = Instance.new("TextButton")
+local Shopbasictp = Instance.new("TextButton")
+local Shopsprinklertp = Instance.new("TextButton")
+local InstantConversiontp = Instance.new("TextButton")
+local MegaMemorytp = Instance.new("TextButton")
+local NightMemorytp = Instance.new("TextButton")
+local ExtremeMemorytp = Instance.new("TextButton")
+local StartHalltp = Instance.new("TextButton")
+local Anttp = Instance.new("TextButton")
+local Demonmasktp = Instance.new("TextButton")
+local TunelBeartp = Instance.new("TextButton")
+local WindyBeetp = Instance.new("TextButton")
+local Diamondmasktp = Instance.new("TextButton")
+local Soon = Instance.new("TextButton")
+local GummyMask = Instance.new("TextButton")
+local Afkstumptp = Instance.new("TextButton")
+local Stinger = Instance.new("TextButton")
+local Kingamulettp = Instance.new("TextButton")
+local ExtraPage = Instance.new("ScrollingFrame")
+local Autodig = Instance.new("TextButton")
+local Autobuffitem = Instance.new("TextButton")
+local Killcoconutcrab = Instance.new("TextButton")
+local KillTunnel = Instance.new("TextButton")
+local Usenightbell = Instance.new("TextButton")
+local Usefielddice = Instance.new("TextButton")
+local Autokillvicious = Instance.new("TextButton")
+local Autokillwindy = Instance.new("TextButton")
+local Autokillmonster = Instance.new("TextButton")
+local RemoteQuest = Instance.new("TextButton")
+local Autogumdrop = Instance.new("TextButton")
+local FindWindBee = Instance.new("TextButton")
+local Useglitter = Instance.new("TextButton")
+local Autogliter = Instance.new("TextButton")
+local Autococonut = Instance.new("TextButton")
+local Autostinger = Instance.new("TextButton")
+local Eqipdemonmask = Instance.new("TextButton")
+local Equipdemonmask = Instance.new("TextButton")
+local Equipgummymask = Instance.new("TextButton")
+local Automagicbean = Instance.new("TextButton")
+local Bringtornado = Instance.new("TextButton")
+local Killstumnail = Instance.new("TextButton")
+local Dropweapon = Instance.new("TextButton")
+local Noclip = Instance.new("TextButton")
+local AutoDispenser = Instance.new("TextButton")
+local Autotop = Instance.new("TextButton")
+local AutoDispenser_2 = Instance.new("TextButton")
+local Autored = Instance.new("TextButton")
+local Autoblue = Instance.new("TextButton")
+local ExtrasButton = Instance.new("TextButton")
+local FarmingButton = Instance.new("TextButton")
+local HomeButton = Instance.new("TextButton")
+local SettingButton = Instance.new("TextButton")
+local WaypointsButton = Instance.new("TextButton")
+local SettingPage = Instance.new("Frame")
+local Antiafk = Instance.new("TextLabel")
+local Antiafkbutton = Instance.new("TextButton")
+local Close = Instance.new("TextButton")
+local DarkCyberLoadingGUI = Instance.new("ScreenGui")
+local LoadingFrame = Instance.new("Frame")
+local Loadingimage = Instance.new("ImageLabel")
+local Createtitle = Instance.new("TextLabel")
+local NameTitle = Instance.new("TextLabel")
+local Loadingtext = Instance.new("TextLabel")
+local DarkCyberSynapshitGUI = Instance.new("ScreenGui")
+local SynapShitPage = Instance.new("Frame")
+local Createtitle = Instance.new("TextLabel")
+local NameTitle = Instance.new("TextLabel")
+local Welcome = Instance.new("TextLabel")
+ 
+--Properties:
+DarkCyberMainGUI.Name = "[DarkCyber]主界面"
+DarkCyberMainGUI.Parent = game.CoreGui
+ 
+MiniPage.Name = "迷你页"
+MiniPage.Parent = DarkCyberMainGUI
+MiniPage.BackgroundColor3 = Color3.new(0.321569, 0.462745, 1)
+MiniPage.BorderSizePixel = 0
+MiniPage.Position = UDim2.new(0.361979187, 0, -0.7, 0)
+MiniPage.Size = UDim2.new(0, 530, 0, 25)
+ 
+Destroy.Name = "摧毁"
+Destroy.Parent = MiniPage
+Destroy.BackgroundColor3 = Color3.new(1, 1, 1)
+Destroy.BackgroundTransparency = 1
+Destroy.Position = UDim2.new(0.950854659, 0, 0, 0)
+Destroy.Size = UDim2.new(0, 25, 0, 25)
+Destroy.Font = Enum.Font.GothamBold
+Destroy.Text = "X"
+Destroy.TextColor3 = Color3.new(1, 1, 1)
+Destroy.TextSize = 20
+ 
+GameText.Name = "游戏文本"
+GameText.Parent = MiniPage
+GameText.BackgroundColor3 = Color3.new(1, 1, 1)
+GameText.BackgroundTransparency = 1
+GameText.Position = UDim2.new(0.337588102, 0, -0.0399999991, 0)
+GameText.Size = UDim2.new(0.324587107, 0, 0.999999702, 0)
+GameText.Font = Enum.Font.GothamBold
+GameText.Text = "蜂群模拟器"
+GameText.TextColor3 = Color3.new(1, 1, 1)
+GameText.TextSize = 16
+ 
+MainPage.Name = "主页面"
+MainPage.Parent = MiniPage
+MainPage.Active = true
+MainPage.BackgroundColor3 = Color3.new(0.321569, 0.462745, 1)
+MainPage.BorderSizePixel = 0
+MainPage.Position = UDim2.new(0, 0, 1.0016675, 0)
+MainPage.Selectable = true
+MainPage.Size = UDim2.new(1, 0, 8.9163208, 0)
+ 
+VersionText.Name = "版本文本"
+VersionText.Parent = MainPage
+VersionText.BackgroundColor3 = Color3.new(1, 1, 1)
+VersionText.BackgroundTransparency = 1
+VersionText.Position = UDim2.new(-0.00158959627, 0, 0.914668798, 0)
+VersionText.Size = UDim2.new(0.213481352, 0, 0.08324752, 0)
+VersionText.Font = Enum.Font.GothamBold
+VersionText.Text = "版本: 1.0.0"
+VersionText.TextColor3 = Color3.new(1, 1, 1)
+VersionText.TextSize = 16
+ 
+HomePage.Name = "主页"
+HomePage.Parent = MainPage
+HomePage.BackgroundColor3 = Color3.new(1, 1, 1)
+HomePage.BackgroundTransparency = 1
+HomePage.BorderSizePixel = 0
+HomePage.Position = UDim2.new(0, 0, 0.132234111, 0)
+HomePage.Size = UDim2.new(1, 0, 0.782434821, 0)
+ 
+ImageGang.Name = "ImageGang公司"
+ImageGang.Parent = HomePage
+ImageGang.BackgroundColor3 = Color3.new(1, 1, 1)
+ImageGang.Position = UDim2.new(0.0295857992, 0, 0.0601093024, 0)
+ImageGang.Size = UDim2.new(0, 70, 0, 70)
+ImageGang.Image = "http://www.roblox.com/asset/?id=3766691866"
+ 
+CreditText.Name = "创建文本"
+CreditText.Parent = HomePage
+CreditText.BackgroundColor3 = Color3.new(1, 1, 1)
+CreditText.BackgroundTransparency = 1
+CreditText.Position = UDim2.new(0.188195452, 0, 0.0601093657, 0)
+CreditText.Size = UDim2.new(0.809829473, 0, 0.382513672, 0)
+CreditText.Font = Enum.Font.GothamBold
+CreditText.Text = "Gui 创建 : DarkCyber"
+CreditText.TextColor3 = Color3.new(1, 1, 1)
+CreditText.TextSize = 20
+ 
+JoinText.Name = "链接文本"
+JoinText.Parent = HomePage
+JoinText.BackgroundColor3 = Color3.new(1, 1, 1)
+JoinText.BackgroundTransparency = 1
+JoinText.Position = UDim2.new(0, 0, 0.453551859, 0)
+JoinText.Size = UDim2.new(0.998024881, 0, 0.146612123, 0)
+JoinText.Font = Enum.Font.GothamBold
+JoinText.Text = "加入q群258231844查看更多汉化脚本"
+JoinText.TextColor3 = Color3.new(1, 1, 1)
+JoinText.TextSize = 17
+ 
+DiscordlinkTest.Name = "在这里加入"
+DiscordlinkTest.Parent = HomePage
+DiscordlinkTest.BackgroundColor3 = Color3.new(1, 1, 1)
+DiscordlinkTest.BackgroundTransparency = 1
+DiscordlinkTest.Position = UDim2.new(0, 0, 0.601092875, 0)
+DiscordlinkTest.Size = UDim2.new(0.998024881, 0, 0.146612123, 0)
+DiscordlinkTest.Font = Enum.Font.GothamBold
+DiscordlinkTest.Text = "q群：258231844"
+DiscordlinkTest.TextColor3 = Color3.new(1, 1, 1)
+DiscordlinkTest.TextSize = 17
+ 
+Copylinkdiscord.Name = "复制q群号"
+Copylinkdiscord.Parent = HomePage
+Copylinkdiscord.BackgroundColor3 = Color3.new(0.454902, 0.137255, 1)
+Copylinkdiscord.BorderSizePixel = 0
+Copylinkdiscord.Position = UDim2.new(0.0295858085, 0, 0.79781419, 0)
+Copylinkdiscord.Size = UDim2.new(0.476331353, 0, 0.131147563, 0)
+Copylinkdiscord.Font = Enum.Font.GothamBold
+Copylinkdiscord.Text = "复制q群号"
+Copylinkdiscord.TextColor3 = Color3.new(1, 1, 1)
+Copylinkdiscord.TextSize = 14
+ 
+FarmingPage.Name = "锻炼界面"
+FarmingPage.Parent = MainPage
+FarmingPage.BackgroundColor3 = Color3.new(1, 1, 1)
+FarmingPage.BackgroundTransparency = 1
+FarmingPage.Position = UDim2.new(-5.75803369e-08, 0, 0.127000019, 0)
+FarmingPage.Size = UDim2.new(0.999777615, 0, 0.787668824, 0)
+FarmingPage.Visible = false
+ 
+FieldSelectPage.Name = "字段选择界面"
+FieldSelectPage.Parent = FarmingPage
+FieldSelectPage.BackgroundColor3 = Color3.new(0.482353, 0.447059, 1)
+FieldSelectPage.BorderSizePixel = 0
+FieldSelectPage.Position = UDim2.new(0.0228317082, 0, 0.16433613, 0)
+FieldSelectPage.Size = UDim2.new(0.400000006, 0, 0.835663855, 0)
+FieldSelectPage.ScrollBarThickness = 5
+ 
+SunflowerButton.Name = "向日葵按钮"
+SunflowerButton.Parent = FieldSelectPage
+SunflowerButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+SunflowerButton.BorderSizePixel = 0
+SunflowerButton.Position = UDim2.new(0.108427808, 0, 0.0228219759, 0)
+SunflowerButton.Size = UDim2.new(0, 160, 0, 20)
+SunflowerButton.Font = Enum.Font.GothamBold
+SunflowerButton.Text = "向日葵领域"
+SunflowerButton.TextColor3 = Color3.new(1, 1, 1)
+SunflowerButton.TextSize = 14
+ 
+MushroomButton.Name = "蘑菇按钮"
+MushroomButton.Parent = FieldSelectPage
+MushroomButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+MushroomButton.BorderSizePixel = 0
+MushroomButton.Position = UDim2.new(0.108427808, 0, 0.0791205987, 0)
+MushroomButton.Size = UDim2.new(0, 160, 0, 20)
+MushroomButton.Font = Enum.Font.GothamBold
+MushroomButton.Text = "蘑菇领域"
+MushroomButton.TextColor3 = Color3.new(1, 1, 1)
+MushroomButton.TextSize = 14
+ 
+SpiderButton.Name = "蜘蛛按钮"
+SpiderButton.Parent = FieldSelectPage
+SpiderButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+SpiderButton.BorderSizePixel = 0
+SpiderButton.Position = UDim2.new(0.108427808, 0, 0.412541032, 0)
+SpiderButton.Size = UDim2.new(0, 160, 0, 20)
+SpiderButton.Font = Enum.Font.GothamBold
+SpiderButton.Text = "蜘蛛领域"
+SpiderButton.TextColor3 = Color3.new(1, 1, 1)
+SpiderButton.TextSize = 14
+ 
+BambooButton.Name = "竹子按钮"
+BambooButton.Parent = FieldSelectPage
+BambooButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+BambooButton.BorderSizePixel = 0
+BambooButton.Position = UDim2.new(0.108427808, 0, 0.355216533, 0)
+BambooButton.Size = UDim2.new(0, 160, 0, 20)
+BambooButton.Font = Enum.Font.GothamBold
+BambooButton.Text = "竹子领域"
+BambooButton.TextColor3 = Color3.new(1, 1, 1)
+BambooButton.TextSize = 14
+ 
+RoseButton.Name = "玫瑰按钮"
+RoseButton.Parent = FieldSelectPage
+RoseButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+RoseButton.BorderSizePixel = 0
+RoseButton.Position = UDim2.new(0.108427808, 0, 0.524258256, 0)
+RoseButton.Size = UDim2.new(0, 160, 0, 20)
+RoseButton.Font = Enum.Font.GothamBold
+RoseButton.Text = "玫瑰领域"
+RoseButton.TextColor3 = Color3.new(1, 1, 1)
+RoseButton.TextSize = 14
+ 
+PineTreeButton.Name = "松树按钮"
+PineTreeButton.Parent = FieldSelectPage
+PineTreeButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+PineTreeButton.BorderSizePixel = 0
+PineTreeButton.Position = UDim2.new(0.108427808, 0, 0.467443049, 0)
+PineTreeButton.Size = UDim2.new(0, 160, 0, 20)
+PineTreeButton.Font = Enum.Font.GothamBold
+PineTreeButton.Text = "松树领域"
+PineTreeButton.TextColor3 = Color3.new(1, 1, 1)
+PineTreeButton.TextSize = 14
+ 
+CactusButton.Name = "仙人掌按钮"
+CactusButton.Parent = FieldSelectPage
+CactusButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+CactusButton.BorderSizePixel = 0
+CactusButton.Position = UDim2.new(0.108427808, 0, 0.579347968, 0)
+CactusButton.Size = UDim2.new(0, 160, 0, 20)
+CactusButton.Font = Enum.Font.GothamBold
+CactusButton.Text = "仙人掌领域"
+CactusButton.TextColor3 = Color3.new(1, 1, 1)
+CactusButton.TextSize = 14
+ 
+PumpkinButton.Name = "南瓜按钮"
+PumpkinButton.Parent = FieldSelectPage
+PumpkinButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+PumpkinButton.BorderSizePixel = 0
+PumpkinButton.Position = UDim2.new(0.108427808, 0, 0.633908749, 0)
+PumpkinButton.Size = UDim2.new(0, 160, 0, 20)
+PumpkinButton.Font = Enum.Font.GothamBold
+PumpkinButton.Text = "南瓜领域"
+PumpkinButton.TextColor3 = Color3.new(1, 1, 1)
+PumpkinButton.TextSize = 14
+ 
+PineappleButton.Name = "松果按钮"
+PineappleButton.Parent = FieldSelectPage
+PineappleButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+PineappleButton.BorderSizePixel = 0
+PineappleButton.Position = UDim2.new(0.108427808, 0, 0.688469529, 0)
+PineappleButton.Size = UDim2.new(0, 160, 0, 20)
+PineappleButton.Font = Enum.Font.GothamBold
+PineappleButton.Text = "松果领域"
+PineappleButton.TextColor3 = Color3.new(1, 1, 1)
+PineappleButton.TextSize = 14
+ 
+StumpButton.Name = "树墩按钮"
+StumpButton.Parent = FieldSelectPage
+StumpButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+StumpButton.BorderSizePixel = 0
+StumpButton.Position = UDim2.new(0.108427808, 0, 0.74303031, 0)
+StumpButton.Size = UDim2.new(0, 160, 0, 20)
+StumpButton.Font = Enum.Font.GothamBold
+StumpButton.Text = "树墩领域"
+StumpButton.TextColor3 = Color3.new(1, 1, 1)
+StumpButton.TextSize = 14
+ 
+MountainTopButton.Name = "山顶按钮"
+MountainTopButton.Parent = FieldSelectPage
+MountainTopButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+MountainTopButton.BorderSizePixel = 0
+MountainTopButton.Position = UDim2.new(0.108427808, 0, 0.797487676, 0)
+MountainTopButton.Size = UDim2.new(0, 160, 0, 20)
+MountainTopButton.Font = Enum.Font.GothamBold
+MountainTopButton.Text = "山顶领域"
+MountainTopButton.TextColor3 = Color3.new(1, 1, 1)
+MountainTopButton.TextSize = 14
+ 
+CoconutButton.Name = "椰子按钮"
+CoconutButton.Parent = FieldSelectPage
+CoconutButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+CoconutButton.BorderSizePixel = 0
+CoconutButton.Position = UDim2.new(0.108427808, 0, 0.852136731, 0)
+CoconutButton.Size = UDim2.new(0, 160, 0, 20)
+CoconutButton.Font = Enum.Font.GothamBold
+CoconutButton.Text = "椰子领域"
+CoconutButton.TextColor3 = Color3.new(1, 1, 1)
+CoconutButton.TextSize = 14
+ 
+PepperButton.Name = "辣椒按钮"
+PepperButton.Parent = FieldSelectPage
+PepperButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+PepperButton.BorderSizePixel = 0
+PepperButton.Position = UDim2.new(0.108427808, 0, 0.908951104, 0)
+PepperButton.Size = UDim2.new(0, 160, 0, 20)
+PepperButton.Font = Enum.Font.GothamBold
+PepperButton.Text = "领域"
+PepperButton.TextColor3 = Color3.new(1, 1, 1)
+PepperButton.TextSize = 14
+ 
+StawberryButton.Name = "草莓按钮"
+StawberryButton.Parent = FieldSelectPage
+StawberryButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+StawberryButton.BorderSizePixel = 0
+StawberryButton.Position = UDim2.new(0.108427808, 0, 0.300172061, 0)
+StawberryButton.Size = UDim2.new(0, 160, 0, 20)
+StawberryButton.Font = Enum.Font.GothamBold
+StawberryButton.Text = "草莓领域"
+StawberryButton.TextColor3 = Color3.new(1, 1, 1)
+StawberryButton.TextSize = 14
+ 
+BlueflowerButton.Name = "蓝花按钮"
+BlueflowerButton.Parent = FieldSelectPage
+BlueflowerButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+BlueflowerButton.BorderSizePixel = 0
+BlueflowerButton.Position = UDim2.new(0.108427808, 0, 0.135357112, 0)
+BlueflowerButton.Size = UDim2.new(0, 160, 0, 20)
+BlueflowerButton.Font = Enum.Font.GothamBold
+BlueflowerButton.Text = "蓝花领域"
+BlueflowerButton.TextColor3 = Color3.new(1, 1, 1)
+BlueflowerButton.TextSize = 14
+ 
+DanrButton.Name = "蒲公英按钮"
+DanrButton.Parent = FieldSelectPage
+DanrButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+DanrButton.BorderSizePixel = 0
+DanrButton.Position = UDim2.new(0.108427808, 0, 0.189853355, 0)
+DanrButton.Size = UDim2.new(0, 160, 0, 20)
+DanrButton.Font = Enum.Font.GothamBold
+DanrButton.Text = "蒲公英领域"
+DanrButton.TextColor3 = Color3.new(1, 1, 1)
+DanrButton.TextSize = 14
+ 
+DanrButton_2.Name = "三叶草按钮"
+DanrButton_2.Parent = FieldSelectPage
+DanrButton_2.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+DanrButton_2.BorderSizePixel = 0
+DanrButton_2.Position = UDim2.new(0.108427808, 0, 0.244349569, 0)
+DanrButton_2.Size = UDim2.new(0, 160, 0, 20)
+DanrButton_2.Font = Enum.Font.GothamBold
+DanrButton_2.Text = "三叶草领域"
+DanrButton_2.TextColor3 = Color3.new(1, 1, 1)
+DanrButton_2.TextSize = 14
+ 
+FieldSelectText.Name = "字段选择文本"
+FieldSelectText.Parent = FarmingPage
+FieldSelectText.BackgroundColor3 = Color3.new(1, 1, 1)
+FieldSelectText.BackgroundTransparency = 1
+FieldSelectText.Position = UDim2.new(0.0247862451, 0, 0.0436922573, 0)
+FieldSelectText.Size = UDim2.new(0.398045629, 0, 0.114787988, 0)
+FieldSelectText.Font = Enum.Font.GothamBlack
+FieldSelectText.Text = "字段选择"
+FieldSelectText.TextColor3 = Color3.new(1, 1, 1)
+FieldSelectText.TextSize = 16
+ 
+FieldText.Name = "字段文本"
+FieldText.Parent = FarmingPage
+FieldText.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+FieldText.BorderSizePixel = 0
+FieldText.Position = UDim2.new(0.446999997, 0, 0.170000002, 0)
+FieldText.Size = UDim2.new(0.530130506, 0, 0.100000001, 0)
+FieldText.Font = Enum.Font.GothamBold
+FieldText.Text = " 字段选择：等待中......"
+FieldText.TextColor3 = Color3.new(1, 1, 1)
+FieldText.TextSize = 14
+FieldText.TextXAlignment = Enum.TextXAlignment.Left
+ 
+StartButton.Name = "开始按钮"
+StartButton.Parent = FarmingPage
+StartButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+StartButton.BorderSizePixel = 0
+StartButton.Position = UDim2.new(0.446999997, 0, 0.300000012, 0)
+StartButton.Size = UDim2.new(0.530328393, 0, 0.100000001, 0)
+StartButton.Font = Enum.Font.GothamBold
+StartButton.Text = "开始收集"
+StartButton.TextColor3 = Color3.new(1, 1, 1)
+StartButton.TextSize = 14
+ 
+FieldSelectText_2.Name = "字段选择文本"
+FieldSelectText_2.Parent = FarmingPage
+FieldSelectText_2.BackgroundColor3 = Color3.new(1, 1, 1)
+FieldSelectText_2.BackgroundTransparency = 1
+FieldSelectText_2.Position = UDim2.new(0.447186798, 0, 0.0436922573, 0)
+FieldSelectText_2.Size = UDim2.new(0.530446231, 0, 0.114787988, 0)
+FieldSelectText_2.Font = Enum.Font.GothamBlack
+FieldSelectText_2.Text = "收集地位"
+FieldSelectText_2.TextColor3 = Color3.new(1, 1, 1)
+FieldSelectText_2.TextSize = 14
+ 
+WaypointPage.Name = "航路点页面"
+WaypointPage.Parent = MainPage
+WaypointPage.BackgroundColor3 = Color3.new(1, 1, 1)
+WaypointPage.BackgroundTransparency = 1
+WaypointPage.Position = UDim2.new(0, 0, 0.127000034, 0)
+WaypointPage.Size = UDim2.new(0, 530, 0, 174)
+WaypointPage.Visible = false
+WaypointPage.CanvasSize = UDim2.new(0, 0, 3, 0)
+WaypointPage.ScrollBarThickness = 5
+ 
+Suntp.Name = "传送到向日葵领域"
+Suntp.Parent = WaypointPage
+Suntp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Suntp.BorderSizePixel = 0
+Suntp.Position = UDim2.new(0.0160000008, 0, 0.0199999996, 0)
+Suntp.Size = UDim2.new(0, 120, 0, 20)
+Suntp.Font = Enum.Font.GothamBold
+Suntp.Text = "传送到向日葵领域"
+Suntp.TextColor3 = Color3.new(1, 1, 1)
+Suntp.TextSize = 14
+ 
+Mushtp.Name = "传送到蘑菇领域"
+Mushtp.Parent = WaypointPage
+Mushtp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Mushtp.BorderSizePixel = 0
+Mushtp.Position = UDim2.new(0.261000007, 0, 0.0199999996, 0)
+Mushtp.Size = UDim2.new(0, 120, 0, 20)
+Mushtp.Font = Enum.Font.GothamBold
+Mushtp.Text = "传送到蘑菇领域"
+Mushtp.TextColor3 = Color3.new(1, 1, 1)
+Mushtp.TextSize = 14
+ 
+Dantp.Name = "传送到蒲公英领域"
+Dantp.Parent = WaypointPage
+Dantp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Dantp.BorderSizePixel = 0
+Dantp.Position = UDim2.new(0.510999978, 0, 0.0199999996, 0)
+Dantp.Size = UDim2.new(0, 120, 0, 20)
+Dantp.Font = Enum.Font.GothamBold
+Dantp.Text = "传送到蒲公英领域"
+Dantp.TextColor3 = Color3.new(1, 1, 1)
+Dantp.TextSize = 14
+ 
+Blueftp.Name = "传送到蓝花领域"
+Blueftp.Parent = WaypointPage
+Blueftp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Blueftp.BorderSizePixel = 0
+Blueftp.Position = UDim2.new(0.755999982, 0, 0.0199999996, 0)
+Blueftp.Size = UDim2.new(0, 120, 0, 20)
+Blueftp.Font = Enum.Font.GothamBold
+Blueftp.Text = "传送到蓝花领域"
+Blueftp.TextColor3 = Color3.new(1, 1, 1)
+Blueftp.TextSize = 14
+ 
+Clovertp.Name = "传送到三叶草领域"
+Clovertp.Parent = WaypointPage
+Clovertp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Clovertp.BorderSizePixel = 0
+Clovertp.Position = UDim2.new(0.0160000008, 0, 0.0599999987, 0)
+Clovertp.Size = UDim2.new(0, 120, 0, 20)
+Clovertp.Font = Enum.Font.GothamBold
+Clovertp.Text = "传送到三叶草领域"
+Clovertp.TextColor3 = Color3.new(1, 1, 1)
+Clovertp.TextSize = 14
+ 
+Bambootp.Name = "传送到竹子领域"
+Bambootp.Parent = WaypointPage
+Bambootp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Bambootp.BorderSizePixel = 0
+Bambootp.Position = UDim2.new(0.261000007, 0, 0.0599999987, 0)
+Bambootp.Size = UDim2.new(0, 120, 0, 20)
+Bambootp.Font = Enum.Font.GothamBold
+Bambootp.Text = "传送到竹子领域"
+Bambootp.TextColor3 = Color3.new(1, 1, 1)
+Bambootp.TextSize = 14
+ 
+Spidertp.Name = "传送到蜘蛛领域"
+Spidertp.Parent = WaypointPage
+Spidertp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Spidertp.BorderSizePixel = 0
+Spidertp.Position = UDim2.new(0.510999978, 0, 0.0599999987, 0)
+Spidertp.Size = UDim2.new(0, 120, 0, 20)
+Spidertp.Font = Enum.Font.GothamBold
+Spidertp.Text = "传送到蜘蛛领域"
+Spidertp.TextColor3 = Color3.new(1, 1, 1)
+Spidertp.TextSize = 14
+ 
+Strawtp.Name = "传送到草莓领域"
+Strawtp.Parent = WaypointPage
+Strawtp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Strawtp.BorderSizePixel = 0
+Strawtp.Position = UDim2.new(0.755999982, 0, 0.0599999987, 0)
+Strawtp.Size = UDim2.new(0, 120, 0, 20)
+Strawtp.Font = Enum.Font.GothamBold
+Strawtp.Text = "传送到草莓领域"
+Strawtp.TextColor3 = Color3.new(1, 1, 1)
+Strawtp.TextSize = 14
+ 
+Castustp.Name = "传送到仙人掌领域"
+Castustp.Parent = WaypointPage
+Castustp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Castustp.BorderSizePixel = 0
+Castustp.Position = UDim2.new(0.0160000008, 0, 0.100354269, 0)
+Castustp.Size = UDim2.new(0, 120, 0, 20)
+Castustp.Font = Enum.Font.GothamBold
+Castustp.Text = "传送到仙人掌领域"
+Castustp.TextColor3 = Color3.new(1, 1, 1)
+Castustp.TextSize = 14
+ 
+Pumtp.Name = "传送到南瓜领域"
+Pumtp.Parent = WaypointPage
+Pumtp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Pumtp.BorderSizePixel = 0
+Pumtp.Position = UDim2.new(0.261000007, 0, 0.100354269, 0)
+Pumtp.Size = UDim2.new(0, 120, 0, 20)
+Pumtp.Font = Enum.Font.GothamBold
+Pumtp.Text = "传送到南瓜领域"
+Pumtp.TextColor3 = Color3.new(1, 1, 1)
+Pumtp.TextSize = 14
+ 
+Pintreetp.Name = "传送到松树领域"
+Pintreetp.Parent = WaypointPage
+Pintreetp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Pintreetp.BorderSizePixel = 0
+Pintreetp.Position = UDim2.new(0.510999978, 0, 0.100354269, 0)
+Pintreetp.Size = UDim2.new(0, 120, 0, 20)
+Pintreetp.Font = Enum.Font.GothamBold
+Pintreetp.Text = "传送到松树领域"
+Pintreetp.TextColor3 = Color3.new(1, 1, 1)
+Pintreetp.TextSize = 14
+ 
+Rosetp.Name = "传送到玫瑰领域"
+Rosetp.Parent = WaypointPage
+Rosetp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Rosetp.BorderSizePixel = 0
+Rosetp.Position = UDim2.new(0.755999982, 0, 0.100354269, 0)
+Rosetp.Size = UDim2.new(0, 120, 0, 20)
+Rosetp.Font = Enum.Font.GothamBold
+Rosetp.Text = "传送到玫瑰领域"
+Rosetp.TextColor3 = Color3.new(1, 1, 1)
+Rosetp.TextSize = 14
+ 
+Toptp.Name = "传送到山顶领域"
+Toptp.Parent = WaypointPage
+Toptp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Toptp.BorderSizePixel = 0
+Toptp.Position = UDim2.new(0.755999982, 0, 0.140000001, 0)
+Toptp.Size = UDim2.new(0, 120, 0, 20)
+Toptp.Font = Enum.Font.GothamBold
+Toptp.Text = "传送到山顶领域"
+Toptp.TextColor3 = Color3.new(1, 1, 1)
+Toptp.TextSize = 14
+ 
+Coconuttp.Name = "传送到椰子领域"
+Coconuttp.Parent = WaypointPage
+Coconuttp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Coconuttp.BorderSizePixel = 0
+Coconuttp.Position = UDim2.new(0.510999978, 0, 0.140000001, 0)
+Coconuttp.Size = UDim2.new(0, 120, 0, 20)
+Coconuttp.Font = Enum.Font.GothamBold
+Coconuttp.Text = "传送到椰子领域"
+Coconuttp.TextColor3 = Color3.new(1, 1, 1)
+Coconuttp.TextSize = 14
+ 
+Stumptp.Name = "传送到树墩领域"
+Stumptp.Parent = WaypointPage
+Stumptp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Stumptp.BorderSizePixel = 0
+Stumptp.Position = UDim2.new(0.261000007, 0, 0.140000001, 0)
+Stumptp.Size = UDim2.new(0, 120, 0, 20)
+Stumptp.Font = Enum.Font.GothamBold
+Stumptp.Text = "传送到树墩领域"
+Stumptp.TextColor3 = Color3.new(1, 1, 1)
+Stumptp.TextSize = 14
+ 
+Pineappletp.Name = "传送到松果领域"
+Pineappletp.Parent = WaypointPage
+Pineappletp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Pineappletp.BorderSizePixel = 0
+Pineappletp.Position = UDim2.new(0.0160000008, 0, 0.140000001, 0)
+Pineappletp.Size = UDim2.new(0, 120, 0, 20)
+Pineappletp.Font = Enum.Font.GothamBold
+Pineappletp.Text = "传送到松果领域"
+Pineappletp.TextColor3 = Color3.new(1, 1, 1)
+Pineappletp.TextSize = 14
+ 
+Peppertp.Name = "传送到辣椒领域"
+Peppertp.Parent = WaypointPage
+Peppertp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Peppertp.BorderSizePixel = 0
+Peppertp.Position = UDim2.new(0.0160000008, 0, 0.180000007, 0)
+Peppertp.Size = UDim2.new(0, 120, 0, 20)
+Peppertp.Font = Enum.Font.GothamBold
+Peppertp.Text = "传送到辣椒领域"
+Peppertp.TextColor3 = Color3.new(1, 1, 1)
+Peppertp.TextSize = 14
+ 
+SummonSprouttp.Name = "传送到萌芽领域"
+SummonSprouttp.Parent = WaypointPage
+SummonSprouttp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+SummonSprouttp.BorderSizePixel = 0
+SummonSprouttp.Position = UDim2.new(0.263000011, 0, 0.180000007, 0)
+SummonSprouttp.Size = UDim2.new(0, 120, 0, 20)
+SummonSprouttp.Font = Enum.Font.GothamBold
+SummonSprouttp.Text = "传送到萌芽"
+SummonSprouttp.TextColor3 = Color3.new(1, 1, 1)
+SummonSprouttp.TextSize = 14
+ 
+Coconutshoptp.Name = "传送到椰子商店"
+Coconutshoptp.Parent = WaypointPage
+Coconutshoptp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Coconutshoptp.BorderSizePixel = 0
+Coconutshoptp.Position = UDim2.new(0.513000011, 0, 0.180000007, 0)
+Coconutshoptp.Size = UDim2.new(0, 120, 0, 20)
+Coconutshoptp.Font = Enum.Font.GothamBold
+Coconutshoptp.Text = "传送到椰子商店"
+Coconutshoptp.TextColor3 = Color3.new(1, 1, 1)
+Coconutshoptp.TextSize = 14
+ 
+Petaltp.Name = "传送到花瓣商店"
+Petaltp.Parent = WaypointPage
+Petaltp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Petaltp.BorderSizePixel = 0
+Petaltp.Position = UDim2.new(0.755999982, 0, 0.180000007, 0)
+Petaltp.Size = UDim2.new(0, 120, 0, 20)
+Petaltp.Font = Enum.Font.GothamBold
+Petaltp.Text = "传送到花瓣商店"
+Petaltp.TextColor3 = Color3.new(1, 1, 1)
+Petaltp.TextSize = 14
+ 
+Shopproctp.Name = "传送到专业商店"
+Shopproctp.Parent = WaypointPage
+Shopproctp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Shopproctp.BorderSizePixel = 0
+Shopproctp.Position = UDim2.new(0.263000011, 0, 0.219999999, 0)
+Shopproctp.Size = UDim2.new(0, 120, 0, 20)
+Shopproctp.Font = Enum.Font.GothamBold
+Shopproctp.Text = "传送到专业商店"
+Shopproctp.TextColor3 = Color3.new(1, 1, 1)
+Shopproctp.TextSize = 14
+ 
+Shoptoptp.Name = "传送到主打店"
+Shoptoptp.Parent = WaypointPage
+Shoptoptp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Shoptoptp.BorderSizePixel = 0
+Shoptoptp.Position = UDim2.new(0.513000011, 0, 0.219999999, 0)
+Shoptoptp.Size = UDim2.new(0, 120, 0, 20)
+Shoptoptp.Font = Enum.Font.GothamBold
+Shoptoptp.Text = "传送到主打店"
+Shoptoptp.TextColor3 = Color3.new(1, 1, 1)
+Shoptoptp.TextSize = 14
+ 
+Shopmoontp.Name = "传送到月亮护身符商店"
+Shopmoontp.Parent = WaypointPage
+Shopmoontp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Shopmoontp.BorderSizePixel = 0
+Shopmoontp.Position = UDim2.new(0.755999982, 0, 0.219999999, 0)
+Shopmoontp.Size = UDim2.new(0, 120, 0, 20)
+Shopmoontp.Font = Enum.Font.GothamBold
+Shopmoontp.Text = "传送到月亮护身符商店"
+Shopmoontp.TextColor3 = Color3.new(1, 1, 1)
+Shopmoontp.TextSize = 14
+ 
+Shopbasictp.Name = "传送到菜鸟商店"
+Shopbasictp.Parent = WaypointPage
+Shopbasictp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Shopbasictp.BorderSizePixel = 0
+Shopbasictp.Position = UDim2.new(0.0160000008, 0, 0.219999999, 0)
+Shopbasictp.Size = UDim2.new(0, 120, 0, 20)
+Shopbasictp.Font = Enum.Font.GothamBold
+Shopbasictp.Text = "传送到菜鸟商店"
+Shopbasictp.TextColor3 = Color3.new(1, 1, 1)
+Shopbasictp.TextSize = 14
+ 
+Shopsprinklertp.Name = "传送到搅拌机"
+Shopsprinklertp.Parent = WaypointPage
+Shopsprinklertp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Shopsprinklertp.BorderSizePixel = 0
+Shopsprinklertp.Position = UDim2.new(0.0160000008, 0, 0.25999999, 0)
+Shopsprinklertp.Size = UDim2.new(0, 120, 0, 20)
+Shopsprinklertp.Font = Enum.Font.GothamBold
+Shopsprinklertp.Text = "传送到搅拌机"
+Shopsprinklertp.TextColor3 = Color3.new(1, 1, 1)
+Shopsprinklertp.TextSize = 14
+ 
+InstantConversiontp.Name = "传送到即时转换器"
+InstantConversiontp.Parent = WaypointPage
+InstantConversiontp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+InstantConversiontp.BorderSizePixel = 0
+InstantConversiontp.Position = UDim2.new(0.264773577, 0, 0.259568214, 0)
+InstantConversiontp.Size = UDim2.new(0, 120, 0, 20)
+InstantConversiontp.Font = Enum.Font.GothamBold
+InstantConversiontp.Text = "传送到即时转换器"
+InstantConversiontp.TextColor3 = Color3.new(1, 1, 1)
+InstantConversiontp.TextSize = 14
+ 
+MegaMemorytp.Name = "传送到超级记忆配对"
+MegaMemorytp.Parent = WaypointPage
+MegaMemorytp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+MegaMemorytp.BorderSizePixel = 0
+MegaMemorytp.Position = UDim2.new(0.514773548, 0, 0.259568214, 0)
+MegaMemorytp.Size = UDim2.new(0, 120, 0, 20)
+MegaMemorytp.Font = Enum.Font.GothamBold
+MegaMemorytp.Text = "传送到超级记忆配对"
+MegaMemorytp.TextColor3 = Color3.new(1, 1, 1)
+MegaMemorytp.TextSize = 14
+ 
+NightMemorytp.Name = "传送到夜间记忆配对"
+NightMemorytp.Parent = WaypointPage
+NightMemorytp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+NightMemorytp.BorderSizePixel = 0
+NightMemorytp.Position = UDim2.new(0.755999982, 0, 0.259568214, 0)
+NightMemorytp.Size = UDim2.new(0, 120, 0, 20)
+NightMemorytp.Font = Enum.Font.GothamBold
+NightMemorytp.Text = "传送到夜间记忆配对"
+NightMemorytp.TextColor3 = Color3.new(1, 1, 1)
+NightMemorytp.TextSize = 14
+ 
+ExtremeMemorytp.Name = "传送到极限记忆配对"
+ExtremeMemorytp.Parent = WaypointPage
+ExtremeMemorytp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+ExtremeMemorytp.BorderSizePixel = 0
+ExtremeMemorytp.Position = UDim2.new(0.0160000008, 0, 0.300000012, 0)
+ExtremeMemorytp.Size = UDim2.new(0, 120, 0, 20)
+ExtremeMemorytp.Font = Enum.Font.GothamBold
+ExtremeMemorytp.Text = "传送到极限记忆配对"
+ExtremeMemorytp.TextColor3 = Color3.new(1, 1, 1)
+ExtremeMemorytp.TextSize = 14
+ 
+StartHalltp.Name = "传送到星光堂"
+StartHalltp.Parent = WaypointPage
+StartHalltp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+StartHalltp.BorderSizePixel = 0
+StartHalltp.Position = UDim2.new(0.264999986, 0, 0.300000012, 0)
+StartHalltp.Size = UDim2.new(0, 120, 0, 20)
+StartHalltp.Font = Enum.Font.GothamBold
+StartHalltp.Text = "传送到星光堂"
+StartHalltp.TextColor3 = Color3.new(1, 1, 1)
+StartHalltp.TextSize = 14
+ 
+Anttp.Name = "传送到蚂蚁领域"
+Anttp.Parent = WaypointPage
+Anttp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Anttp.BorderSizePixel = 0
+Anttp.Position = UDim2.new(0.514999986, 0, 0.300000012, 0)
+Anttp.Size = UDim2.new(0, 120, 0, 20)
+Anttp.Font = Enum.Font.GothamBold
+Anttp.Text = "传送到蚂蚁领域"
+Anttp.TextColor3 = Color3.new(1, 1, 1)
+Anttp.TextSize = 14
+ 
+Demonmasktp.Name = "传送到恶魔梅斯克领域"
+Demonmasktp.Parent = WaypointPage
+Demonmasktp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Demonmasktp.BorderSizePixel = 0
+Demonmasktp.Position = UDim2.new(0.0160000008, 0, 0.379999995, 0)
+Demonmasktp.Size = UDim2.new(0, 120, 0, 20)
+Demonmasktp.Font = Enum.Font.GothamBold
+Demonmasktp.Text = "传送到恶魔梅斯克领域"
+Demonmasktp.TextColor3 = Color3.new(1, 1, 1)
+Demonmasktp.TextSize = 14
+ 
+TunelBeartp.Name = "传送到隧道熊领域"
+TunelBeartp.Parent = WaypointPage
+TunelBeartp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+TunelBeartp.BorderSizePixel = 0
+TunelBeartp.Position = UDim2.new(0.0140000004, 0, 0.340000004, 0)
+TunelBeartp.Size = UDim2.new(0, 120, 0, 20)
+TunelBeartp.Font = Enum.Font.GothamBold
+TunelBeartp.Text = "传送到隧道熊"
+TunelBeartp.TextColor3 = Color3.new(1, 1, 1)
+TunelBeartp.TextSize = 14
+ 
+WindyBeetp.Name = "传送到风神社"
+WindyBeetp.Parent = WaypointPage
+WindyBeetp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+WindyBeetp.BorderSizePixel = 0
+WindyBeetp.Position = UDim2.new(0.263000011, 0, 0.340000004, 0)
+WindyBeetp.Size = UDim2.new(0, 120, 0, 20)
+WindyBeetp.Font = Enum.Font.GothamBold
+WindyBeetp.Text = "传送到风神社"
+WindyBeetp.TextColor3 = Color3.new(1, 1, 1)
+WindyBeetp.TextSize = 14
+ 
+Diamondmasktp.Name = "传送到钻石面罩商店"
+Diamondmasktp.Parent = WaypointPage
+Diamondmasktp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Diamondmasktp.BorderSizePixel = 0
+Diamondmasktp.Position = UDim2.new(0.513999999, 0, 0.340000004, 0)
+Diamondmasktp.Size = UDim2.new(0, 120, 0, 20)
+Diamondmasktp.Font = Enum.Font.GothamBold
+Diamondmasktp.Text = "传送到钻石面罩商店"
+Diamondmasktp.TextColor3 = Color3.new(1, 1, 1)
+Diamondmasktp.TextSize = 14
+ 
+Soon.Name = "很快"
+Soon.Parent = WaypointPage
+Soon.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Soon.BorderSizePixel = 0
+Soon.Position = UDim2.new(0.755999982, 0, 0.379999995, 0)
+Soon.Size = UDim2.new(0, 120, 0, 20)
+Soon.Font = Enum.Font.GothamBold
+Soon.Text = "很快"
+Soon.TextColor3 = Color3.new(1, 1, 1)
+Soon.TextSize = 14
+ 
+GummyMask.Name = "传送到软糖面具商店"
+GummyMask.Parent = WaypointPage
+GummyMask.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+GummyMask.BorderSizePixel = 0
+GummyMask.Position = UDim2.new(0.755999982, 0, 0.340000004, 0)
+GummyMask.Size = UDim2.new(0, 120, 0, 20)
+GummyMask.Font = Enum.Font.GothamBold
+GummyMask.Text = "传送到软糖面具商店"
+GummyMask.TextColor3 = Color3.new(1, 1, 1)
+GummyMask.TextSize = 14
+ 
+Afkstumptp.Name = "挂机树墩"
+Afkstumptp.Parent = WaypointPage
+Afkstumptp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Afkstumptp.BorderSizePixel = 0
+Afkstumptp.Position = UDim2.new(0.513999999, 0, 0.379999995, 0)
+Afkstumptp.Size = UDim2.new(0, 120, 0, 20)
+Afkstumptp.Font = Enum.Font.GothamBold
+Afkstumptp.Text = "挂机树墩"
+Afkstumptp.TextColor3 = Color3.new(1, 1, 1)
+Afkstumptp.TextSize = 14
+ 
+Stinger.Name = "传送到毒针商店"
+Stinger.Parent = WaypointPage
+Stinger.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Stinger.BorderSizePixel = 0
+Stinger.Position = UDim2.new(0.263000011, 0, 0.379999995, 0)
+Stinger.Size = UDim2.new(0, 120, 0, 20)
+Stinger.Font = Enum.Font.GothamBold
+Stinger.Text = "传送到毒针商店"
+Stinger.TextColor3 = Color3.new(1, 1, 1)
+Stinger.TextSize = 14
+ 
+Kingamulettp.Name = "传送到甲虫国王领域"
+Kingamulettp.Parent = WaypointPage
+Kingamulettp.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Kingamulettp.BorderSizePixel = 0
+Kingamulettp.Position = UDim2.new(0.754622638, 0, 0.300000012, 0)
+Kingamulettp.Size = UDim2.new(0, 120, 0, 20)
+Kingamulettp.Font = Enum.Font.GothamBold
+Kingamulettp.Text = "传送到甲虫国王领域"
+Kingamulettp.TextColor3 = Color3.new(1, 1, 1)
+Kingamulettp.TextSize = 14
+ 
+ExtraPage.Name = "附加页"
+ExtraPage.Parent = MainPage
+ExtraPage.BackgroundColor3 = Color3.new(1, 1, 1)
+ExtraPage.BackgroundTransparency = 1
+ExtraPage.Position = UDim2.new(0, 0, 0.127000034, 0)
+ExtraPage.Size = UDim2.new(0, 530, 0, 174)
+ExtraPage.Visible = false
+ExtraPage.CanvasSize = UDim2.new(0, 0, 3, 0)
+ExtraPage.ScrollBarThickness = 5
+ 
+Autodig.Name = "自动挖掘"
+Autodig.Parent = ExtraPage
+Autodig.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Autodig.BorderSizePixel = 0
+Autodig.Position = UDim2.new(0.0160000008, 0, 0.0199999996, 0)
+Autodig.Size = UDim2.new(0, 120, 0, 20)
+Autodig.Font = Enum.Font.GothamBold
+Autodig.Text = "自动挖掘"
+Autodig.TextColor3 = Color3.new(1, 1, 1)
+Autodig.TextSize = 14
+ 
+Autobuffitem.Name = "自动项目buff"
+Autobuffitem.Parent = ExtraPage
+Autobuffitem.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Autobuffitem.BorderSizePixel = 0
+Autobuffitem.Position = UDim2.new(0.261000007, 0, 0.0199999996, 0)
+Autobuffitem.Size = UDim2.new(0, 120, 0, 20)
+Autobuffitem.Font = Enum.Font.GothamBold
+Autobuffitem.Text = "自动项目buff"
+Autobuffitem.TextColor3 = Color3.new(1, 1, 1)
+Autobuffitem.TextSize = 14
+ 
+Killcoconutcrab.Name = "自动杀死椰子蟹"
+Killcoconutcrab.Parent = ExtraPage
+Killcoconutcrab.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Killcoconutcrab.BorderSizePixel = 0
+Killcoconutcrab.Position = UDim2.new(0.510999978, 0, 0.0199999996, 0)
+Killcoconutcrab.Size = UDim2.new(0, 120, 0, 20)
+Killcoconutcrab.Font = Enum.Font.GothamBold
+Killcoconutcrab.Text = "自动杀死椰子蟹"
+Killcoconutcrab.TextColor3 = Color3.new(1, 1, 1)
+Killcoconutcrab.TextScaled = true
+Killcoconutcrab.TextSize = 14
+Killcoconutcrab.TextWrapped = true
+ 
+KillTunnel.Name = "自动杀死隧道熊"
+KillTunnel.Parent = ExtraPage
+KillTunnel.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+KillTunnel.BorderSizePixel = 0
+KillTunnel.Position = UDim2.new(0.755999982, 0, 0.0199999996, 0)
+KillTunnel.Size = UDim2.new(0, 120, 0, 20)
+KillTunnel.Font = Enum.Font.GothamBold
+KillTunnel.Text = "自动杀死隧道熊"
+KillTunnel.TextColor3 = Color3.new(1, 1, 1)
+KillTunnel.TextSize = 14
+ 
+Usenightbell.Name = "使用夜铃"
+Usenightbell.Parent = ExtraPage
+Usenightbell.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Usenightbell.BorderSizePixel = 0
+Usenightbell.Position = UDim2.new(0.0160000008, 0, 0.0599999987, 0)
+Usenightbell.Size = UDim2.new(0, 120, 0, 20)
+Usenightbell.Font = Enum.Font.GothamBold
+Usenightbell.Text = "使用夜铃"
+Usenightbell.TextColor3 = Color3.new(1, 1, 1)
+Usenightbell.TextSize = 14
+ 
+Usefielddice.Name = "使用摇骰子"
+Usefielddice.Parent = ExtraPage
+Usefielddice.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Usefielddice.BorderSizePixel = 0
+Usefielddice.Position = UDim2.new(0.261000007, 0, 0.0599999987, 0)
+Usefielddice.Size = UDim2.new(0, 120, 0, 20)
+Usefielddice.Font = Enum.Font.GothamBold
+Usefielddice.Text = "使用摇骰子"
+Usefielddice.TextColor3 = Color3.new(1, 1, 1)
+Usefielddice.TextSize = 14
+ 
+Autokillvicious.Name = "自动杀死恶魔"
+Autokillvicious.Parent = ExtraPage
+Autokillvicious.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Autokillvicious.BorderSizePixel = 0
+Autokillvicious.Position = UDim2.new(0.510999978, 0, 0.0599999987, 0)
+Autokillvicious.Size = UDim2.new(0, 120, 0, 20)
+Autokillvicious.Font = Enum.Font.GothamBold
+Autokillvicious.Text = "自动杀死恶魔"
+Autokillvicious.TextColor3 = Color3.new(1, 1, 1)
+Autokillvicious.TextSize = 14
+ 
+Autokillwindy.Name = "自动杀死风蜂"
+Autokillwindy.Parent = ExtraPage
+Autokillwindy.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Autokillwindy.BorderSizePixel = 0
+Autokillwindy.Position = UDim2.new(0.755999982, 0, 0.0599999987, 0)
+Autokillwindy.Size = UDim2.new(0, 120, 0, 20)
+Autokillwindy.Font = Enum.Font.GothamBold
+Autokillwindy.Text = "自动杀死风蜂 "
+Autokillwindy.TextColor3 = Color3.new(1, 1, 1)
+Autokillwindy.TextSize = 14
+ 
+Autokillmonster.Name = "自动杀死怪物"
+Autokillmonster.Parent = ExtraPage
+Autokillmonster.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Autokillmonster.BorderSizePixel = 0
+Autokillmonster.Position = UDim2.new(0.755999982, 0, 0.100000001, 0)
+Autokillmonster.Size = UDim2.new(0, 120, 0, 20)
+Autokillmonster.Font = Enum.Font.GothamBold
+Autokillmonster.Text = "自动夜铃"
+Autokillmonster.TextColor3 = Color3.new(1, 1, 1)
+Autokillmonster.TextSize = 14
+ 
+RemoteQuest.Name = "远程任务"
+RemoteQuest.Parent = ExtraPage
+RemoteQuest.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+RemoteQuest.BorderSizePixel = 0
+RemoteQuest.Position = UDim2.new(0.510999978, 0, 0.100000001, 0)
+RemoteQuest.Size = UDim2.new(0, 120, 0, 20)
+RemoteQuest.Font = Enum.Font.GothamBold
+RemoteQuest.Text = "自动任务"
+RemoteQuest.TextColor3 = Color3.new(1, 1, 1)
+RemoteQuest.TextSize = 14
+ 
+Autogumdrop.Name = "自动滴胶"
+Autogumdrop.Parent = ExtraPage
+Autogumdrop.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Autogumdrop.BorderSizePixel = 0
+Autogumdrop.Position = UDim2.new(0.261000007, 0, 0.100000001, 0)
+Autogumdrop.Size = UDim2.new(0, 120, 0, 20)
+Autogumdrop.Font = Enum.Font.GothamBold
+Autogumdrop.Text = "自动滴胶"
+Autogumdrop.TextColor3 = Color3.new(1, 1, 1)
+Autogumdrop.TextSize = 14
+ 
+FindWindBee.Name = "找风蜂"
+FindWindBee.Parent = ExtraPage
+FindWindBee.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+FindWindBee.BorderSizePixel = 0
+FindWindBee.Position = UDim2.new(0.0160000008, 0, 0.100000001, 0)
+FindWindBee.Size = UDim2.new(0, 120, 0, 20)
+FindWindBee.Font = Enum.Font.GothamBold
+FindWindBee.Text = "找风蜂"
+FindWindBee.TextColor3 = Color3.new(1, 1, 1)
+FindWindBee.TextSize = 14
+ 
+Useglitter.Name = "Useglitter"
+Useglitter.Parent = ExtraPage
+Useglitter.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Useglitter.BorderSizePixel = 0
+Useglitter.Position = UDim2.new(0.755999982, 0, 0.140375406, 0)
+Useglitter.Size = UDim2.new(0, 120, 0, 20)
+Useglitter.Font = Enum.Font.GothamBold
+Useglitter.Text = "自动收集火花"
+Useglitter.TextColor3 = Color3.new(1, 1, 1)
+Useglitter.TextSize = 14
+ 
+Autogliter.Name = "自动火光"
+Autogliter.Parent = ExtraPage
+Autogliter.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Autogliter.BorderSizePixel = 0
+Autogliter.Position = UDim2.new(0.510999978, 0, 0.140375406, 0)
+Autogliter.Size = UDim2.new(0, 120, 0, 20)
+Autogliter.Font = Enum.Font.GothamBold
+Autogliter.Text = "自动火光"
+Autogliter.TextColor3 = Color3.new(1, 1, 1)
+Autogliter.TextSize = 14
+ 
+Autococonut.Name = "自动椰子"
+Autococonut.Parent = ExtraPage
+Autococonut.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Autococonut.BorderSizePixel = 0
+Autococonut.Position = UDim2.new(0.0160000008, 0, 0.140375406, 0)
+Autococonut.Size = UDim2.new(0, 120, 0, 20)
+Autococonut.Font = Enum.Font.GothamBold
+Autococonut.Text = "自动椰子"
+Autococonut.TextColor3 = Color3.new(1, 1, 1)
+Autococonut.TextSize = 14
+ 
+Autostinger.Name = "自动毒针"
+Autostinger.Parent = ExtraPage
+Autostinger.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Autostinger.BorderSizePixel = 0
+Autostinger.Position = UDim2.new(0.261000007, 0, 0.140375406, 0)
+Autostinger.Size = UDim2.new(0, 120, 0, 20)
+Autostinger.Font = Enum.Font.GothamBold
+Autostinger.Text = "自动毒针"
+Autostinger.TextColor3 = Color3.new(1, 1, 1)
+Autostinger.TextSize = 14
+ 
+Eqipdemonmask.Name = "装备恶魔面具"
+Eqipdemonmask.Parent = ExtraPage
+Eqipdemonmask.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Eqipdemonmask.BorderSizePixel = 0
+Eqipdemonmask.Position = UDim2.new(0.755999982, 0, 0.180000007, 0)
+Eqipdemonmask.Size = UDim2.new(0, 120, 0, 20)
+Eqipdemonmask.Font = Enum.Font.GothamBold
+Eqipdemonmask.Text = "装备恶魔面具"
+Eqipdemonmask.TextColor3 = Color3.new(1, 1, 1)
+Eqipdemonmask.TextScaled = true
+Eqipdemonmask.TextSize = 14
+Eqipdemonmask.TextWrapped = true
+ 
+Equipdemonmask.Name = "装备钻石面具"
+Equipdemonmask.Parent = ExtraPage
+Equipdemonmask.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Equipdemonmask.BorderSizePixel = 0
+Equipdemonmask.Position = UDim2.new(0.510999978, 0, 0.180000007, 0)
+Equipdemonmask.Size = UDim2.new(0, 120, 0, 20)
+Equipdemonmask.Font = Enum.Font.GothamBold
+Equipdemonmask.Text = "装备钻石面具"
+Equipdemonmask.TextColor3 = Color3.new(1, 1, 1)
+Equipdemonmask.TextScaled = true
+Equipdemonmask.TextSize = 14
+Equipdemonmask.TextWrapped = true
+ 
+Equipgummymask.Name = "装备软糖面具"
+Equipgummymask.Parent = ExtraPage
+Equipgummymask.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Equipgummymask.BorderSizePixel = 0
+Equipgummymask.Position = UDim2.new(0.261000007, 0, 0.180000007, 0)
+Equipgummymask.Size = UDim2.new(0, 120, 0, 20)
+Equipgummymask.Font = Enum.Font.GothamBold
+Equipgummymask.Text = "装备软糖面具"
+Equipgummymask.TextColor3 = Color3.new(1, 1, 1)
+Equipgummymask.TextScaled = true
+Equipgummymask.TextSize = 14
+Equipgummymask.TextWrapped = true
+ 
+Automagicbean.Name = "自动魔豆"
+Automagicbean.Parent = ExtraPage
+Automagicbean.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Automagicbean.BorderSizePixel = 0
+Automagicbean.Position = UDim2.new(0.0160000008, 0, 0.180000007, 0)
+Automagicbean.Size = UDim2.new(0, 120, 0, 20)
+Automagicbean.Font = Enum.Font.GothamBold
+Automagicbean.Text = "自动魔豆"
+Automagicbean.TextColor3 = Color3.new(1, 1, 1)
+Automagicbean.TextSize = 14
+ 
+Bringtornado.Name = "带来龙卷风"
+Bringtornado.Parent = ExtraPage
+Bringtornado.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Bringtornado.BorderSizePixel = 0
+Bringtornado.Position = UDim2.new(0.755999982, 0, 0.219999999, 0)
+Bringtornado.Size = UDim2.new(0, 120, 0, 20)
+Bringtornado.Font = Enum.Font.GothamBold
+Bringtornado.Text = "带来龙卷风"
+Bringtornado.TextColor3 = Color3.new(1, 1, 1)
+Bringtornado.TextSize = 14
+ 
+Killstumnail.Name = "自动收集叶子"
+Killstumnail.Parent = ExtraPage
+Killstumnail.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Killstumnail.BorderSizePixel = 0
+Killstumnail.Position = UDim2.new(0.510999978, 0, 0.219999999, 0)
+Killstumnail.Size = UDim2.new(0, 120, 0, 20)
+Killstumnail.Font = Enum.Font.GothamBold
+Killstumnail.Text = "自动收集叶子"
+Killstumnail.TextColor3 = Color3.new(1, 1, 1)
+Killstumnail.TextSize = 14
+ 
+Dropweapon.Name = "放下武器"
+Dropweapon.Parent = ExtraPage
+Dropweapon.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Dropweapon.BorderSizePixel = 0
+Dropweapon.Position = UDim2.new(0.261000007, 0, 0.219999999, 0)
+Dropweapon.Size = UDim2.new(0, 120, 0, 20)
+Dropweapon.Font = Enum.Font.GothamBold
+Dropweapon.Text = "放下武器"
+Dropweapon.TextColor3 = Color3.new(1, 1, 1)
+Dropweapon.TextSize = 14
+ 
+Noclip.Name = "穿墙模式"
+Noclip.Parent = ExtraPage
+Noclip.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Noclip.BorderSizePixel = 0
+Noclip.Position = UDim2.new(0.0160000008, 0, 0.219999999, 0)
+Noclip.Size = UDim2.new(0, 120, 0, 20)
+Noclip.Font = Enum.Font.GothamBold
+Noclip.Text = "穿墙模式"
+Noclip.TextColor3 = Color3.new(1, 1, 1)
+Noclip.TextSize = 14
+ 
+AutoDispenser.Name = "自动分配器"
+AutoDispenser.Parent = ExtraPage
+AutoDispenser.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+AutoDispenser.BorderSizePixel = 0
+AutoDispenser.Position = UDim2.new(0.0144905448, 0, 0.261870772, 0)
+AutoDispenser.Size = UDim2.new(0, 120, 0, 20)
+AutoDispenser.Font = Enum.Font.GothamBold
+AutoDispenser.Text = "自动分配器"
+AutoDispenser.TextColor3 = Color3.new(1, 1, 1)
+AutoDispenser.TextSize = 14
+ 
+Autotop.Name = "自动顶部"
+Autotop.Parent = ExtraPage
+Autotop.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Autotop.BorderSizePixel = 0
+Autotop.Position = UDim2.new(0.259773552, 0, 0.261870772, 0)
+Autotop.Size = UDim2.new(0, 120, 0, 20)
+Autotop.Font = Enum.Font.GothamBold
+Autotop.Text = "自动分配器"
+Autotop.TextColor3 = Color3.new(1, 1, 1)
+Autotop.TextSize = 14
+ 
+AutoDispenser_2.Name = "自动分配器"
+AutoDispenser_2.Parent = ExtraPage
+AutoDispenser_2.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+AutoDispenser_2.BorderSizePixel = 0
+AutoDispenser_2.Position = UDim2.new(0.259773552, 0, 0.261870772, 0)
+AutoDispenser_2.Size = UDim2.new(0, 120, 0, 20)
+AutoDispenser_2.Font = Enum.Font.GothamBold
+AutoDispenser_2.Text = "自动顶部增压器"
+AutoDispenser_2.TextColor3 = Color3.new(1, 1, 1)
+AutoDispenser_2.TextSize = 14
+ 
+Autored.Name = "自动编辑"
+Autored.Parent = ExtraPage
+Autored.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Autored.BorderSizePixel = 0
+Autored.Position = UDim2.new(0.510716915, 0, 0.261870772, 0)
+Autored.Size = UDim2.new(0, 120, 0, 20)
+Autored.Font = Enum.Font.GothamBold
+Autored.Text = "自动编辑增压器"
+Autored.TextColor3 = Color3.new(1, 1, 1)
+Autored.TextScaled = true
+Autored.TextSize = 14
+Autored.TextWrapped = true
+ 
+Autoblue.Name = "自动错误"
+Autoblue.Parent = ExtraPage
+Autoblue.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Autoblue.BorderSizePixel = 0
+Autoblue.Position = UDim2.new(0.755999923, 0, 0.261870772, 0)
+Autoblue.Size = UDim2.new(0, 120, 0, 20)
+Autoblue.Font = Enum.Font.GothamBold
+Autoblue.Text = "自动错误增压器"
+Autoblue.TextColor3 = Color3.new(1, 1, 1)
+Autoblue.TextScaled = true
+Autoblue.TextSize = 14
+Autoblue.TextWrapped = true
+ 
+ExtrasButton.Name = "附加按钮"
+ExtrasButton.Parent = MainPage
+ExtrasButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+ExtrasButton.BorderSizePixel = 0
+ExtrasButton.Position = UDim2.new(0.538195491, 0, 0.0399999991, 0)
+ExtrasButton.Size = UDim2.new(0.159999996, 0, 0.0869999975, 0)
+ExtrasButton.Font = Enum.Font.GothamBold
+ExtrasButton.Text = "额外费用"
+ExtrasButton.TextColor3 = Color3.new(1, 1, 1)
+ExtrasButton.TextSize = 14
+ 
+FarmingButton.Name = "收集按钮"
+FarmingButton.Parent = MainPage
+FarmingButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+FarmingButton.BorderSizePixel = 0
+FarmingButton.Position = UDim2.new(0.198195487, 0, 0.0399999991, 0)
+FarmingButton.Size = UDim2.new(0.159999996, 0, 0.0869999975, 0)
+FarmingButton.Font = Enum.Font.GothamBold
+FarmingButton.Text = "收集"
+FarmingButton.TextColor3 = Color3.new(1, 1, 1)
+FarmingButton.TextSize = 14
+ 
+HomeButton.Name = "主页按钮"
+HomeButton.Parent = MainPage
+HomeButton.BackgroundColor3 = Color3.new(0.345098, 0.14902, 1)
+HomeButton.BorderSizePixel = 0
+HomeButton.Position = UDim2.new(0.0281954892, 0, 0.0399999991, 0)
+HomeButton.Size = UDim2.new(0.159999996, 0, 0.0869999975, 0)
+HomeButton.Font = Enum.Font.GothamBold
+HomeButton.Text = "主页"
+HomeButton.TextColor3 = Color3.new(1, 1, 1)
+HomeButton.TextSize = 14
+ 
+SettingButton.Name = "设置按钮"
+SettingButton.Parent = MainPage
+SettingButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+SettingButton.BorderSizePixel = 0
+SettingButton.Position = UDim2.new(0.708195508, 0, 0.0399999991, 0)
+SettingButton.Size = UDim2.new(0.159999996, 0, 0.0869999975, 0)
+SettingButton.Font = Enum.Font.GothamBold
+SettingButton.Text = "设置"
+SettingButton.TextColor3 = Color3.new(1, 1, 1)
+SettingButton.TextSize = 14
+ 
+WaypointsButton.Name = "航路点按钮"
+WaypointsButton.Parent = MainPage
+WaypointsButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+WaypointsButton.BorderSizePixel = 0
+WaypointsButton.Position = UDim2.new(0.368195474, 0, 0.0399999991, 0)
+WaypointsButton.Size = UDim2.new(0.159999996, 0, 0.0869999975, 0)
+WaypointsButton.Font = Enum.Font.GothamBold
+WaypointsButton.Text = "航路点"
+WaypointsButton.TextColor3 = Color3.new(1, 1, 1)
+WaypointsButton.TextSize = 14
+ 
+SettingPage.Name = "设置按钮"
+SettingPage.Parent = MainPage
+SettingPage.BackgroundColor3 = Color3.new(1, 1, 1)
+SettingPage.BackgroundTransparency = 1
+SettingPage.Position = UDim2.new(-0, 0, 0.127000004, 0)
+SettingPage.Size = UDim2.new(1, 0, 0.787999988, 0)
+SettingPage.Visible = false
+ 
+Antiafk.Name = "反对挂机"
+Antiafk.Parent = SettingPage
+Antiafk.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Antiafk.BorderSizePixel = 0
+Antiafk.Position = UDim2.new(0.0264150947, 0, 0.0853963569, 0)
+Antiafk.Size = UDim2.new(0, 98, 0, 20)
+Antiafk.Font = Enum.Font.GothamBold
+Antiafk.Text = "反对挂机"
+Antiafk.TextColor3 = Color3.new(1, 1, 1)
+Antiafk.TextSize = 14
+ 
+Antiafkbutton.Name = "反AFK按钮"
+Antiafkbutton.Parent = Antiafk
+Antiafkbutton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+Antiafkbutton.BorderSizePixel = 0
+Antiafkbutton.Position = UDim2.new(1.08163261, 0, 0, 0)
+Antiafkbutton.Size = UDim2.new(0, 20, 0, 20)
+Antiafkbutton.Font = Enum.Font.GothamBold
+Antiafkbutton.Text = "X"
+Antiafkbutton.TextColor3 = Color3.new(1, 1, 1)
+Antiafkbutton.TextScaled = true
+Antiafkbutton.TextSize = 14
+Antiafkbutton.TextWrapped = true
+ 
+Close.Name = "关掉"
+Close.Parent = MiniPage
+Close.BackgroundColor3 = Color3.new(1, 1, 1)
+Close.BackgroundTransparency = 1
+Close.Position = UDim2.new(0.00760612637, 0, 0.0016666688, 0)
+Close.Size = UDim2.new(0, 25, 0, 25)
+Close.Font = Enum.Font.GothamBold
+Close.Text = "-"
+Close.TextColor3 = Color3.new(1, 1, 1)
+Close.TextSize = 20
+ 
+DarkCyberLoadingGUI.Name = "[DarkCyber]加载GUI"
+DarkCyberLoadingGUI.Parent = game.CoreGui
+ 
+LoadingFrame.Name = "加载框架"
+LoadingFrame.Parent = DarkCyberLoadingGUI
+LoadingFrame.BackgroundColor3 = Color3.new(0.321569, 0.462745, 1)
+LoadingFrame.BorderSizePixel = 0
+LoadingFrame.Position = UDim2.new(0.410933673, 0, 0.416230351, 0)
+LoadingFrame.Size = UDim2.new(0, 342, 0, 127)
+ 
+Createtitle.Name = "创建标题"
+Createtitle.Parent = LoadingFrame
+Createtitle.BackgroundColor3 = Color3.new(1, 1, 1)
+Createtitle.BackgroundTransparency = 1
+Createtitle.Size = UDim2.new(0, 108, 0, 25)
+Createtitle.Font = Enum.Font.GothamBlack
+Createtitle.Text = "ato汉化脚本"
+Createtitle.TextColor3 = Color3.new(1, 1, 1)
+Createtitle.TextSize = 14
+ 
+NameTitle.Name = "名字标题"
+NameTitle.Parent = Createtitle
+NameTitle.BackgroundColor3 = Color3.new(1, 1, 1)
+NameTitle.BackgroundTransparency = 1
+NameTitle.Position = UDim2.new(1, 0, 0, 0)
+NameTitle.Size = UDim2.new(0, 233, 0, 25)
+NameTitle.Font = Enum.Font.GothamBold
+NameTitle.Text = "蜂群模拟器"
+NameTitle.TextColor3 = Color3.new(1, 1, 1)
+NameTitle.TextSize = 14
+ 
+Loadingimage.Name = "正在加载图像"
+Loadingimage.Parent = LoadingFrame
+Loadingimage.BackgroundColor3 = Color3.new(1, 1, 1)
+Loadingimage.BackgroundTransparency = 1
+Loadingimage.BorderSizePixel = 0
+Loadingimage.Position = UDim2.new(0.112938613, 0, 0.29838711, 0)
+Loadingimage.Size = UDim2.new(0, 50, 0, 50)
+Loadingimage.Image = "http://www.roblox.com/asset/?id=3953349579"
+ 
+Loadingtext.Name = "正在加载文本"
+Loadingtext.Parent = LoadingFrame
+Loadingtext.BackgroundColor3 = Color3.new(1, 1, 1)
+Loadingtext.BackgroundTransparency = 1
+Loadingtext.Position = UDim2.new(0.3004677, 0, 0.307086617, 0)
+Loadingtext.Size = UDim2.new(0, 200, 0, 50)
+Loadingtext.Font = Enum.Font.GothamBold
+Loadingtext.Text = "正在加载地点"
+Loadingtext.TextColor3 = Color3.new(0, 0, 0)
+Loadingtext.TextSize = 17
+Loadingtext.TextXAlignment = Enum.TextXAlignment.Left
+ 
+DarkCyberSynapshitGUI.Name = "[DarkCyber]ato汉化GUI"
+DarkCyberSynapshitGUI.Parent = game.CoreGui
+ 
+SynapShitPage.Name = "突触屎页"
+SynapShitPage.Parent = DarkCyberSynapshitGUI
+SynapShitPage.BackgroundColor3 = Color3.new(0.321569, 0.462745, 1)
+SynapShitPage.BorderSizePixel = 0
+SynapShitPage.Position = UDim2.new(0.416354954, 0, 0.417690426, 0)
+SynapShitPage.Size = UDim2.new(0, 267, 0, 134)
+SynapShitPage.Visible = false
+ 
+local Createtitle2 = Instance.new("TextLabel")
+ 
+Createtitle2.Name = "创建标题"
+Createtitle2.Parent = SynapShitPage
+Createtitle2.BackgroundColor3 = Color3.new(1, 1, 1)
+Createtitle2.BackgroundTransparency = 1
+Createtitle2.Size = UDim2.new(0, 108, 0, 25)
+Createtitle2.Font = Enum.Font.GothamBlack
+Createtitle2.Text = "ato汉化脚本"
+Createtitle2.TextColor3 = Color3.new(1, 1, 1)
+Createtitle2.TextSize = 14
+ 
+NameTitle2 = Instance.new("TextLabel")
+ 
+NameTitle2.Name = "名字标题"
+NameTitle2.Parent = Createtitle2
+NameTitle2.BackgroundColor3 = Color3.new(1, 1, 1)
+NameTitle2.BackgroundTransparency = 1
+NameTitle2.Position = UDim2.new(0.997087002, 0, 0, 0)
+NameTitle2.Size = UDim2.new(0, 159, 0, 25)
+NameTitle2.Font = Enum.Font.GothamBold
+NameTitle2.Text = "蜂群模拟器"
+NameTitle2.TextColor3 = Color3.new(1, 1, 1)
+NameTitle2.TextSize = 14
+ 
+Welcome.Name = "欢迎"
+Welcome.Parent = SynapShitPage
+Welcome.BackgroundColor3 = Color3.new(1, 1, 1)
+Welcome.BackgroundTransparency = 1
+Welcome.Position = UDim2.new(0, 0, 0.313432842, 0)
+Welcome.Size = UDim2.new(0, 266, 0, 50)
+Welcome.Font = Enum.Font.GothamBold
+Welcome.Text = "欢迎使用ato汉化的脚本"
+Welcome.TextColor3 = Color3.new(1, 1, 1)
+Welcome.TextSize = 25
+Welcome.TextWrapped = true
+ 
+-- Scripts:
+local red = Color3.fromRGB(255, 80, 80)
+local blue = Color3.new(0.34902, 0.32549, 1)
+ 
+MiniPage.Selectable = true
+MiniPage.Draggable = true
+MiniPage.Active = true
+ 
+local repss = 0
+local xoay = 0
+ 
+spawn(function()
+for i=1,150 do wait(.05)
+      xoay = xoay - 10
+      Loadingimage.Rotation = xoay
+end
+end)
+ 
+for c=1,10 do wait(.3)
+      Loadingtext.Text = "Loading Place"..string.rep('.',repss%3+1)
+      repss = repss + 1
+end
+ 
+Loadingtext.Text = "Loading Place: Success"
+wait(1)
+ 
+local repss = 0
+ 
+for d=1,10 do wait(.3)
+      Loadingtext.Text = "Loading UI"..string.rep('.',repss%3+1)
+      repss = repss + 1
+end
+ 
+if game.PlaceId == 1537690962 or game.PlaceId == 4079902982 then
+Loadingtext.Text = "Loading UI: Success"
+if syn then
+LoadingFrame:TweenPosition(UDim2.new(0.410933673, 0, -0.7, 0))
+wait(1)
+DarkCyberLoadingGUI:Destroy()
+SynapShitPage.Visible = true
+wait(2)
+SynapShitPage:TweenPosition(UDim2.new(0.416354954, 0, -0.717690426, 0))
+wait(1)
+DarkCyberSynapshitGUI:Destroy()
+wait(1)
+MiniPage:TweenPosition(UDim2.new(0.361979187, 0, 0.34183538, 0))  --0.361979187, 0, 0.34183538, 0
+else
+LoadingFrame:TweenPosition(UDim2.new(0.410933673, 0, -0.7, 0))
+wait(1)
+DarkCyberLoadingGUI:Destroy()
+MiniPage:TweenPosition(UDim2.new(0.361979187, 0, 0.34183538, 0))  --0.361979187, 0, 0.34183538, 0
+end
+end
+ 
+Copylinkdiscord.MouseButton1Down:Connect(function()
+setclipboard("discord.gg/GT6uXF2")
+end)
+ 
+HomeButton.MouseButton1Down:Connect(function()
+HomeButton.BackgroundColor3 = Color3.new(0.345098, 0.14902, 1)
+FarmingButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+WaypointsButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+ExtrasButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+SettingButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+HomePage.Visible = true
+FarmingPage.Visible = false
+WaypointPage.Visible = false
+ExtraPage.Visible = false
+SettingPage.Visible = false
+end)
+ 
+FarmingButton.MouseButton1Down:Connect(function()
+HomeButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+FarmingButton.BackgroundColor3 = Color3.new(0.345098, 0.14902, 1)
+WaypointsButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+ExtrasButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+SettingButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+HomePage.Visible = false
+FarmingPage.Visible = true
+WaypointPage.Visible = false
+ExtraPage.Visible = false
+SettingPage.Visible = false
+end)
+ 
+WaypointsButton.MouseButton1Down:Connect(function()
+HomeButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+FarmingButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+WaypointsButton.BackgroundColor3 = Color3.new(0.345098, 0.14902, 1)
+ExtrasButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+SettingButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)  
+HomePage.Visible = false
+FarmingPage.Visible = false
+WaypointPage.Visible = true
+ExtraPage.Visible = false
+SettingPage.Visible = false
+end)
+ 
+ 
+local UserInputService = game:GetService("UserInputService")
+ 
+local function onInputEnded(inputObject, gameProcessedEvent)
+    -- First check if the 'gameProcessedEvent' is true
+    -- This indicates that another script had already processed the input, so this one can be ignored
+    if gameProcessedEvent then return end
+    -- Next, check that the input was a keyboard event
+    if inputObject.UserInputType == Enum.UserInputType.Keyboard then
+        if inputObject.KeyCode == Enum.KeyCode.Home then --NÃºt home Ä‘Ã³ng m? ui
+            if MiniPage.Visible == true then
+            MiniPage.Visible =  false
+        elseif MiniPage.Visible == false then
+            MiniPage.Visible = true
+        end
+    end
+end
+end
+UserInputService.InputEnded:Connect(onInputEnded)
+ 
+ 
+ExtrasButton.MouseButton1Down:Connect(function()
+HomeButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+FarmingButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+WaypointsButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+ExtrasButton.BackgroundColor3 = Color3.new(0.345098, 0.14902, 1)
+SettingButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+HomePage.Visible = false
+FarmingPage.Visible = false
+WaypointPage.Visible = false
+ExtraPage.Visible = true
+SettingPage.Visible = false
+end)
+ 
+SettingButton.MouseButton1Down:Connect(function()
+HomeButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+FarmingButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+WaypointsButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+ExtrasButton.BackgroundColor3 = Color3.new(0.34902, 0.32549, 1)
+SettingButton.BackgroundColor3 = Color3.new(0.345098, 0.14902, 1)
+HomePage.Visible = false
+FarmingPage.Visible = false
+WaypointPage.Visible = false
+ExtraPage.Visible = false
+SettingPage.Visible = true
+end)
+ 
+Destroy.MouseButton1Down:Connect(function()
+MiniPage:TweenPosition(UDim2.new(0.361979187, 0, -0.7, 0))
+wait(1)
+DarkCyberMainGUI:Destroy()
+end)
+ 
+Destroy.MouseEnter:Connect(function()
+Destroy.TextColor3 = Color3.new(255,0,0)
+end)
+ 
+Destroy.MouseLeave:Connect(function()
+Destroy.TextColor3 = Color3.new(255,255,255)
+end)
+ 
+Close.MouseButton1Down:Connect(function()
+if Close.Text == "-" then
+      MainPage.Visible = false
+      Close.Text ="+"
+else
+      MainPage.Visible = true
+      Close.Text = "-"
+end
+end)
+ 
+local Waypoints = {
+ 
+["Tunnel Bear"] = CFrame.new(507.3, 5.7, -45.7),
+["Redfield Boost"] = CFrame.new(-332, 20, 244),
+["Bluefield Boost"] = CFrame.new(319, 58, 103),
+["MountainTop Boost"] = CFrame.new(-40, 176, -191.7),
+["Bee Shop"] = CFrame.new(-136.8, 4.6, 243.4),
+["Tool Shop"] = CFrame.new(86, 4.6, 294),
+["Tool Shop 2"] = CFrame.new(165, 69, -161),
+["MountainTop Shop"] = CFrame.new(-18, 176, -137),
+["Red Clubhouse"] = CFrame.new(-334, 21, 216),
+["Blue Clubhouse"] = CFrame.new(292, 4, 98),
+["Ticket Shop"] = CFrame.new(-12.8, 184, -222.2),
+["Club Honey"] = CFrame.new(44.8, 5, 319.6),
+["RoyalJelly Shop"] = CFrame.new(-297, 53, 68),
+["Ticket RoyalJelly Shop"] = CFrame.new(81, 18, 240),
+["Honeystorm Dispensor"] = CFrame.new(238.4, 33.3, 165.6),
+["Blueberry Dispenser"] = CFrame.new(313.3, 58, 86.9),
+["Strawberry Dispenser"] = CFrame.new(-320.5, 46, 272.5),
+["Sprout Dispenser"] = CFrame.new(-269.26, 26.56, 267.31),
+["Instant Honey Convertor"] = CFrame.new(282, 68, -62),
+["King Beetles Lair"] = CFrame.new(218, 3, 140),
+["Clover Field"] = CFrame.new(174, 34, 189),
+["Mushroom Field"] = CFrame.new(-258.1, 5, 299.7),
+["Spider Field"] = CFrame.new(-57.2, 20, -5.3),
+["Blue Field"] = CFrame.new(113.7, 4, 101.5),
+["Sunflower Field"] = CFrame.new(-208, 4, 185),
+["StrawBerry Field"] = CFrame.new(-169.3, 20, -3.2),
+["Red Field"] = CFrame.new(-258.1, 5, 299.7),
+["Dandelion Field"] = CFrame.new(-30, 4, 225),
+["BamBoo Field"] = CFrame.new(93, 20, -25),
+["Rose Field"] = CFrame.new(-322, 20, 124),
+["Mushroom Field"] = CFrame.new(-94, 5, 116),
+["Cactus Field"] = CFrame.new(-194, 68, -107),
+["Pumpkin Field"] = CFrame.new(-194, 68, -182),
+["MountainTop Field"] = CFrame.new(76, 176, -181),
+["PineTree Field"] = CFrame.new(-318, 68, -150),
+["Pineapple Field"] = CFrame.new(262, 68, -201),
+["Onett"] = CFrame.new(-8.4, 234, -517.9),
+["Gumdrop Dispenser"] = CFrame.new(63, 20.7, 38.7),
+["Treat Dispenser"] = CFrame.new(193.9, 68, -123),
+["Treat Shop"] = CFrame.new(-228.2, 5, 89.4),
+["Star Hut"] = CFrame.new(135.9, 64.6, 322.1),
+["Wealth Clock"] = CFrame.new(310.5, 47.6, 190),
+["Coconut Field"] = CFrame.new(-255,72,459),
+["Pepper Patch"] = CFrame.new(-486,124,517),
+["CCN"] = CFrame.new(-176,71,534),
+["Nuoc"] = CFrame.new(-426,70,38),
+["Moon"] = CFrame.new(21,88,-54),
+["Kill Snail"] = CFrame.new(420,117,-178),
+["CC"] = CFrame.new(270,25260,-718),
+["CC1"] = CFrame.new(-147,5,195),
+["CC2"] = CFrame.new(-431,70,-53),
+["CC3"] = CFrame.new(-23,318,-270),
+["CC4"] = CFrame.new(-405,110,545),
+["CC5"] = CFrame.new(136,66,322),
+["CC6"] = CFrame.new(-270,28,267),
+["CC7"] = CFrame.new(312,49,189),
+["CC8"] = CFrame.new(218,5,140),
+["Ant"] = CFrame.new(112,32,477),
+["CC9"] = CFrame.new(592,7,-46),
+["CC12"] = CFrame.new(-500,52,458),
+["CC13"] = CFrame.new(291,28,271),
+["CC14"] = CFrame.new(272,25268,-773),
+["CC15"] = CFrame.new(-336,133,-387),
+["CC16"] = CFrame.new(218,5,140),
+["CC17"] = CFrame.new(218,5,140),
+["CC19"] = CFrame.new(-486,142,410),
+["CC18"] = CFrame.new(218,5,140)
+}
+ 
+local nightbell = false
+Autokillmonster.MouseButton1Down:connect(function()
+if nightbell == false then
+      Autokillmonster.BackgroundColor3 = red
+      MainPage.Visible = false
+      Close.Text ="+"
+      nightbell = true
+      while nightbell do
+            wait(5)
+             local A = {
+ 
+            ["Name"] = "Night Bell"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+      end
+else
+      nightbell = false
+       Autokillmonster.BackgroundColor3 = blue
+end
+     
+end)
+WindyBeetp.MouseButton1Down:connect(function()
+      local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["CC19"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Diamondmasktp.MouseButton1Down:connect(function()
+      local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["CC15"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Demonmasktp.MouseButton1Down:connect(function()
+      local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["CC13"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Stinger.MouseButton1Down:connect(function()
+      local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["Ant"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+ 
+TunelBeartp.MouseButton1Down:connect(function()
+      local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["Tunnel Bear"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+GummyMask.MouseButton1Down:connect(function()
+      local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["CC14"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Coconutshoptp.MouseButton1Down:connect(function()
+      local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["CCN"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Petaltp.MouseButton1Down:connect(function()
+      local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["CC12"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Stumptp.MouseButton1Down:connect(function()
+      local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["Kill Snail"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Suntp.MouseButton1Down:connect(function()
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["Sunflower Field"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Dantp.MouseButton1Down:connect(function()
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["Dandelion Field"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Clovertp.MouseButton1Down:connect(function()
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["Clover Field"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Bambootp.MouseButton1Down:connect(function()
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["BamBoo Field"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Blueftp.MouseButton1Down:connect(function()
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["Blue Field"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Mushtp.MouseButton1Down:connect(function()
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["Mushroom Field"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Spidertp.MouseButton1Down:connect(function()
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["Spider Field"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Strawtp.MouseButton1Down:connect(function()
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["StrawBerry Field"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Pineappletp.MouseButton1Down:connect(function()
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["Pineapple Field"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Rosetp.MouseButton1Down:connect(function()
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["Rose Field"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Castustp.MouseButton1Down:connect(function()
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["Cactus Field"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Pumtp.MouseButton1Down:connect(function()
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["Pumpkin Field"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Pintreetp.MouseButton1Down:connect(function()
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["PineTree Field"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Toptp.MouseButton1Down:connect(function()
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["MountainTop Field"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Coconuttp.MouseButton1Down:connect(function()
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["Coconut Field"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Peppertp.MouseButton1Down:connect(function()
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["Pepper Patch"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+ 
+ 
+Autored.MouseButton1Down:connect(function()
+      MainPage.Visible = false
+      Close.Text ="+"
+      local a = "Red Field Booster"
+local Event = game:GetService("ReplicatedStorage").Events.ToyEvent
+Event:FireServer(a)
+      while wait(10) do
+local a = "Red Field Booster"
+local Event = game:GetService("ReplicatedStorage").Events.ToyEvent
+Event:FireServer(a)
+end
+end)
+Autoblue.MouseButton1Down:connect(function()
+      MainPage.Visible = false
+      Close.Text ="+"
+      local a = "Blue Field Booster"
+local Event = game:GetService("ReplicatedStorage").Events.ToyEvent
+Event:FireServer(a)
+      while wait(10) do
+local a = "Blue Field Booster"
+local Event = game:GetService("ReplicatedStorage").Events.ToyEvent
+Event:FireServer(a)
+      end
+end)
+ 
+AutoDispenser_2.MouseButton1Down:connect(function()
+      MainPage.Visible = false
+      Close.Text ="+"
+     
+local a = "Field Booster"
+local Event = game:GetService("ReplicatedStorage").Events.ToyEvent
+Event:FireServer(a)
+      while wait(10) do
+local a = "Field Booster"
+local Event = game:GetService("ReplicatedStorage").Events.ToyEvent
+Event:FireServer(a)
+      end
+     
+end)
+ 
+local afksnail = false
+Afkstumptp.MouseButton1Down:connect(function(l)
+if afksnail == false then
+      afksnail = true
+      Afkstumptp.BackgroundColor3 = red
+      MainPage.Visible = false
+      Close.Text ="+"
+      noclip = true
+      while afksnail do
+            wait()
+           
+            local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["Kill Snail"]
+      end
+else
+      afksnail = false
+      Afkstumptp.BackgroundColor3 = blue
+end
+end)
+ 
+     
+     
+ 
+Shopbasictp.MouseButton1Down:connect(function()
+     
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["Tool Shop"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Shopproctp.MouseButton1Down:connect(function()
+     
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["Tool Shop 2"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Shoptoptp.MouseButton1Down:connect(function()
+     
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["MountainTop Shop"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Shopsprinklertp.MouseButton1Down:connect(function()
+     
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["Nuoc"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Shopmoontp.MouseButton1Down:connect(function()
+     
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["Moon"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+ 
+ 
+InstantConversiontp.MouseButton1Down:connect(function()
+     
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["CC1"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+MegaMemorytp.MouseButton1Down:connect(function()
+     
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["CC2"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+NightMemorytp.MouseButton1Down:connect(function()
+     
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["CC3"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+ExtremeMemorytp.MouseButton1Down:connect(function()
+     
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["CC4"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+StartHalltp.MouseButton1Down:connect(function()
+     
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["CC5"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+SummonSprouttp.MouseButton1Down:connect(function()
+     
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["CC6"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Anttp.MouseButton1Down:connect(function()
+     
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["Ant"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+Kingamulettp.MouseButton1Down:connect(function()
+     
+local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["CC8"]
+      MainPage.Visible = false
+      Close.Text ="+"
+end)
+ 
+--auto
+ 
+ 
+local dispenser = false
+AutoDispenser.MouseButton1Down:connect(function()
+if dispenser == false then
+      dispenser = true
+      AutoDispenser.BackgroundColor3 = red
+      MainPage.Visible = false
+      Close.Text ="+"
+      while dispenser do
+            wait(5)
+     
+      local A_1 = "Glue Dispenser"
+                  local Event = game:GetService("ReplicatedStorage").Events.ToyEvent
+                  Event:FireServer(A_1)
+                  local A_1 = "Wealth Clock"
+                  local Event = game:GetService("ReplicatedStorage").Events.ToyEvent
+                  Event:FireServer(A_1)
+                  local A_1 = "Coconut Dispenser"
+                  local Event = game:GetService("ReplicatedStorage").Events.ToyEvent
+                  Event:FireServer(A_1)
+                  local A_1 = "Strawberry Dispenser"
+                  local Event = game:GetService("ReplicatedStorage").Events.ToyEvent
+                  Event:FireServer(A_1)
+                  local A_1 = "Treat Dispenser"
+                  local Event = game:GetService("ReplicatedStorage").Events.ToyEvent
+                  Event:FireServer(A_1)
+                  local A_1 = "Free Ant Pass Dispenser"
+                  local Event = game:GetService("ReplicatedStorage").Events.ToyEvent
+                  Event:FireServer(A_1)
+                  local A_1 = "Blueberry Dispenser"
+                  local Event = game:GetService("ReplicatedStorage").Events.ToyEvent
+                  Event:FireServer(A_1)
+                  local A_1 = "Honey Dispenser"
+                  local Event = game:GetService("ReplicatedStorage").Events.ToyEvent
+                  Event:FireServer(A_1)
+                  local A_1 = "Free Royal Jelly Dispenser"
+                  local Event = game:GetService("ReplicatedStorage").Events.ToyEvent
+                  Event:FireServer(A_1)
+                  end
+else
+      dispenser = false
+      AutoDispenser.BackgroundColor3 = blue
+end
+end)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dropweapon.MouseButton1Down:connect(function()
+      MainPage.Visible = false
+      Close.Text ="+"
+game.Players.LocalPlayer.Character.Humanoid.Name = 1
+local l = game.Players.LocalPlayer.Character["1"]:Clone()
+l.Parent = game.Players.LocalPlayer.Character
+l.Name = "Humanoid"
+wait(0.1)
+game.Players.LocalPlayer.Character["1"]:Destroy()
+game.Workspace.CurrentCamera.CameraSubject = game.Players.LocalPlayer.Character
+game.Players.LocalPlayer.Character.Animate.Disabled = true
+wait(0.1)
+game.Players.LocalPlayer.Character.Animate.Disabled = false
+game.Players.LocalPlayer.Character.Humanoid.DisplayDistanceType = "None"
+end)
+ 
+ 
+ 
+ 
+local killtunell = false
+KillTunnel.MouseButton1Down:connect(function(j)
+      if killtunell == false then
+      MainPage.Visible = false
+      Close.Text ="+"
+      local uTorso = workspace:WaitForChild(game.Players.LocalPlayer.Name).HumanoidRootPart
+      uTorso.CFrame = Waypoints["Tunnel Bear"]
+      killtunell = true
+      KillTunnel.BackgroundColor3 = red
+      noclip = true
+      for _,v in pairs(game.workspace.Decorations.TrapTunnel:GetChildren()) do
+      if string.find(v.Name,"") then
+            v:Destroy()
+ 
+      end
+      end
+      wait(6)
+      while killtunell do
+            wait()
+      for _,v in pairs(game.Workspace.Monsters:GetChildren()) do
+      if string.find(v.Name,"Tunnel") then
+      game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.HumanoidRootPart.CFrame * CFrame.new(0,20.5,0)
+ 
+      end
+      end
+      end
+      else
+      noclip = false    
+      killtunell = false
+      KillTunnel.BackgroundColor3 = blue
+end
+end)
+ 
+ 
+ 
+ 
+ 
+noclip = false
+game:GetService('RunService').Stepped:connect(function()
+if noclip then
+game.Players.LocalPlayer.Character.Humanoid:ChangeState(11)
+end
+end)
+plr = game.Players.LocalPlayer
+mouse = plr:GetMouse()
+mouse.KeyDown:connect(function(key)
+if key == "o" then
+noclip = not noclip
+game.Players.LocalPlayer.Character.Humanoid:ChangeState(11)
+end
+end)
+ 
+ 
+ 
+ 
+ 
+local killcoconut = false
+Killcoconutcrab.MouseButton1Down:connect(function()
+      if killcoconut == false then
+            MainPage.Visible = false
+      Close.Text ="+"
+      Killcoconutcrab.BackgroundColor3 = red
+      killcoconut = true
+      noclip = true
+      game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-256.375092, 112.547897, 500.457794, 0.998952866, -0.0450557806, 0.00794458669, -8.64538929e-09, 0.173648775, 0.98480767, -0.0457508452, -0.98377645, 0.173466951)
+else
+      killcoconut = false
+      noclip = false
+      Killcoconutcrab.BackgroundColor3 = blue
+end
+end)
+ 
+ 
+local vu = game:GetService("VirtualUser")
+game:GetService("Players").LocalPlayer.Idled:connect(function()
+  vu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+  wait(1)
+  vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+print ("Afk 15m")
+end)
+ 
+ 
+ 
+ 
+local stinger = false
+Autostinger.MouseButton1Down:connect(function(b)
+if stinger == false then
+      MainPage.Visible = false
+      Close.Text ="+"
+      stinger = true
+      Autostinger.BackgroundColor3 = red
+      local A = {
+ 
+            ["Name"] = "Stinger"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+      while stinger do
+            wait(30)
+     
+            local A = {
+ 
+            ["Name"] = "Stinger"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+      end
+else
+      stinger = false
+      Autostinger.BackgroundColor3 = blue
+end
+ 
+end)
+ 
+ 
+ 
+local item = false
+Autobuffitem.MouseButton1Down:connect(function(c)
+if item == false then
+      MainPage.Visible = false
+      Close.Text ="+"
+      item = true
+      Autobuffitem.BackgroundColor3 = red
+      local A = {
+ 
+            ["Name"] = "Blue Extract"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+      local A = {
+ 
+            ["Name"] = "Red Extract"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+      local A = {
+ 
+            ["Name"] = "Oil"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+      local A = {
+ 
+            ["Name"] = "Enzymes"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+      local A = {
+ 
+            ["Name"] = "Glue"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+      local A = {
+ 
+            ["Name"] = "Glitter"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+      local A = {
+ 
+            ["Name"] = "Tropical Drink"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+      while item do
+            wait(600)
+     
+            local A = {
+ 
+            ["Name"] = "Blue Extract"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+      local A = {
+ 
+            ["Name"] = "Red Extract"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+      local A = {
+ 
+            ["Name"] = "Oil"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+      local A = {
+ 
+            ["Name"] = "Enzymes"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+      local A = {
+ 
+            ["Name"] = "Glue"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+      local A = {
+ 
+            ["Name"] = "Glitter"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+      local A = {
+ 
+            ["Name"] = "Tropical Drink"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+     
+      end
+     
+else
+      item = false
+      Autobuffitem.BackgroundColor3 = blue
+end
+end)
+ 
+ 
+ 
+local gliter = false
+Autogliter.MouseButton1Down:connect(function(d)
+if gliter == false then
+      MainPage.Visible = false
+      Close.Text ="+"
+      gliter = true
+      Autogliter.BackgroundColor3 = red
+      local A = {
+ 
+            ["Name"] = "Glitter"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+      while gliter do
+            wait(920)
+     
+            local A = {
+ 
+            ["Name"] = "Glitter"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+     
+     
+            end
+else
+      gliter = false
+      Autogliter.BackgroundColor3 = blue
+end
+end)
+ 
+ 
+ 
+local coconut = false
+Autococonut.MouseButton1Down:connect(function(e)
+if coconut == false then
+      MainPage.Visible = false
+      Close.Text ="+"
+      coconut = true
+      Autococonut.BackgroundColor3 = red
+      local A = {
+ 
+            ["Name"] = "Coconut"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+      while coconut do
+            wait(11)
+     
+            local A = {
+ 
+            ["Name"] = "Coconut"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+     
+      end
+else
+      coconut = false
+      Autococonut.BackgroundColor3 = blue
+end
+end)
+ 
+     
+ 
+ 
+ 
+     
+local AutoDig = false
+Autodig.MouseButton1Down:connect(function()
+      if AutoDig == false then
+            MainPage.Visible = false
+      Close.Text ="+"
+      AutoDig = true
+      Autodig.BackgroundColor3 = red
+      while AutoDig do
+            wait(0.5)
+           
+ for _,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+      if v:IsA("Tool") then
+            v.ClickEvent:FireServer()
+     
+      end
+            end
+            end
+else
+      AutoDig = false
+      Autodig.BackgroundColor3 = blue
+end
+end)
+ 
+ 
+ 
+local Sparkles = false
+Useglitter.MouseButton1Down:connect(function()
+ 
+if Sparkles == false then
+       MainPage.Visible = false
+      Close.Text ="+"
+      Sparkles = true
+      Useglitter.BackgroundColor3 = red
+local test = "C"
+local tweenservice = game:GetService("TweenService")
+local plr = game.Players.LocalPlayer
+local info = TweenInfo.new(0.1) -- change to how long it takes to get to the item (in seconds)
+local item = {}
+while Sparkles do
+wait(0.5)
+for _,v in pairs(game.workspace.Flowers:GetDescendants()) do
+if string.find(v.Name,"Sparkles") then
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.Parent.CFrame
+end
+end
+for k,v in pairs(workspace.Collectibles:GetChildren()) do
+ if tostring(v) == tostring(game.Players.LocalPlayer.Name) or tostring(v) == test then
+                        if (v.Position-plr.Character.HumanoidRootPart.Position).magnitude <= 60 then
+item.CFrame = CFrame.new(v.Position.x,plr.Character.HumanoidRootPart.Position.y,v.Position.z)
+local Tween = tweenservice:Create(plr.Character.HumanoidRootPart, info, item)
+Tween:Play()
+end
+end
+end
+end
+ 
+else
+      Sparkles = false
+      Useglitter.BackgroundColor3 = blue
+end
+end)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+local gumdrop = false
+Autogumdrop.MouseButton1Down:connect(function(h)
+      if gumdrop == false then
+            MainPage.Visible = false
+      Close.Text ="+"
+      gumdrop = true
+      Autogumdrop.BackgroundColor3 = red
+      while gumdrop do
+            wait(2)
+           
+            local A = {
+ 
+            ["Name"] = "Gumdrops"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+     
+            end
+else
+      gumdrop = false
+      Autogumdrop.BackgroundColor3 = blue
+end
+end)
+ 
+Equipgummymask.MouseButton1Down:connect(function()
+      MainPage.Visible = false
+      Close.Text ="+"
+      local A_1 = "Equip"
+local A_2 =
+{
+      ["Mute"] = true,
+      ["Type"] = "Gummy Mask",
+      ["Category"] = "Accessory"
+}
+local Event = game:GetService("ReplicatedStorage").Events.ItemPackageEvent
+Event:InvokeServer(A_1, A_2)
+end)
+ 
+local tpwindy = false
+Autokillwindy.MouseButton1Down:connect(function(o)
+     
+      if tpwindy == false then
+      tpwindy = true
+      MainPage.Visible = false
+      Close.Text ="+"
+      Autokillwindy.BackgroundColor3 =red
+      noclip = true
+    local player = game.Players.LocalPlayer
+    local sanghuman = player.Character.HumanoidRootPart
+ 
+      while tpwindy do
+            wait()
+           
+     for _,v in pairs(game.workspace.Monsters:GetChildren()) do
+      if string.find(v.Name,"Windy") then
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.Torso.CFrame * CFrame.new(0,25,0)
+end
+end
+ for k,r in pairs(workspace.Collectibles:GetChildren()) do
+            if tostring(r) == tostring(game.Players.LocalPlayer.Name) or tostring(r) == "C" then
+                        if (r.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).magnitude <= 25 then
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = r.CFrame
+                local intvalue = Instance.new("IntValue",r)
+                intvalue.Name = "Void"
+end
+end
+end
+      end
+else
+      tpwindy = false
+      noclip = false
+      Autokillwindy.BackgroundColor3 =blue
+end
+end)
+ 
+     
+     
+     
+ 
+ 
+ 
+ 
+local tornado = false
+Bringtornado.MouseButton1Down:connect(function()
+if tornado == false then
+      MainPage.Visible = false
+      Close.Text ="+"
+      tornado = true
+      Bringtornado.BackgroundColor3 = red
+while tornado do
+wait(0.3)
+local test = "Root"
+local test2 = "Plane"
+local tweenservice = game:GetService("TweenService")
+local plr = game.Players.LocalPlayer
+local info = TweenInfo.new(0.3) -- change to how long it takes to get to the item (in seconds)
+local item = {}
+ 
+for i,v in pairs(game.workspace.Particles:GetDescendants()) do
+if v.Name == test or v.Name == test2 then
+for _,i in pairs(game.workspace.Collectibles:GetChildren()) do
+if tostring(i) == tostring(game.Players.LocalPlayer.Name) or tostring(i) == "C" then
+if (i.Position-plr.Character.HumanoidRootPart.Position).magnitude <= 60 then
+ 
+item.CFrame = CFrame.new(i.Position.x,plr.Character.HumanoidRootPart.Position.y,i.Position.z)
+ 
+local Tween = tweenservice:Create(v, info, item)
+Tween:Play()
+end
+end
+end
+end
+end
+end
+else
+      tornado = false
+      Bringtornado.BackgroundColor3 = blue
+end
+end)
+ 
+ 
+ 
+Equipdemonmask.MouseButton1Down:connect(function()
+      MainPage.Visible = false
+      Close.Text ="+"
+      local A_1 = "Equip"
+local A_2 =
+{
+      ["Mute"] = true,
+      ["Type"] = "Demon Mask",
+      ["Category"] = "Accessory"
+}
+local Event = game:GetService("ReplicatedStorage").Events.ItemPackageEvent
+Event:InvokeServer(A_1, A_2)
+end)
+Eqipdemonmask.MouseButton1Down:connect(function()
+      MainPage.Visible = false
+      Close.Text ="+"
+      local A_1 = "Equip"
+local A_2 =
+{
+      ["Mute"] = true,
+      ["Type"] = "Diamond Mask",
+      ["Category"] = "Accessory"
+}
+local Event = game:GetService("ReplicatedStorage").Events.ItemPackageEvent
+Event:InvokeServer(A_1, A_2)
+end)
+ 
+ 
+ 
+local Drop = false
+Automagicbean.MouseButton1Down:connect(function(a)
+if Drop == false then
+      MainPage.Visible = false
+      Close.Text ="+"
+      Drop = true
+      Automagicbean.BackgroundColor3 =red
+      while Drop do
+            wait(0.3)
+     
+            local A = {
+ 
+            ["Name"] = "Magic Bean"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+            end
+else
+      Drop = false
+      Automagicbean.BackgroundColor3 =blue
+end
+end)
+ 
+     
+           
+ 
+ 
+ 
+ 
+ 
+Noclip.MouseButton1Down:Connect(function()
+if noclip == false then
+      noclip = true
+      MainPage.Visible = false
+      Close.Text ="+"
+      Noclip.BackgroundColor3 = red
+else
+      noclip = false
+      Noclip.BackgroundColor3 = blue
+end
+end)
+ 
+ 
+ 
+ 
+ 
+local Windy = false
+FindWindBee.MouseButton1Down:connect(function(w)
+      if Windy == false then
+            MainPage.Visible = false
+      Close.Text ="+"
+      Windy = true
+      FindWindBee.BackgroundColor3 =red
+      noclip = true
+while Windy do
+wait()
+for _,v in pairs(game.workspace.NPCBees:GetChildren()) do
+      if v.Name == "Windy" then
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame
+end
+end
+end
+else
+      Windy = false
+      noclip = false
+      FindWindBee.BackgroundColor3 =blue
+      end
+end)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Usenightbell.MouseButton1Down:connect(function()
+      MainPage.Visible = false
+      Close.Text ="+"
+      local A = {
+ 
+            ["Name"] = "Night Bell"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+end)
+ 
+ 
+ 
+ 
+ 
+Usefielddice.MouseButton1Down:connect(function()
+      MainPage.Visible = false
+      Close.Text ="+"
+      local A = {
+ 
+            ["Name"] = "Field Dice"
+      }
+      local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+      Event:FireServer(A)
+end)
+ 
+ 
+ 
+ 
+ 
+ 
+local killvici = false
+Autokillvicious.MouseButton1Down:connect(function(q)
+      if killvici == false then
+            MainPage.Visible = false
+      Close.Text ="+"
+      killvici = true
+      Autokillvicious.BackgroundColor3 =red
+      noclip = true
+      while killvici do
+            wait()
+           
+           
+      for _,i in pairs(game.workspace.Particles:GetChildren()) do
+      if string.find(i.Name,"Waiti") then
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = i.CFrame
+      end
+      end
+for _,v in pairs(game.workspace.Monsters:GetChildren()) do
+      if string.find(v.Name,"Vici") then
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.Torso.CFrame * CFrame.new(0,13,0)
+           
+      end
+end
+for _,r in pairs(game.workspace.Monsters:GetChildren()) do
+      if string.find(r.Name,"Gifted") then
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = r.Torso.CFrame * CFrame.new(0,13,0)
+     
+            end
+           
+      end
+      end
+else
+      killvici = false
+      noclip = false
+      Autokillvicious.BackgroundColor3 =blue
+      end
+end)
+ 
+SunflowerButton.MouseButton1Down:connect(function()
+      tuoidz = "Sunflower Field"
+      FieldText.Text = "Field Select: "..tuoidz
+end)
+MushroomButton.MouseButton1Down:connect(function()
+      tuoidz = "Mushroom Field"
+      FieldText.Text = "Field Select: "..tuoidz
+end)
+DanrButton.MouseButton1Down:connect(function()
+      tuoidz = "Dandelion Field"
+      FieldText.Text = "Field Select: "..tuoidz
+end)
+DanrButton_2.MouseButton1Down:connect(function()
+      tuoidz = "Clover Field"
+      FieldText.Text = "Field Select: "..tuoidz
+end)
+BlueflowerButton.MouseButton1Down:connect(function()
+      tuoidz = "Blue Flower Field"
+      FieldText.Text = "Field Select: "..tuoidz
+end)
+BambooButton.MouseButton1Down:connect(function()
+      tuoidz = "Bamboo Field"
+      FieldText.Text = "Field Select: "..tuoidz
+end)
+BambooButton.MouseButton1Down:connect(function()
+      tuoidz = "Bamboo Field"
+      FieldText.Text = "Field Select: "..tuoidz
+end)
+SpiderButton.MouseButton1Down:connect(function()
+      tuoidz = "Spider Field"
+      FieldText.Text = "Field Select: "..tuoidz
+end)
+StawberryButton.MouseButton1Down:connect(function()
+      tuoidz = "Strawberry Field"
+      FieldText.Text = "Field Select: "..tuoidz
+end)
+StawberryButton.MouseButton1Down:connect(function()
+      tuoidz = "Strawberry Field"
+      FieldText.Text = "Field Select: "..tuoidz
+end)
+PineappleButton.MouseButton1Down:connect(function()
+      tuoidz = "Pineapple Patch"
+      FieldText.Text = "Field Select: "..tuoidz
+end)
+StumpButton.MouseButton1Down:connect(function()
+      tuoidz = "Stump Field"
+      FieldText.Text = "Field Select: "..tuoidz
+end)
+RoseButton.MouseButton1Down:connect(function()
+      tuoidz = "Rose Field"
+      FieldText.Text = "Field Select: "..tuoidz
+end)
+CactusButton.MouseButton1Down:connect(function()
+      tuoidz = "Cactus Field"
+      FieldText.Text = "Field Select: "..tuoidz
+end)
+PumpkinButton.MouseButton1Down:connect(function()
+      tuoidz = "Pumpkin Patch"
+      FieldText.Text = "Field Select: "..tuoidz
+end)
+PineTreeButton.MouseButton1Down:connect(function()
+      tuoidz = "Pine Tree Forest"
+      FieldText.Text = "Field Select: "..tuoidz
+end)
+MountainTopButton.MouseButton1Down:connect(function()
+      tuoidz = "Mountain Top Field"
+      FieldText.Text = "Field Select: "..tuoidz
+end)
+CoconutButton.MouseButton1Down:connect(function()
+      tuoidz = "Coconut Field"
+      FieldText.Text = "Field Select: "..tuoidz
+end)
+PepperButton.MouseButton1Down:connect(function()
+      tuoidz = "Pepper Patch"
+      FieldText.Text = "Field Select: "..tuoidz
+end)
+local player = game.Players.LocalPlayer
+local mouse = player:GetMouse()
+local gui = Instance.new("ScreenGui",player.PlayerGui)
+local frame = Instance.new("Frame",gui)
+local act6 = false
+local act6temp = false
+local act5 = false
+local function Voiddz(sanghuman,sangzboi)
+local jimmy = coroutine.wrap(function()
+        repeat
+            local sanghuman = player.Character.HumanoidRootPart
+            local hotboi = sanghuman.CFrame
+            local sangzboi = workspace.FlowerZones[tuoidz].CFrame
+           
+        for k,v in pairs(workspace.Collectibles:GetChildren()) do
+            if tostring(v) == tostring(game.Players.LocalPlayer.Name) or tostring(v) == "C" then
+                        if (v.Position-sanghuman.Position).magnitude <= 60 then
+                sanghuman.CFrame = CFrame.new(v.Position.x, sanghuman.Position.y, v.Position.z)
+                local intvalue = Instance.new("IntValue",v)
+                intvalue.Name = "Void"
+ wait(.05)
+end
+end
+end
+wait(.05)
+sanghuman.CFrame = sangzboi * CFrame.new(0,0,0)
+wait(.05)
+until not act6 or act6temp
+end)
+local jimmy2 = coroutine.wrap(function()
+for k,v in pairs(workspace[player.Name]:GetChildren()) do
+if v.ClassName == "Tool" then
+repeat
+v.ClickEvent:FireServer()
+wait(.1)
+until not act6 or act6temp
+end
+end
+end)
+jimmy()
+jimmy2()
+end
+StartButton.MouseButton1Down:connect(function()
+if act6 == true then
+act6 = false
+StartButton.BackgroundColor3 = blue
+StartButton.Text = "START FARMING"
+else
+act6 = true
+StartButton.BackgroundColor3 = red
+StartButton.Text = "STOP FARMING"
+MainPage.Visible = false
+Close.Text ="+"
+local jimmy3 = coroutine.wrap(function()
+repeat
+wait()
+for k,v in pairs(workspace[player.Name]:GetChildren()) do
+if v:FindFirstChild("Display") then
+if v.Display.Gui.ProgressBar.Size == v.Display.Gui.RedBar.Size or v.Display.Gui.ProgressLabel == player.CoreStats.Pollen.Value.."/"..player.CoreStats.Pollen.Value then
+act6temp = true
+wait(3)
+local sanghuman = player.Character.HumanoidRootPart
+local hotboi = sanghuman.CFrame
+local sangzboi = workspace.FlowerZones[tuoidz].CFrame
+game:GetService("Players").LocalPlayer.Character:MoveTo(game:GetService("Players").LocalPlayer.SpawnPos.Value.p)
+wait(3)
+game:GetService("ReplicatedStorage").Events.PlayerHiveCommand:FireServer("ToggleHoneyMaking")
+repeat wait(.1) until player.CoreStats.Pollen.Value <= 1
+wait(7)                      
+sanghuman.CFrame = sangzboi * CFrame.new(0,0,0)
+wait(1)
+local A = {
+["Name"] = "Sprinkler Builder"
+}
+local Event = game:GetService("ReplicatedStorage").Events.PlayerActivesCommand
+Event:FireServer(A)
+wait(1)
+Voiddz(sanghuman,sangzboi)
+act6temp = false
+end
+end
+wait()
+end
+wait(1)
+until not act6
+end)
+Voiddz(sanghuman,sangzboi)
+jimmy3()   
+end
+end)
+RemoteQuest.MouseButton1Down:connect(function()
+if act5 == true then
+act5 = false
+RemoteQuest.BackgroundColor3 = blue
+RemoteQuest.Text = "Auto Quest"
+else
+act5 = true
+RemoteQuest.BackgroundColor3 = red
+RemoteQuest.Text = "Auto Quest"
+repeat
+wait(5)
+game.ReplicatedStorage.Events.BadgeEvent:FireServer("Collect", "Pepper")
+game.ReplicatedStorage.Events.BadgeEvent:FireServer("Collect", "Coconut")
+game.ReplicatedStorage.Events.BadgeEvent:FireServer("Collect", "Playtime")
+game.ReplicatedStorage.Events.BadgeEvent:FireServer("Collect", "Honey")
+game.ReplicatedStorage.Events.BadgeEvent:FireServer("Collect", "Quest")
+game.ReplicatedStorage.Events.BadgeEvent:FireServer("Collect", "Battle")
+game.ReplicatedStorage.Events.BadgeEvent:FireServer("Collect", "Ability")
+game.ReplicatedStorage.Events.BadgeEvent:FireServer("Collect", "Goo")
+game.ReplicatedStorage.Events.BadgeEvent:FireServer("Collect", "Sunflower")
+game.ReplicatedStorage.Events.BadgeEvent:FireServer("Collect", "Dandelion")
+game.ReplicatedStorage.Events.BadgeEvent:FireServer("Collect", "Mushroom")
+game.ReplicatedStorage.Events.BadgeEvent:FireServer("Collect", "Blue Flower")
+game.ReplicatedStorage.Events.BadgeEvent:FireServer("Collect", "Clover")
+game.ReplicatedStorage.Events.BadgeEvent:FireServer("Collect", "Spider")
+game.ReplicatedStorage.Events.BadgeEvent:FireServer("Collect", "Bamboo")
+game.ReplicatedStorage.Events.BadgeEvent:FireServer("Collect", "Strawberry")
+game.ReplicatedStorage.Events.BadgeEvent:FireServer("Collect", "Pineapple")
+game.ReplicatedStorage.Events.BadgeEvent:FireServer("Collect", "Pumpkin")
+game.ReplicatedStorage.Events.BadgeEvent:FireServer("Collect", "Cactus")
+game.ReplicatedStorage.Events.BadgeEvent:FireServer("Collect", "Rose")
+game.ReplicatedStorage.Events.BadgeEvent:FireServer("Collect", "Pine Tree")
+game.ReplicatedStorage.Events.BadgeEvent:FireServer("Collect", "Stump")
+game.ReplicatedStorage.Events.ToyEvent:FireServer("Glue Dispenser")
+game.ReplicatedStorage.Events.ToyEvent:FireServer("Free Royal Jelly Dispenser")
+game.ReplicatedStorage.Events.ToyEvent:FireServer("Blueberry Dispenser")
+game.ReplicatedStorage.Events.ToyEvent:FireServer("Strawberry Dispenser")
+game.ReplicatedStorage.Events.ToyEvent:FireServer("Treat Dispenser")
+game.ReplicatedStorage.Events.ToyEvent:FireServer("Wealth Clock")
+game.ReplicatedStorage.Events.CompleteQuestFromPool:FireServer("Brown Bear")
+game.ReplicatedStorage.Events.CompleteQuestFromPool:FireServer("Polar Bear")
+game.ReplicatedStorage.Events.CompleteQuestFromPool:FireServer("Honey Bee")
+game.ReplicatedStorage.Events.CompleteQuestFromPool:FireServer("Black Bear")
+game.ReplicatedStorage.Events.CompleteQuestFromPool:FireServer("Bucko Bee")
+game.ReplicatedStorage.Events.CompleteQuestFromPool:FireServer("Riley Bee")
+game.ReplicatedStorage.Events.GiveQuestFromPool:FireServer("Brown Bear")
+game.ReplicatedStorage.Events.GiveQuestFromPool:FireServer("Polar Bear")
+game.ReplicatedStorage.Events.GiveQuestFromPool:FireServer("Honey Bee")
+game.ReplicatedStorage.Events.GiveQuestFromPool:FireServer("Black Bear")
+game.ReplicatedStorage.Events.GiveQuestFromPool:FireServer("Bucko Bee")
+game.ReplicatedStorage.Events.GiveQuestFromPool:FireServer("Riley Bee")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Treat Tutorial")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Treat Tutorial")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Bonding With Bees")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Bonding With Bees")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Search For A Sunflower Seed")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Search For A Sunflower Seed")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("The Gist Of Jellies")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("The Gist Of Jellies")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Search For Strawberries")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Search For Strawberries")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Binging On Blueberries")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Binging On Blueberries")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Royal Jelly Jamboree")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Royal Jelly Jamboree")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Search For Sunflower Seeds")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Search For Sunflower Seeds")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Picking Out Pineapples")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Picking Out Pineapples")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Seven To Seven")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Seven To Seven")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Mother Bears Midterm")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Mother Bears Midterm")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Eight To Eight")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Eight To Eight")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Sights On The Stars")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Sights On The Stars")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("The Family Final")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("The Family Final")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Preliminary Research")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Preliminary Research")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Biology Study")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Biology Study")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Proving The Hypothesis")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Proving The Hypothesis")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Bear Botany")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Bear Botany")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Kingdom Collection")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Kingdom Collection")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Defensive Adaptions")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Devensive Adaptions")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Benefits Of Technology")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Benefits Of Technology")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Spider Study")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Spider Study")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Roses And Weeds")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Roses And Weeds")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Blue Review")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Blue Review")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Ongoing Progress")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Ongoing Progress")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Red / Blue Duality")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Red / Blue Duality")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Costs Of Computation")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Costs Of Computation")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Pollination Practice")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Pollination Practice")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Optimizing Abilities")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Optimizing Abilities")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Ready For Infrared")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Ready For Infrared")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Breaking Down Badges")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Breaking Down Badges")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Subsidized Agriculture")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Subsidized Agriculture")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Meticulously Crafted")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Meticulously Crafted")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Smart, Not Hard")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Smart, Not Hard")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Limits of Language")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Limits of Language")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Patterns and Probability")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Patterns and Probability")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Chemical Analysis")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Chemical Analysis")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Mark Mechanics")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Mark Mechanics")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Meditating On Phenomenon")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Meditating On Phenomenon")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Beesperanto")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Beesperanto")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Hive Minded Bias")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Hive Minded Bias")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Mushroom Measurement Monotony")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Mushroom Measurement Monotony")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("The Power Of Information")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("The Power Of Information")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Testing Teamwork")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Testing Teamwork")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Epistemological Endeavor")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Epistemological Endeavor")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Egg Hunt: Panda Bear")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Egg Hunt: Panda Bear")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Lesson On Ladybugs")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Lesson On Ladybugs")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Rhino Rumble")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Rhino Rumble")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Beetle Battle")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Beetle Battle")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Spider Slayer")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Spider Slayer")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Ladybug Bonker")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Ladybug Bonker")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Spider Slayer 2")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Spider Slayer 2")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Rhino Wrecking")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Rhino Wrecking")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Final Showdown")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Final Showdown")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Werewolf Hunter")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Werewolf Hunter")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Skirmish with Scorpions")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Skirmish with Scorpions")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Mantis Massacre")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Mantis Massacre")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("The REAL Final Showdown")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("The REAL Final Showdown")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Ant Arrival")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Ant Arrival")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Winged Wack Attack")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Winged Wack Attack")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Fire Fighter")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Fire Fighter")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Army Ant Assault")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Army Ant Assault")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Colossal Combat")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Colossal Combat")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Eager Exterminator")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Eager Exterminator")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Leaper Lickin'")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Leaper Lickin'")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Colossal Combat 2")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Colossal Combat 2")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Outrageous Onslaught")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Outrageous Onslaught")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Royal Rumble")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Royal Rumble")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Ultimate Ant Annihilation 1")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Ultimate Ant Annihilation 1")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Ultimate Ant Annihilation 2")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Ultimate Ant Annihilation 2")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Ultimate Ant Annihilation 3")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Ultimate Ant Annihilation 3")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Ultimate Ant Annihilation 4")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Ultimate Ant Annihilation 4")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Ultimate Ant Annihilation 5")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Ultimate Ant Annihilation 5")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Star Journey 1")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Star Journey 1")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Star Journey 2")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Star Journey 2")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Star Journey 3")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Star Journey 3")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Star Journey 4")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Star Journey 4")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Star Journey 5")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Star Journey 5")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Egg Hunt: Riley Bee")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Egg Hunt: Riley Bee")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Egg Hunt: Bucko Bee")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Egg Hunt: Bucko Bee")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Sunflower Start")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Sunflower Start")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Dandelion Deed")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Dandelion Deed")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Pollen Fetcher")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Pollen Fetcher")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Red Request")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Red Request")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Into The Blue")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Into The Blue")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Variety Fetcher")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Variety Fetcher")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Bamboo Boogie")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Bamboo Boogie")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Red Request 2")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Red Request 2")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Cobweb Sweeper")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Cobweb Sweeper")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Leisure Loot")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Leisure Loot")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("White Pollen Wrangler")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("White Pollen Wrangler")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Pineapple Picking")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Pineapple Picking")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Pollen Fetcher 2")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Pollen Fetcher 2")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Weed Wacker")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Weed Wacker")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Red + Blue = Gold")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Red + Blue = Gold")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Colorless Collection")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Colorless Collection")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Spirit of Springtime")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Spirit of Springtime")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Weed Wacker 2")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Weed Wacker 2")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Pollen Fetcher 3")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Pollen Fetcher 3")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Lucky Landscaping")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Lucky Landscaping")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Azure Adventure")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Azure Adventure")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Pink Pineapples")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Pink Pineapples")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Blue Mushrooms")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Blue Mushrooms")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Cobweb Sweeper 2")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Cobweb Sweeper 2")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Rojo-A-Go-Go")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Rojo-A-Go-Go")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Pumpkin Plower")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Pumpkin Plower")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Pollen Fetcher 4")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Pollen Fetcher 4")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Bouncing Around Biomes")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Bouncing Around Biomes")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Blue Pineapples")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Blue Pineapples")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Rose Request")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Rose Request")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Search For The White Clover")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Search For The White Clover")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Stomping Grounds")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Stomping Grounds")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Collecting Cliffside")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Collecting Cliffside")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Mountain Meandering")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Mountain Meandering")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Quest Of Legends")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Quest Of Legends")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("High Altitude")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("High Altitude")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Blissfully Blue")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Blissfully Blue")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Rouge Round-up")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Rouge Round-up")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("White As Snow")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("White As Snow")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Solo On The Stump")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Solo On The Stump")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Colorful Craving")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Colorful Craving")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Pumpkins, Please!")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Pumpkins, Please!")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Smorgasbord")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Smorgasbord")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Pollen Fetcher 5")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Pollen Fetcher 5")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("White Clover Redux")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("White Clover Redux")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Strawberry Field Forever")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Strawberry Field Forever")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Tasting The Sky")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Tasting The Sky")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Whispy and Crispy")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Whispy and Crispy")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Walk Through The Woods")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Walk Through The Woods")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Get Red-y")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Get Red-y")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("One Stop On The Tip Top")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("One Stop On The Tip Top")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Blue Mushrooms 2")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Blue Mushrooms 2")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Pretty Pumpkins")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Pretty Pumpkins")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Black Bear, Why?")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Black Bear, Why?")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Bee A Star")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Bee A Star")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Spirit's Starter")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Spirit's Starter")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("The First Offering")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("The First Offering")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Rules of The Road")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Rules of The Road")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("QR Quest")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("QR Quest")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Pleasant Pastimes")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Pleasant Pastimes")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Nature's Lessons")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Nature's Lessons")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("The Gifts Of Life")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("The Gifts Of Life")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Out-Questing Questions")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Out-Questing Questions")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Forcefully Friendly")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Forcefully Friendly")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Sway Away")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Sway Away")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Memories of Memories")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Memories of Memories")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Beans Becoming")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Beans Becoming")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Do You Bee-lieve In Magic?")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Do You Bee-lieve In Magic?")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("The Ways Of The Winds / The Wind And Its Way")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("The Ways Of The Winds / The Wind And Its Way")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Beauty Duty")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Beauty Duty")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Witness Grandeur")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Witness Grandeur")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Beeternity")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Beeternity")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("A Breath Of Blue")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("A Breath Of Blue")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Glory Of Goo")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Glory Of Goo")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Tickle The Wind")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Tickle The Wind")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Rhubarb That Could Have Been")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Rhubarb That Could Have Been")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Dreams Of Being A Bee")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Dreams Of Being A Bee")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("The Sky Over The Stump")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("The Sky Over The Stump")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Space Oblivion")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Space Oblivion")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Pollenpalooza")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Pollenpalooza")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Dancing With Stick Bug")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Dancing With Stick Bug")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Bean Bug Busser")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Bean Bug Busser")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Bombs, Blueberries, and Bean Bugs")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Bombs, Blueberries, and Bean Bugs")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Bean Bugs And Boosts")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Bean Bugs And Boosts")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Make It Hasty")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Make It Hasty")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Total Focus")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Total Focus")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("On Your Marks")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("On Your Marks")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Look In The Leaves")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Look In The Leaves")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("What About Sprouts")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("What About Sprouts")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Bean Bug Beatdown")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Bean Bug Beatdown")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Bear Without Despair")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Bear Without Despair")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Spirit Spree")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Spirit Spree")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Echoing Call")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Echoing Call")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Spring Out Of The Mountain")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Spring Out Of The Mountain")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Riley Bee: Goo")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Riley Bee: Goo")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Riley Bee: Medley")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Riley Bee: Medley")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Riley Bee: Mushrooms")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Riley Bee: Mushrooms")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Riley Bee: Picnic")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Riley Bee: Picnic")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Riley Bee: Pollen")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Riley Bee: Pollen")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Riley Bee: Rampage")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Riley Bee: Rampage")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Riley Bee: Roses")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Riley Bee: Roses")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Riley Bee: Scavenge")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Riley Bee: Scavenge")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Riley Bee: Skirmish")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Riley Bee: Skirmish")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Riley Bee: Strawberries")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Riley Bee: Strawberries")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Riley Bee: Tango")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Riley Bee: Tango")
+game.ReplicatedStorage.Events.GiveQuest:FireServer("Riley Bee: Tour")
+game.ReplicatedStorage.Events.CompleteQuest:FireServer("Riley Bee: Tour")
+until not act5
+end
+end)
+spawn(function()
+while wait() do
+local truonghopdacbiet = 675056229
+local truonghopdacbiet2 = "quocvietht456"
+if game.Players.LocalPlayer.UserId == truonghopdacbiet or game.Players.LocalPlayer.Name == truonghopdacbiet2 then
+    if act6 == true or act5 == true or afksnail == true or killvici == true or Sparkles == true or tornado == true or dispenser == true or killtunell == true or killcoconut == true or item == true or tpwindy == true or Windy == true then
+        game.Players.LocalPlayer:Kick("Xai xai cdmm")
+end
+end
+end
+end)
+ 
+Killstumnail.MouseButton1Down:connect(function()
+if afksnail == false then
+afksnail = true
+Killstumnail.BackgroundColor3 = red
+MainPage.Visible = false
+Close.Text ="+"
+local test = "C"
+local tweenservice = game:GetService("TweenService")
+local plr = game.Players.LocalPlayer
+local info = TweenInfo.new(0.1) -- change to how long it takes to get to the item (in seconds)
+local item = {}
+while afksnail do
+wait(1)    
+for _,v in pairs(game.workspace:GetDescendants()) do
+if string.find(v.Name,"LeafBurst") then
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.Parent.CFrame * CFrame.new(0,0,0)
+end
+end
+for k,v in pairs(workspace.Collectibles:GetChildren()) do
+ if tostring(v) == tostring(game.Players.LocalPlayer.Name) or tostring(v) == test then
+                        if (v.Position-plr.Character.HumanoidRootPart.Position).magnitude <= 60 then
+item.CFrame = CFrame.new(v.Position.x,plr.Character.HumanoidRootPart.Position.y,v.Position.z)
+local Tween = tweenservice:Create(plr.Character.HumanoidRootPart, info, item)
+Tween:Play()
+end
+end
+end
+end
+else
+afksnail = false
+Killstumnail.BackgroundColor3 = blue
+end
+end)
