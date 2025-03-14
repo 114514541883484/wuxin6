@@ -21,7 +21,7 @@ local red, CS
 SectionLeft:AddToggle("自动重生", false, function(Value)
     CS = Value
 end)
-SectionLeft:AddDropdown("选择重生次数", {280,980,1080, 1480, 2080, 2780,3580,4480,5480,6580,7780,9080,10480,11980,13580,15280,17080,18980,94980}, 0, function(Value)
+SectionLeft:AddDropdown("选择重生次数", {280,980,1080, 1480, 2080, 2780,3580,4480,5480,6580,7780,9080,10480,11980,13580,15280,17080,18980,94980,1187480}, 0, function(Value)
     red = Value
 end)
 ------------------------------------------
