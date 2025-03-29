@@ -1,54 +1,79 @@
 local redzlib = loadstring(game:HttpGet("https://raw.github.com/f20i30s40h/Library/main/Redz"))()
 local Window = redzlib:New("脚本名", "副名", false)
-
-local Tab1 = Window:Tab("Tab名", "cool")
-
-Tab1:Button("Button", function()
-
-end)
-Tab1:Toggle("Toggle", false, function(a)
-
-end)
-Tab1:Slider("Slider", 0, 200, 50, function()
-
-end)
-Tab1:Textbox("Textbox", function()
-
-end)
-Tab1:Dropdown("Dropdown", {"A", "B"}, "A", function(a)
-
-end)
-Tab1:DiscordInvite("Discord", nil, "dc链接")
-
-local red, CS
-Tab1:Toggle("自动重生", false, function(Value)
-    CS = Value
-end)
-Tab1:Dropdown("选择重生次数", {980,1080, 1480, 2080, 2780,3580,4480,5480,6580,7780,9080,10480,11980,13580,15280,17080,18980,94980}, 0, function(Value)
-    red = Value
-end)
-
-local CD
-Tab1:Toggle("自动锻炼",  false, function(a)
-    if game:GetService("Players").LocalPlayer.muscleEvent:FireServer("rep") then 
-        game:GetService("Players").LocalPlayer.muscleEvent:FireServer("rep")
-    end
-    if a then
-        if CD then
-            CD:Disconnect()
-            CD = nil
+--------------------------------------------------------------------------------------------------
+local Tab1 = Window:Tab("打石头", "cool")
+local Tab2 = Window:Tab("自动重生", "cool")
+local Tab3 = Window:Tab("刷业报", "cool")
+local Tab4 = Window:Tab("吃蛋", "cool")
+local Tab5 = Window:Tab("传送", "cool")
+local Tab6 = Window:Tab("Tab名", "cool")
+local Tab7 = Window:Tab("Tab名", "cool")
+--------------------------------------------------------------------------------------------------
+Tab1:Toggle("自动打绿石头", false, function(a)
+    if game.Players.LocalPlayer.Durability.Value >= 5000000 then
+        getgenv().a = a
+        while getgenv().a do
+        wait()
+        for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+        if v:IsA("Tool") and v.Name == "Punch" then
+        game.Players.LocalPlayer.Character:WaitForChild("Humanoid"):EquipTool(v)
         end
-        CD = game:GetService("RunService").Heartbeat:Connect(function()
-            if game:GetService("Players").LocalPlayer.muscleEvent:FireServer("rep") then
-                game:GetService("Players").LocalPlayer.muscleEvent:FireServer("rep"):Activate()
-            end
-            if not a then
-                CD:Disconnect()
-            end
+        end
+        for i,h in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+        if h:IsA("Tool") and h.Name == "Punch" then
+        h:Activate()
+        end
+        end
+        game.Players.LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = CFrame.new(-8957.54395, 5.53625107, -6126.90186, -0.803919137, 6.6065212e-08, 0.594738603, -8.93136143e-09, 1, -1.23155459e-07, -0.594738603, -1.04318865e-07, -0.803919137)
+        end
+        if not getgenv().a then
+        game.Players.LocalPlayer.Character:WaitForChild("Humanoid"):UnequipTools()
+        end
+        end
         end)
+
+Tab1:Toggle("自动打白石头", false, function(A)
+            if game.Players.LocalPlayer.Durability.Value >= 1000000 then
+        getgenv().A = A
+        while getgenv().A do
+        wait()
+        for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+        if v:IsA("Tool") and v.Name == "Punch" then
+        game.Players.LocalPlayer.Character:WaitForChild("Humanoid"):EquipTool(v)
+        end
+        end
+        for i,h in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+        if h:IsA("Tool") and h.Name == "Punch" then
+        h:Activate()
+        end
+        end
+        game.Players.LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = CFrame.new(4160.87109, 987.829102, -4136.64502, -0.893115997, 1.25481356e-05, 0.44982639, 5.02490684e-06, 1, -1.79187136e-05, -0.44982639, -1.37431543e-05, -0.893115997)
+        end
+        if not getgenv().A then
+        game.Players.LocalPlayer.Character:WaitForChild("Humanoid"):UnequipTools()
+        end
+        end
+        end)
+
+noCD = false
+punchCooldown = 0.35
+Tab1:Toggle("挥拳无间隔", false, function(A)
+    noCD = A
+    if noCD then
+        game:GetService("Players").LocalPlayer.Backpack.Punch:FindFirstChildOfClass("NumberValue").Value = 0
+    else
+        game:GetService("Players").LocalPlayer.Backpack.Punch:FindFirstChildOfClass("NumberValue").Value = punchCooldown
     end
 end)
-
+--------------------------------------------------------------------------------------------------
+CS= false
+Tab1:Toggle("自动重生", false, function(A)
+    CS = A
+end)
+red= false
+Tab1:Textbox("重生次数", function(a)
+   red = a
+end)
 repeat
     task.wait()
     if CS then
@@ -56,3 +81,58 @@ repeat
     end
 until
     game:GetService("Players").LocalPlayer.leaderstats.Rebirths.Value == red
+--------------------------------------------------------------------------------------------------
+autopunch = false
+Tab3:Toggle("自动挥拳", false, function(A)
+    autopunch = A
+    game:GetService("RunService").Stepped:connect(
+    function()
+        pcall(
+            function()
+                if autopunch then
+                    game.Players.LocalPlayer.Character.Humanoid:ChangeState(11)
+                    game:GetService("Players").LocalPlayer.muscleEvent:FireServer("punch", "leftHand")
+                    game:GetService("Players").LocalPlayer.muscleEvent:FireServer("punch", "rightHand")
+                    if autopunch then
+                        game.Players.LocalPlayer.Character.Humanoid:EquipTool(
+                            game:GetService("Players").LocalPlayer.Backpack.Punch
+                        )
+                    end
+                end
+
+            end
+        )
+    end
+    )
+end)
+
+br = false
+Tab3:Toggle("刷业报和自动挥拳一起才有效果", false, function(A)
+br = A
+		while br do
+			local randomPlayer = game.Players:GetPlayers()[math.random(1, #game.Players:GetPlayers())]
+			wait(0.2)
+			game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame =
+				CFrame.new(
+					Vector3.new(
+						randomPlayer.Character.Head.Position.X,
+						randomPlayer.Character.Head.Position.Y,
+						randomPlayer.Character.Head.Position.Z
+					)
+				)
+		end
+end)
+--------------------------------------------------------------------------------------------------
+Tab4:Toggle("自动吃蛋", false, function(A)
+    _G.autofodeg = a
+    while true do
+        if not game.Players.LocalPlayer.boostTimersFolder:FindFirstChild("Protein Egg") then
+            game.Players.LocalPlayer.Character.Humanoid:EquipTool(game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Protein Egg"))
+            end
+    end
+end)
+
+--------------------------------------------------------------------------------------------------
+Tab5:Dropdown("选择传送地点", {"肌肉房", "B"}, "0", function(a)
+ ["肌肉房"] =game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8625.9296875, 13.566278457641602, -5730.4736328125) = a
+end)
