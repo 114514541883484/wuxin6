@@ -21,10 +21,10 @@ end)
 Tab1:DiscordInvite("Discord", nil, "dc链接")
 
 local red, CS
-Tab1:AddToggle("自动重生", false, function(Value)
+Tab1:Toggle("自动重生", false, function(Value)
     CS = Value
 end)
-Tab1:AddDropdown("选择重生次数", {980,1080, 1480, 2080, 2780,3580,4480,5480,6580,7780,9080,10480,11980,13580,15280,17080,18980,94980}, 0, function(Value)
+Tab1:Dropdown("选择重生次数", {980,1080, 1480, 2080, 2780,3580,4480,5480,6580,7780,9080,10480,11980,13580,15280,17080,18980,94980}, 0, function(Value)
     red = Value
 end)
 
