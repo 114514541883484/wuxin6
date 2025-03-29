@@ -19,3 +19,40 @@ Tab1:Dropdown("Dropdown", {"A", "B"}, "A", function(a)
 
 end)
 Tab1:DiscordInvite("Discord", nil, "dc链接")
+
+local red, CS
+Tab1:AddToggle("自动重生", false, function(Value)
+    CS = Value
+end)
+Tab1:AddDropdown("选择重生次数", {980,1080, 1480, 2080, 2780,3580,4480,5480,6580,7780,9080,10480,11980,13580,15280,17080,18980,94980}, 0, function(Value)
+    red = Value
+end)
+
+local CD
+Tab1:Toggle("自动锻炼",  false, function(a)
+    if game:GetService("Players").LocalPlayer.muscleEvent:FireServer("rep") then 
+        game:GetService("Players").LocalPlayer.muscleEvent:FireServer("rep")
+    end
+    if a then
+        if CD then
+            CD:Disconnect()
+            CD = nil
+        end
+        CD = game:GetService("RunService").Heartbeat:Connect(function()
+            if game:GetService("Players").LocalPlayer.muscleEvent:FireServer("rep") then
+                game:GetService("Players").LocalPlayer.muscleEvent:FireServer("rep"):Activate()
+            end
+            if not a then
+                CD:Disconnect()
+            end
+        end)
+    end
+end)
+
+repeat
+    task.wait()
+    if CS then
+        game:GetService("ReplicatedStorage").rEvents.rebirthRemote:InvokeServer("rebirthRequest")
+    end
+until
+    game:GetService("Players").LocalPlayer.leaderstats.Rebirths.Value == red
