@@ -1,9 +1,18 @@
 local redzlib = loadstring(game:HttpGet("https://raw.github.com/f20i30s40h/Library/main/Redz"))()
 local Window = redzlib:New("wave", "力量传奇", false)
+print("反挂机已开启")
+Start = tick()
+		local vu = game:GetService("VirtualUser")
+		game:GetService("Players").LocalPlayer.Idled:connect(function()
+		   vu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+		   wait(1)
+		   vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+		end)
 --------------------------------------------------------------------------------------------------
 local Tab1 = Window:Tab("吃蛋", "cool")
 local Tab2 = Window:Tab("自动重生", "cool")
 local Tab3 = Window:Tab("刷业报", "cool")
+local Tab4 = Window:Tab("自动锻炼", "cool")
 --------------------------------------------------------------------------------------------------
 Tab1:Toggle("自动吃蛋", false, function(A)
     while A == true do
@@ -17,6 +26,7 @@ Tab1:Toggle("自动吃蛋", false, function(A)
     end
 end)
 --------------------------------------------------------------------------------------------------
+local red, CS
 Tab2:Toggle("自动重生", false, function(A)
     CS = A
 end)
@@ -65,7 +75,7 @@ br = A
 		end
 end)
 punchCooldown = 0.35
-Tab3:Toggle("挥拳无间隔", false, function(A)
+Tab1:Toggle("挥拳无间隔", false, function(A)
     noCD = A
     if noCD then
         game:GetService("Players").LocalPlayer.Backpack.Punch:FindFirstChildOfClass("NumberValue").Value = 0
@@ -73,7 +83,28 @@ Tab3:Toggle("挥拳无间隔", false, function(A)
         game:GetService("Players").LocalPlayer.Backpack.Punch:FindFirstChildOfClass("NumberValue").Value = punchCooldown
     end
 end)
-
+--------------------------------------------------------------------------------------------------
+local CD
+Tab4:Toggle("自动锻炼", false, function(a)
+    if game:GetService("Players").LocalPlayer.muscleEvent:FireServer("rep") then 
+        game:GetService("Players").LocalPlayer.muscleEvent:FireServer("rep")
+    end
+    if a then
+        if CD then
+            CD:Disconnect()
+            CD = nil
+        end
+        CD = game:GetService("RunService").Heartbeat:Connect(function()
+            if game:GetService("Players").LocalPlayer.muscleEvent:FireServer("rep") then
+                game:GetService("Players").LocalPlayer.muscleEvent:FireServer("rep"):Activate()
+            end
+            if not a then
+                CD:Disconnect()
+            end
+        end)
+    end
+end)
+--------------------------------------------------------------------------------------------
 repeat
     task.wait()
     if CS then
