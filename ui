@@ -1,0 +1,21 @@
+local redzlib = loadstring(game:HttpGet("https://raw.github.com/f20i30s40h/Library/main/Redz"))()
+local Window = redzlib:New("脚本名", "副名", false)
+
+local Tab1 = Window:Tab("Tab名", "cool")
+
+Tab1:Button("Button", function()
+
+end)
+Tab1:Toggle("Toggle", false, function(a)
+
+end)
+Tab1:Slider("Slider", 0, 200, 50, function()
+
+end)
+Tab1:Textbox("Textbox", function()
+
+end)
+Tab1:Dropdown("Dropdown", {"A", "B"}, "A", function(a)
+
+end)
+Tab1:DiscordInvite("Discord", nil, "dc链接")
