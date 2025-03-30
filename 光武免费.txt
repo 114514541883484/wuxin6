@@ -117,7 +117,7 @@ tab3:AddToggle("挥拳无间隔", false, function(A)
     end
 end)
 ------------------------------------------
-tab4:AddToggle("肌肉房",function()
+tab4:AddButton("肌肉房",function()
     game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8625.9296875, 13.566278457641602, -5730.4736328125)
 end)
 tab4:AddButton("传奇房",function()
@@ -141,9 +141,38 @@ end)
 ------------------------------------------
 tab5:AddToggle("买暗星", false, function(A)
 	while A == true do
+		task.wait()
         game:GetService("ReplicatedStorage").cPetShopRemote:InvokeServer(game:GetService("ReplicatedStorage").cPetShopFolder:FindFirstChild("Darkstar Hunter"))
-        end
-        task.wait()
+    end
+end)
+tab5:AddToggle("买赛博龙", false, function(A)
+	while A == true do
+		task.wait()
+        game:GetService("ReplicatedStorage").cPetShopRemote:InvokeServer(game:GetService("ReplicatedStorage").cPetShopFolder:FindFirstChild("Cybernetic Showdown Dragon"))
+    end
+end)
+tab5:AddToggle("买肌肉之王", false, function(A)
+	while A == true do
+		task.wait()
+        game:GetService("ReplicatedStorage").cPetShopRemote:InvokeServer(game:GetService("ReplicatedStorage").cPetShopFolder:FindFirstChild("Muscle King"))
+    end
+end)
+tab5:AddToggle("买力量师傅", false, function(A)
+	while A == true do
+		task.wait()
+        game:GetService("ReplicatedStorage").cPetShopRemote:InvokeServer(game:GetService("ReplicatedStorage").cPetShopFolder:FindFirstChild("Muscle Sensei"))
+    end
+end)
+tab5:AddToggle("买狂热爆炸", false, function(A)
+	while A == true do
+		task.wait()
+        game:GetService("ReplicatedStorage").cPetShopRemote:InvokeServer(game:GetService("ReplicatedStorage").cPetShopFolder:FindFirstChild("Entropic Blast"))
+    end
+end)
+tab5:AddToggle("买守护者", false, function(A)
+	while A == true do
+		task.wait()
+        game:GetService("ReplicatedStorage").cPetShopRemote:InvokeServer(game:GetService("ReplicatedStorage").cPetShopFolder:FindFirstChild("Neon Guardian"))
     end
 end)
 ------------------------------------------
