@@ -13,7 +13,8 @@ local  A = Window:AddTab('重生')
 local  B = Window:AddTab('锻炼')
 local  C = Window:AddTab('业报')
 local  D = Window:AddTab('传送')
-local  E = Window:AddTab('传送')
+local  E = Window:AddTab('买宠物')
+local  F = Window:AddTab('简介')
 ------------------------------------------
 local tab = A:AddSection('重生',"left")
 local tab1 = A:AddSection('吃蛋',"right")
@@ -25,6 +26,8 @@ local tab3 = C:AddSection('业报',"left")
 local tab4 = D:AddSection('传送',"left")
 ------------------------------------------
 local tab5 = E:AddSection('买宠物',"left")
+------------------------------------------
+local tab6 = F:AddSection('简介',"left")
 ------------------------------------------
 local red, CS
 tab:AddToggle("自动重生", false, function(Value)
@@ -175,6 +178,10 @@ tab5:AddToggle("买守护者", false, function(A)
         game:GetService("ReplicatedStorage").cPetShopRemote:InvokeServer(game:GetService("ReplicatedStorage").cPetShopFolder:FindFirstChild("Neon Guardian"))
     end
 end)
+------------------------------------------
+tab6:AddLabel('作者：狗蛋')
+tab6:AddLabel('挂有三分毒，封了勿怪谁')
+tab6:AddLabel('花有重开日，人无再少年')
 ------------------------------------------
 	repeat
     task.wait()
