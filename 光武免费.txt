@@ -15,26 +15,25 @@ local  C = Window:AddTab('业报')
 local  D = Window:AddTab('传送')
 local  E = Window:AddTab('传送')
 ------------------------------------------
-local A = A:AddSection('重生',"left")
-local a = A:AddSection('吃蛋',"right")
+local tab = A:AddSection('重生',"left")
+local tab1 = A:AddSection('吃蛋',"right")
 ------------------------------------------
-local B = B:AddSection('锻炼',"left")
-local b = B:AddSection('锻炼',"right")
+local tab2 = B:AddSection('锻炼',"left")
 ------------------------------------------
-local C = C:AddSection('业报',"left")
+local tab3 = C:AddSection('业报',"left")
 ------------------------------------------
-local D = D:AddSection('传送',"left")
+local tab4 = D:AddSection('传送',"left")
 ------------------------------------------
-local E = E:AddSection('买宠物',"left")
+local tab5 = E:AddSection('买宠物',"left")
 ------------------------------------------
 local red, CS
-A:AddToggle("自动重生", false, function(Value)
+tab:AddToggle("自动重生", false, function(Value)
     CS = Value
 end)
-A:AddDropdown("选择重生次数", {280,980,1080, 1480, 2080, 2780,3580,4480,5480,6580,7780,9080,10480,11980,13580,15280,17080,18980,94980,1187480}, 0, function(Value)
+tab:AddDropdown("选择重生次数", {280,980,1080, 1480, 2080, 2780,3580,4480,5480,6580,7780,9080,10480,11980,13580,15280,17080,18980,94980,1187480}, 0, function(Value)
     red = Value
 end)
-a:AddToggle("自动吃蛋", false, function(A)
+tab1:AddToggle("自动吃蛋", false, function(A)
 	while A == true do
         if not game.Players.LocalPlayer.Character:FindFirstChild("Protein Egg") then
             game:GetService("Players").LocalPlayer.Character.Humanoid:EquipTool(game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Protein Egg"))
@@ -46,7 +45,7 @@ a:AddToggle("自动吃蛋", false, function(A)
     end
 end)
 ------------------------------------------
-B:AddToggle("自动锻炼", false, function(a)
+tab2:AddToggle("自动锻炼", false, function(a)
     if a then
         if CD then
             CD:Disconnect()
@@ -70,7 +69,7 @@ B:AddToggle("自动锻炼", false, function(a)
 end)
 ------------------------------------------
 autopunch = false
-C:AddToggle("自动挥拳", false, function(Value)
+tab3:AddToggle("自动挥拳", false, function(Value)
     autopunch = A
     game:GetService("RunService").Stepped:connect(
     function()
@@ -93,7 +92,7 @@ C:AddToggle("自动挥拳", false, function(Value)
     )
 end)
 br = false
-c:AddToggle("刷业报和自动挥拳一起才有效果", false, function(A)
+tab3:AddToggle("刷业报和自动挥拳一起才有效果", false, function(A)
 br = A
 		while br do
 			local randomPlayer = game.Players:GetPlayers()[math.random(1, #game.Players:GetPlayers())]
@@ -109,7 +108,7 @@ br = A
 		end
 end)
 punchCooldown = 0.35
-C:AddToggle("挥拳无间隔", false, function(A)
+tab3:AddToggle("挥拳无间隔", false, function(A)
     noCD = A
     if noCD then
         game:GetService("Players").LocalPlayer.Backpack.Punch:FindFirstChildOfClass("NumberValue").Value = 0
@@ -118,29 +117,29 @@ C:AddToggle("挥拳无间隔", false, function(A)
     end
 end)
 ------------------------------------------
-D:AddToggle("肌肉房",function()
+tab4:AddToggle("肌肉房",function()
     game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8625.9296875, 13.566278457641602, -5730.4736328125)
 end)
-D:AddButton("传奇房",function()
+tab4:AddButton("传奇房",function()
     game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(4603.28173828125, 987.869140625, -3897.86572265625)
 end)
-D:AddButton("永恒房",function()
+tab4:AddButton("永恒房",function()
     game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-6758.9638671875, 3.71626353263855, -1284.918701171875)
 end)
-D:AddButton("神话房",function()
+tab4:AddButton("神话房",function()
     game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2250.778076171875, 3.716248035430908, 1073.2266845703125)
 end)
-D:AddButton("冰霜房",function()
+tab4:AddButton("冰霜房",function()
     game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2623.022216796875, 3.716249465942383, -409.0733337402344)
 end)
-D:AddButton("小岛",function()
+tab4:AddButton("小岛",function()
     game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-37.636775970458984, 3.86960768699646, 1879.180908203125)
 end)
-D:AddButton("沙滩",function()
+tab4:AddButton("沙滩",function()
 	game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-42.7, 3.7, 404.2)
 end)
 ------------------------------------------
-E:AddToggle("买暗星", false, function(A)
+tab5:AddToggle("买暗星", false, function(A)
 	while A == true do
         game:GetService("ReplicatedStorage").cPetShopRemote:InvokeServer(game:GetService("ReplicatedStorage").cPetShopFolder:FindFirstChild("Darkstar Hunter"))
         end
